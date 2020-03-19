@@ -1,0 +1,10 @@
+name = "caleb-www-theme"
+description = "Theme for caleb-www blog"
+homepage = "www.calebschoepp.com"
+tags = ["Hugo", "Tailwindcss", "theme", "starter"]
+features = []
+min_version = "0.0.1"
+
+[author]
+  name = "Caleb Schoepp"
+  homepage = "www.calebschoepp.com"
