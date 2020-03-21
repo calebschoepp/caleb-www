@@ -1,11 +1,9 @@
-<header class="container mx-auto bg-red-200 text-center">
+<header class="bg-red-200 container mx-auto text-center">
   <h1><a class="text-4xl sm:text-6xl" href="/">Caleb Schoepp</a></h1>
   <!-- <h2 class="text-xl">engineer &middot; hacker &middot; go-getter</h2> -->
   <nav>
-    <hr class="border-t border-black" />
-    <div
-      class="flex flex-row flex-wrap items-center content-center self-center justify-center text-xl"
-    >
+    <!-- <hr class="border-t border-black" /> -->
+    <div class="inline-block border-t border-b border-black p-2 text-lg">
       <a href="/" title="Home - {{ .Site.Title }}" type="text/html">HOME</a>
       <span class="mr-2 ml-2">&middot;</span>
       <a href="/about" title="About - {{ .Site.Title }}" type="text/html"
@@ -15,20 +13,28 @@
       <a href="/projects" title="Projects - {{ .Site.Title }}" type="text/html"
         >PROJECTS</a
       >
-      <span class="mr-2 ml-2">&middot;</span>
-      <a href="/blog" title="Blog - {{ .Site.Title }}" type="text/html">BLOG</a>
-      <span class="mr-2 ml-2">&middot;</span>
-      <a href="/resume.pdf" title="Resume - {{ .Site.Title }}" type="text/html"
+      <span class="hidden sm:inline mr-2 ml-2">&middot;</span>
+      <br class="sm:hidden" />
+      <a
+        class="inline-block"
+        href="/blog"
+        title="Blog - {{ .Site.Title }}"
+        type="text/html"
+        >BLOG</a
+      >
+      <span class="mr-2 ml-2 inline-block">&middot;</span>
+      <a
+        class="inline-block"
+        href="/resume.pdf"
+        title="Resume - {{ .Site.Title }}"
+        type="text/html"
         >RESUME</a
       >
     </div>
-    <hr class="border-t border-black" />
   </nav>
   <img
     src="/caleb-circle.png"
-    height="300"
-    width="300"
     alt="Picture of Caleb"
-    class="mx-auto"
+    class="mx-auto w-56 md:w-1/3 lg:w-1/4 p-4"
   />
 </header>
