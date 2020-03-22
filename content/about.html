@@ -5,9 +5,11 @@ draft: false
 layout: "about"
 ---
 
-<div class="flex flex-row items-center content-center mt-4 mb-12">
+<div
+  class="flex flex-wrap sm:flex-no-wrap flex-row items-center content-center mt-4 mb-12"
+>
   <img
-    class="mr-6"
+    class="mx-auto sm:mr-6 mb-2 sm:mb-0"
     src="/unifyid_logo.svg"
     height="128"
     width="128"
@@ -17,13 +19,23 @@ layout: "about"
     Currently I am a Software Engineer Intern at
     <a class="underline" href="https://unify.id">UnifyID</a>, a startup in
     Redwood City, California. We are working to make passive authentication a
-    reality used applied machine learning. I'm working on the backend team using
-    <b>Golang</b>, <b>Python</b>, and <b>React.js</b> to help build a reliable
-    and scalable platform for our prodcuts.
+    reality using applied machine learning. I'm working on the backend team
+    using <b>Golang</b>, <b>Python</b>, and <b>React.js</b> to help build a
+    reliable and scalable platform for our prodcuts.
   </p>
 </div>
 
-<div class="flex flex-row items-center content-center mb-12">
+<div
+  class="flex flex-wrap sm:flex-no-wrap flex-row items-center content-center mb-12"
+>
+  <!-- extra image at top for mobile case when it needs to be above -->
+  <img
+    class="sm:hidden mx-auto sm:ml-6 mb-2 sm:mb-0"
+    src="/engineering_logo.png"
+    height="128"
+    width="128"
+    alt="Engineering Logo"
+  />
   <p class="text-lg text-justify">
     I'm in my 3rd year of studying Computer Engineering at the
     <a class="underline" href="https://www.ualberta.ca"
@@ -36,7 +48,7 @@ layout: "about"
     on campus.
   </p>
   <img
-    class="ml-6"
+    class="hidden sm:block mx-auto sm:ml-6"
     src="/engineering_logo.png"
     height="128"
     width="128"
@@ -44,9 +56,11 @@ layout: "about"
   />
 </div>
 
-<div class="flex flex-row items-center content-center mb-12">
+<div
+  class="flex flex-wrap sm:flex-no-wrap flex-row items-center content-center mb-12"
+>
   <img
-    class="mr-6"
+    class="mx-auto sm:mr-6 mb-2 sm:mb-0"
     src="/microsoft_logo.png"
     height="128"
     width="128"
@@ -63,7 +77,17 @@ layout: "about"
   </p>
 </div>
 
-<div class="flex flex-row items-center content-center mb-12">
+<div
+  class="flex flex-wrap sm:flex-no-wrap flex-row items-center content-center mb-12"
+>
+  <!-- extra image at top for mobile case when it needs to be above -->
+  <img
+    class="sm:hidden mx-auto sm:ml-6 mb-2 sm:mb-0"
+    src="/mountain_icon.png"
+    height="128"
+    width="128"
+    alt="Moutain in New Zealand"
+  />
   <p class="text-lg text-justify">
     When I'm not busy with school or an internship there are a few other things
     I like to do. <b>Travel</b> is my favorite - it always open my eyes. I've
@@ -73,7 +97,7 @@ layout: "about"
     newsletters. Lately, I've been getting into flying FPV <b>drones</b>.
   </p>
   <img
-    class="ml-6"
+    class="hidden sm:block mx-auto sm:ml-6"
     src="/mountain_icon.png"
     height="128"
     width="128"
