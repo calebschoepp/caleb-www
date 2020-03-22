@@ -1,5 +1,6 @@
 {{ define "main" }}{{ range .Pages }}
 <article class="mb-4 leading-snug">
+  <!-- TODO make sure the grayness of this text matches the rest of the document -->
   <h2 class="text-xs text-gray-700">{{ dateFormat "Jan 2, 2006" .Date }}</h2>
   <h1 class="text-lg">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
