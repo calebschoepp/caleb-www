@@ -12,19 +12,16 @@ article a:hover {
   @apply text-red-800;
 }
 
-article article h1 {
-  @apply text-3xl;
-  @apply my-4;
+article h1 {
+  @apply text-4xl;
+  @apply my-10;
+  @apply leading-none;
 }
 
 article h2 {
-  @apply text-3xl;
+  @apply text-2xl;
   @apply my-4;
-}
-
-article h3 {
-  @apply text-3xl;
-  @apply my-4;
+  @apply font-semibold;
 }
 
 article img {
@@ -34,6 +31,19 @@ article img {
 
 article code {
   background-color: #f0f3f3;
+  @apply text-orange-600;
+  @apply p-1;
+}
+
+article pre {
+  @apply my-4;
+  @apply px-1;
+  overflow-x: auto;
+  @apply text-gray-800;
+}
+
+article pre code {
+  @apply text-gray-800 !important;
 }
 
 article ul {

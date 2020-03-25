@@ -644,22 +644,18 @@ article a:hover {
   color: #9b2c2c;
 }
 
-article article h1 {
-  font-size: 1.875rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+article h1 {
+  font-size: 2.25rem;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  line-height: 1;
 }
 
 article h2 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-}
-
-article h3 {
-  font-size: 1.875rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  font-weight: 600;
 }
 
 article img {
@@ -671,6 +667,21 @@ article img {
 
 article code {
   background-color: #f0f3f3;
+  color: #dd6b20;
+  padding: 0.25rem;
+}
+
+article pre {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  overflow-x: auto;
+  color: #2d3748;
+}
+
+article pre code {
+  color: #2d3748 !important;
 }
 
 article ul {

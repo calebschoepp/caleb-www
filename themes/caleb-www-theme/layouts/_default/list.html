@@ -3,7 +3,7 @@
   <!-- TODO make sure the grayness of this text matches the rest of the document -->
   <h2 class="text-xs text-gray-600">{{ dateFormat "Jan 2, 2006" .Date }}</h2>
   <h1 class="text-lg">
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a>
   </h1>
 </summary>
 {{ end }}{{ end }}
