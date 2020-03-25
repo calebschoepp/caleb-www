@@ -16,6 +16,7 @@ article h1 {
   @apply text-4xl;
   @apply my-10;
   @apply leading-none;
+  @apply text-left;
 }
 
 article h2 {
