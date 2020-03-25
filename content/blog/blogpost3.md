@@ -33,9 +33,6 @@ I can imagine using lists of all sorts:
 # Header 1
 ## Header 2
 ### Header 3 
-#### Header 4 ####
-##### Header 5 #####
-###### Header 6 ######
 
 Maybe I would even want to link to [something](www.calebschoepp.com)
 

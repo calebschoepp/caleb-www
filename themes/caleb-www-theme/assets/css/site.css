@@ -1,3 +1,44 @@
 .starter {
   color: blue;
 }
+
+p {
+  @apply text-lg;
+  @apply my-4;
+}
+
+h1 {
+  @apply text-3xl;
+  @apply my-4;
+}
+
+h2 {
+  @apply text-3xl;
+  @apply my-4;
+}
+
+h3 {
+  @apply text-3xl;
+  @apply my-4;
+}
+
+img {
+  @apply mx-auto;
+  @apply my-4;
+}
+
+code {
+  background-color: #f0f3f3;
+}
+
+ul {
+  @apply list-disc;
+  @apply list-inside;
+  @apply my-4;
+}
+
+ol {
+  @apply list-decimal;
+  @apply list-inside;
+  @apply my-4;
+}
