@@ -23,9 +23,6 @@
         "not dead"
     ],
     "dependencies": {
-        "typeface-lato": "0.0.75",
-        "typeface-open-sans": "0.0.75",
-        "typeface-ubuntu": "0.0.65",
-        "typeface-zilla-slab": "0.0.72"
+        "typeface-lato": "0.0.75"
     }
 }

@@ -629,53 +629,58 @@ video {
 
 /* Site Specific */
 
-.starter {
-  color: blue;
-}
-
-p {
+article p {
   font-size: 1.125rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-h1 {
+article a {
+  color: #e53e3e;
+  text-decoration: underline;
+}
+
+article a:hover {
+  color: #9b2c2c;
+}
+
+article article h1 {
   font-size: 1.875rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-h2 {
+article h2 {
   font-size: 1.875rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-h3 {
+article h3 {
   font-size: 1.875rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-img {
+article img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-code {
+article code {
   background-color: #f0f3f3;
 }
 
-ul {
+article ul {
   list-style-type: disc;
   list-style-position: inside;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-ol {
+article ol {
   list-style-type: decimal;
   list-style-position: inside;
   margin-top: 1rem;
@@ -3807,20 +3812,8 @@ ol {
   font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.font-opensans {
-  font-family: Open-sans, sans-serif;
-}
-
 .font-lato {
   font-family: Lato, sans-serif;
-}
-
-.font-zillaslab {
-  font-family: Zilla-slab, sans-serif;
-}
-
-.font-ubuntu {
-  font-family: Ubuntu, sans-serif;
 }
 
 .font-hairline {
@@ -17241,20 +17234,8 @@ ol {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .sm\:font-opensans {
-    font-family: Open-sans, sans-serif;
-  }
-
   .sm\:font-lato {
     font-family: Lato, sans-serif;
-  }
-
-  .sm\:font-zillaslab {
-    font-family: Zilla-slab, sans-serif;
-  }
-
-  .sm\:font-ubuntu {
-    font-family: Ubuntu, sans-serif;
   }
 
   .sm\:font-hairline {
@@ -30676,20 +30657,8 @@ ol {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .md\:font-opensans {
-    font-family: Open-sans, sans-serif;
-  }
-
   .md\:font-lato {
     font-family: Lato, sans-serif;
-  }
-
-  .md\:font-zillaslab {
-    font-family: Zilla-slab, sans-serif;
-  }
-
-  .md\:font-ubuntu {
-    font-family: Ubuntu, sans-serif;
   }
 
   .md\:font-hairline {
@@ -44111,20 +44080,8 @@ ol {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .lg\:font-opensans {
-    font-family: Open-sans, sans-serif;
-  }
-
   .lg\:font-lato {
     font-family: Lato, sans-serif;
-  }
-
-  .lg\:font-zillaslab {
-    font-family: Zilla-slab, sans-serif;
-  }
-
-  .lg\:font-ubuntu {
-    font-family: Ubuntu, sans-serif;
   }
 
   .lg\:font-hairline {
@@ -57546,20 +57503,8 @@ ol {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .xl\:font-opensans {
-    font-family: Open-sans, sans-serif;
-  }
-
   .xl\:font-lato {
     font-family: Lato, sans-serif;
-  }
-
-  .xl\:font-zillaslab {
-    font-family: Zilla-slab, sans-serif;
-  }
-
-  .xl\:font-ubuntu {
-    font-family: Ubuntu, sans-serif;
   }
 
   .xl\:font-hairline {

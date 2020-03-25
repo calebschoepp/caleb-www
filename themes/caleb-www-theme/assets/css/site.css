@@ -1,43 +1,48 @@
-.starter {
-  color: blue;
-}
-
-p {
+article p {
   @apply text-lg;
   @apply my-4;
 }
 
-h1 {
+article a {
+  @apply text-red-600;
+  @apply underline;
+}
+
+article a:hover {
+  @apply text-red-800;
+}
+
+article article h1 {
   @apply text-3xl;
   @apply my-4;
 }
 
-h2 {
+article h2 {
   @apply text-3xl;
   @apply my-4;
 }
 
-h3 {
+article h3 {
   @apply text-3xl;
   @apply my-4;
 }
 
-img {
+article img {
   @apply mx-auto;
   @apply my-4;
 }
 
-code {
+article code {
   background-color: #f0f3f3;
 }
 
-ul {
+article ul {
   @apply list-disc;
   @apply list-inside;
   @apply my-4;
 }
 
-ol {
+article ol {
   @apply list-decimal;
   @apply list-inside;
   @apply my-4;
