@@ -699,6 +699,14 @@ article ol {
   margin-bottom: 1rem;
 }
 
+/* For centered and fitted footer border */
+
+.footer-fit {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
 /* Tailwind's utility classes - generated based on config file */
 
 .sr-only {

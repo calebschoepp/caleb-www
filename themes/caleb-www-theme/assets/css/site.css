@@ -58,3 +58,8 @@ article ol {
   @apply list-inside;
   @apply my-4;
 }
+
+/* For centered and fitted footer border */
+.footer-fit {
+  width: fit-content;
+}
