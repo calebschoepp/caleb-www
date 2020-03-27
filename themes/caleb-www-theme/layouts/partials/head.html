@@ -3,6 +3,10 @@
 <title>
   {{ block "title" . }} {{- .Title }} - {{ .Site.Title -}} {{ end }}
 </title>
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 {{ if .Description }}
   <meta name="description" content="{{ .Description }}" />
 {{ end }}
