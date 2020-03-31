@@ -1,3 +1,15 @@
-{{ define "main" }}
-    <p>404 - page not found</p>
-{{ end }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{- partial "head.html" . -}}
+  <body class="font-lato text-gray-800 leading-relaxed text-center">
+    <h1 class="text-4xl sm:text-6xl mt-10">
+      404 - page not found
+    </h1>
+    <div>
+      <p class="my-6 text-3xl">
+        Take me
+        <a class="font-extrabold hover:text-gray-600" href="/">/home</a>
+      </p>
+    </div>
+  </body>
+</html>
