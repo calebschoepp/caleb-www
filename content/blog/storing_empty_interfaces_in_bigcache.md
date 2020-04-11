@@ -64,7 +64,7 @@ func (c *bigCache) Set(key, value interface{}) error {
         return err
     }
 
-	return c.cache.Set(keyString, valueBytes)
+    return c.cache.Set(keyString, valueBytes)
 }
 
 func (c *bigCache) Get(key interface{}) (interface{}, error) {
@@ -88,7 +88,6 @@ func (c *bigCache) Get(key interface{}) (interface{}, error) {
 
     return value, nil
 }
-
 ```
 
 Finally the `encoding/gob` serialization logic. Beyond the use of `register()` this is the fairly standard way to serialize things in Go.
