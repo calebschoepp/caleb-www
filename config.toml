@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Caleb Schoepp"
 theme = "caleb-www-theme"
 googleAnalytics = "UA-129268689-2"
-pygmentsCodeFences = true
-pygmentsUseClasses = false
 [markup]
   [markup.highlight]
     codeFences = true

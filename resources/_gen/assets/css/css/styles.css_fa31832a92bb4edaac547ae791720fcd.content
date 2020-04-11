@@ -629,6 +629,8 @@ video {
 
 /* Site Specific */
 
+/* purgecss start ignore */
+
 article p {
   font-size: 1.125rem;
   margin-top: 1rem;
@@ -681,7 +683,7 @@ article pre {
 }
 
 article pre code {
-  color: #2d3748 !important;
+  color: #2d3748;
 }
 
 article ul {
@@ -705,6 +707,8 @@ article ol {
   width: -moz-fit-content;
   width: fit-content;
 }
+
+/* purgecss end ignore */
 
 /* Tailwind's utility classes - generated based on config file */
 
