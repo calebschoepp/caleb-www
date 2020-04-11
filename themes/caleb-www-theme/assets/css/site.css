@@ -38,7 +38,7 @@ article code {
 
 article pre {
   @apply my-4;
-  @apply px-1;
+  @apply p-2;
   overflow-x: auto;
   @apply text-gray-800;
 }
