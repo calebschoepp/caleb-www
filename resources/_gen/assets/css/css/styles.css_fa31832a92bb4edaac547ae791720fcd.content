@@ -675,8 +675,7 @@ article code {
 article pre {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
+  padding: 0.5rem;
   overflow-x: auto;
   color: #2d3748;
 }
