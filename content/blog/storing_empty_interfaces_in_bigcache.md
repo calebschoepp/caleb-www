@@ -81,7 +81,7 @@ func (c *bigCache) Get(key interface{}) (interface{}, error) {
     }
 
     // Deserialize the bytes of the value
-    value, err := deserializeGOB(valueBytes)
+    value, err := deserialize(valueBytes)
     if err != nil {
         return nil, err
     }
