@@ -29,4 +29,6 @@
     integrity="{{ $style.Data.Integrity }}"
   />
 {{ end }}
-{{ template "_internal/google_analytics.html" . }}
+{{ if not .Site.BuildDrafts }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}
