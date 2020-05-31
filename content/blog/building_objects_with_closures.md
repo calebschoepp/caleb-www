@@ -43,4 +43,24 @@ Syntax - the actual language you use to work with the object system. Do you defi
 
 Semantics - the behavior the object system allows.
 
-Implementation - the process of translating syntax into semantics. 
+Implementation - the process of translating syntax into semantics.
+
+-- NOTE --
+I think I'm being to ambitious with the prototypical inheritance. Maybe I should simplify this article and exlcude the concepts of polymorphism and inheritance
+-- NOTE -- 
+
+Take a simpler approach - don't try to ham fist in inheritance and polymorphism. Instead just try to talk about how you can make cool one off objects with closures.
+
+- Class objects are multiple methods bound to a single piece of data. Closure objects are a single method bound to multiple pieces of data.
+- Closure objects are good in ad-hoc one-off scenarios. Class objects are good when you need a strong type heirarchy
+- By default closures present a single method, but you can alternativley use X pattern to expose multiple methods from a closure object without even using a collection type.
+
+ROUGH OUTLINE?
+
+1. We are told that objects and closures are equivalent
+2. Let's walk through that
+3. Single method closure object
+4. Multiple method closure object
+5. When it might make sense to use a closure object over a class object
+
+Keep it tight. I can do another post espousing about syntax/semantics/implementation etc.
