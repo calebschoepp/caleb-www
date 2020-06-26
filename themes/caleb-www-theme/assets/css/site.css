@@ -59,6 +59,20 @@ article ol {
   @apply my-4;
 }
 
+blockquote {
+  background: #f0f3f3;
+  border-left: 10px solid #ccc;
+  margin-right: 1.5em 10px;
+  margin-top: 1.5em 10px;
+  margin-bottom: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote p {
+  display: inline;
+}
+
 /* For centered and fitted footer border */
 .footer-fit {
   width: fit-content;
