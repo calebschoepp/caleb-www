@@ -37,7 +37,6 @@ type Cache interface {
     Set(key, value interface{}) error
     Get(key interface{}) (interface{}, error)
 }
-
 ```
 
 Now let’s define the BigCache implementation that will fulfill the above interface. First we need a struct that holds the cache and can have methods added to it. You could also build other things like metrics into this struct.
