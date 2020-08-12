@@ -10,7 +10,7 @@ Thank you to Dan Fletcher for his [blog post](http://www.danfletcherblog.ca/2017
 
 # Don't
 
-**Make heavy use of nesting:** At first, it seems like nesting is the key to good organization. This is wrong for two main reasons. First, nesting makes long filepaths which makes navigation with the command-line inconvenient. Second, deeply nested directories impose too brittle of a hierarchy. Eventually you will have files that can live in multiple places within the hierarchy. Then the hierarchy becomes inconsistent and loses its value. Keep things simple and avoid nesting too deeply.
+**Make heavy use of nesting:** At first, it seems like nesting is the key to good organization. This is wrong for two main reasons. First, nesting makes long filepaths which makes navigation with the command-line inconvenient. Second, deeply nested directories impose too brittle of a hierarchy. Eventually you will have files that can live in multiple places within the hierarchy. Then the hierarchy becomes inconsistent and loses its value. Keep things simple.
 
 ```text
 nesting
