@@ -6,7 +6,7 @@
     "repository": "",
     "author": "Caleb Schoepp",
     "scripts": {
-        "start": "hugo --gc"
+        "start": "hugo server -D"
     },
     "devDependencies": {
         "@fullhuman/postcss-purgecss": "^2.1.0",
