@@ -1,9 +1,11 @@
 {{ define "main" }}{{ range .Pages }}
-<summary class="mb-4 leading-snug">
+<summary class="mb-1 leading-snug">
   <!-- TODO make sure the grayness of this text matches the rest of the document -->
-  <h2 class="text-xs text-gray-600">{{ dateFormat "Jan 2, 2006" .Date }}</h2>
+  <h2 class="sm:hidden text-xs text-gray-600">{{ dateFormat "January 2, 2006" .Date }}</h2>
+  <h2 class="hidden sm:inline text-xs text-gray-600">{{ .ReadingTime }} min read</h2>
   <h1 class="text-lg">
     <a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="hidden sm:inline text-base text-gray-600 float-right">{{ dateFormat "January 2, 2006" .Date }}</span>
   </h1>
 </summary>
 {{ end }}{{ end }}
