@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Caleb Schoepp"
 theme = "caleb-www-theme"
 googleAnalytics = "UA-129268689-2"
+enableRobotsTXT = true
+[permalinks]
+    blog = "/blog/:title/"
 [markup]
   [markup.highlight]
     codeFences = true
