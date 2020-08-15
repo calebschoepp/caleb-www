@@ -71,6 +71,10 @@ article li {
   @apply mx-8;
 }
 
+article li p {
+  @apply my-2;
+}
+
 blockquote {
   background: #f0f3f3;
   border-left: 10px solid #ccc;
