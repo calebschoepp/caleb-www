@@ -463,7 +463,7 @@ If you are looking for more things to explore beyond what we've gone over in thi
 
 [^1]: Lots of code will be shown but it will not be comprehensive. Not every line of code required for a complete implementation will be provided.
 
-[^2]: Lox is a dynamic programming language. In Crafting Interpreters you build two interpreters for the language. Jlox a tree-walk interpreter with Java and Clox a bytecode interpreter with C. This post modifies the Clox interpreter.
+[^2]: Lox is a dynamic programming language. In Crafting Interpreters you build two interpreters for the language. Jlox a tree-walk interpreter with Java and Clox a bytecode interpreter with C. This post modifies the Clox interpreter. I originally developed the code for adding lists to Lox on my own Lox derivative called [NQQ](https://github.com/calebschoepp/nqq).
 
 [^3]: In the Clox implementation parsing and compilation are squeezed into a single step. Despite the fact that they are happening at the same time, they are still providing different functions. Parsing is all about turning a flat stream of tokens into a hierarchical structure that represents the intent of the computation. Compilation is about turning that structure into something that is easier and quicker to execute. By squishing these two steps into one we are skipping building the AST. This has the possible benefits of being conceptually simpler and faster but inhibits static analysis of the code.
 
