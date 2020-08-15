@@ -1,20 +1,20 @@
 ---
-title: "Adding Lists To The Interpreted Programming Language Clox"
+title: "Adding A List Data Type To Lox"
 date: 2020-08-14T15:38:00-06:00
 draft: true
 ---
 
-Lists are an important data type for any kind of serious programming. The following is a detailed walkthrough of how to add lists to the interpreted programming language Clox. We'll go over the entire design including things like its bytecode representation and syntax grammar. You can also expect a lot of code snippets[^1] showing the actual implementation details.
+Lists are an important data type for any kind of serious programming. The following is a detailed walkthrough of how to add lists to the interpreted programming language Lox. We'll go over the entire design including things like bytecode representations and syntax grammars. You can also expect a lot of code snippets[^1] showing the actual implementation details.
 
-Clox is the second of two languages you write in the fantastic book [Crafting Interpreters](https://craftinginterpreters.com/) by [Bob Nystrom](https://journal.stuffwithstuff.com/). If you haven't read the book yet, I highly recommend it. This post assumes a level of familiarity with Clox and Crafting Interpreters. But even if you haven’t read the book, it should still be a valuable lesson on programming language design.
+Lox is a programming language from the fantastic book [Crafting Interpreters](https://craftinginterpreters.com/) by [Bob Nystrom](https://journal.stuffwithstuff.com/). If you haven't read the book yet, I highly recommend it. This post assumes a level of familiarity with Lox and it's C implementation, Clox[^2]. But, even if you haven’t read the book, it should still be a valuable lesson on programming language design.
 
-My hope is that this post will help give you the confidence to keep hacking on programming languages yourself. When I finished Crafting Interpreters I certainly didn't feel qualified to keep working on the language. I missed the comfort of Robert's witty writing, delightful drawings, and copious code-snippets. I'm here to show you that if I can add something like lists to Clox then so can you.
+My hope is that this post will help give you the confidence to start hacking on programming languages yourself. When I finished Crafting Interpreters I certainly didn't feel qualified to keep working on the language. I missed the comfort of Robert's witty writing, delightful drawings, and copious code-snippets. I'm here to show you that if I can add something like lists to Lox then so can you.
 
 # Overview
 
-When the Clox interpreter runs it starts by lexing source code into a stream of tokens. Next, it simultaneously parses the stream of tokens and compiles it into bytecode[^2]. Finally, the VM executes the bytecode.
+When the Clox interpreter runs it starts by lexing source code into a stream of tokens. Next, it simultaneously parses the stream of tokens and compiles it into bytecode[^3]. Finally, the VM executes the bytecode.
 
-When I'm thinking about adding a new feature to Clox, I tend to work roughly in the opposite direction that the interpreter does. My process looks something like this:
+When I'm thinking about adding a new feature to a language, I tend to work roughly in the opposite direction that the interpreter does. My process looks something like this:
 
 1. Think about what the desired outcome of the feature will be and what the corresponding source code would look like. Or in other words, I outline the semantics of the feature.
 
@@ -30,14 +30,14 @@ With this in mind, let's dive in!
 
 # Semantics and Source Code
 
-Semantics is just a fancy way of saying what we want something to do. We should start with the basics. How do we want the user of Clox to define a list literal?
+Semantics is just a fancy way of saying what we want something to do. We should start with the basics. How do we want the user of our language to define a list literal?
 
 ```js
 // In an assignment
-let foo = ["a", "b", "c"]
+var foo = ["a", "b", "c"];
 
 // An empty list
-let bar = [];
+var bar = [];
 
 // Directly in an expression
 print [1, 2, 3]; // Expect: [1, 2, 3]
@@ -46,7 +46,7 @@ print [1, 2, 3]; // Expect: [1, 2, 3]
 Commonly you'll see the items of large lists defined across multiple lines. In many languages, it is idiomatic to include a trailing comma. Let's support that.
 
 ```js
-let foo = [
+var foo = [
  1,
  2,
     ...
@@ -57,7 +57,7 @@ let foo = [
 If all we could do with lists is define them at compile time then they would be pretty useless. We want to be able to access items in the list. We'd also like to be able to store new values into the list.
 
 ```js
-let foo = [1, 2];
+var foo = [1, 2];
 
 print foo[0]; // Expect: 1
 
@@ -73,7 +73,7 @@ fun modifyList(list) {
     list[0] = 0;
 }
 
-let foo = [1, 2];
+var foo = [1, 2];
 modifyList(foo);
 print foo; // Expect: [0, 2]
 ```
@@ -81,13 +81,13 @@ print foo; // Expect: [0, 2]
 Up until this point, we've defined the semantics of something more like an array. It has a fixed-length set at compile-time, and it contains only a single type of value. To make this list a bit more "listy", let's start by saying it can store a mix of any type.
 
 ```js
-let foo = [1, "b", false];
+var foo = [1, "b", false];
 ```
 
 As a convenience, we also want to be able to use expressions when building, indexing, or storing to lists.
 
 ```js
-let foo = [1, 1 + 1];
+var foo = [1, 1 + 1];
 print foo[add(0, 1)]; // Expect: 2
 
 foo[foo[0]] = 7;
@@ -97,7 +97,7 @@ print foo[3 - 2]; // Expect: 7
 Now let's make the list a bit more dynamic. We should be able to append items to the end of the list. Also, there should be a way to delete items at a specific index. In the name of simplicity, I added this functionality as native functions. Some languages — Go as an example — do this too. However, most languages expose this functionality in other ways. More on that [later](#challenges).
 
 ```js
-let foo = [1, 2, 3];
+var foo = [1, 2, 3];
 
 // append returns nil because it modifies foo in place
 print append(foo, 4); // Expect: nil
@@ -112,9 +112,9 @@ Great work, users can now grow and shrink lists as they wish. This concludes the
 
 # Building a Runtime
 
-Now that we know what semantics lists should have, we need to update the interpreter’s runtime. This is where the rubber hits the road. The runtime is just some C code that does the work of executing our Clox source code. If the runtime for lists is slow, then you can be sure that lists will be slow in Clox too. Considering this, how should we implement the runtime for lists? Two data structures immediatley come to mind: dynamic arrays and linked lists.
+Now that we know what semantics lists should have, we need to update the interpreter’s runtime. This is where the rubber hits the road. The runtime is just some C code that does the work of executing our Lox source code. If the runtime for lists is slow, then you can be sure that lists will be slow in Lox too. Considering this, how should we implement the runtime for lists? Two data structures immediatley come to mind: dynamic arrays and linked lists.
 
-Let's examine linked lists first. This data structure consists of  nodes holding data and a pointer to the next node in the list. You may recall that a linked list was used in the implementation of Clox to link all the objects together for garbage collection. Leaving the formal proofs for another time a linked list has the following algorithmic complexities; `O(n)` to access or modify an item; `O(1)` to append an item to the list; `O(n)` to delete an item.
+Let's examine linked lists first. This data structure consists of  nodes holding both data and a pointer to the next node in the list. You may recall that a linked list was used in the implementation of Clox to link all the objects together for garbage collection. Leaving the formal proofs for another time a linked list has the following algorithmic complexities; `O(n)` to access or modify an item; `O(1)` to append an item to the list; `O(n)` to delete an item.
 
 `O(n)` complexity to access or modify an item presents an issue. We’d like something as common as accessing an item to be faster than that. The final nail in the coffin for linked lists is that the nodes aren't guaranteed to exist in contiguous sections of memory. Scattered memory means terrible cache locality and as a result slow speeds.
 
@@ -178,33 +178,36 @@ bool isValidListIndex(ObjList* list, int index) {
 }
 ```
 
-Still with me? Fantastic, because we just implemented the entire runtime for lists. Not too shabby. Note that if you are following along with your own implementation there are still a few things you'll need to add. Notably, type checking macros like `IS_LIST`, function declarations in `object.h` and code to print our new list object.
+Still with me? Fantastic, because we just implemented the entire runtime for lists. Not too shabby. Note that if you are following along with your own implementation there are still a few things you'll need to add. Notably, type checking macros like `IS_LIST`/`AS_LIST`, function declarations in `object.h`, and code to print our new list object.
 
 # Operation Opcode
 
-Clox is a bytecode interpreter. This means that it compiles source code into a stream of bytecode which the VM can then execute. Bytecode consists of some opcodes (1-byte instructions) with optional operands (1-byte arguments). To implement lists we will need to add some new opcodes to Clox. Clox's VM is responsible for tying the bytecode together with the runtime.
+Clox is a bytecode interpreter. This means that it compiles source code into a stream of bytecode which the VM can then execute via the runtime. Bytecode consists of some opcodes (1-byte instructions) with optional operands (1-byte arguments). To implement lists we will need to add some new opcodes to Clox.
 
-The key to designing opcodes for a new feature is to K.I.S.S. — Keep It Simple Stupid. That is to say, if the language’s current set of opcodes can already support the new semantics you want, then do not add more opcodes. If you aren't that lucky, then try to find the minimal number of opcodes you can add to support the new semantics. Minimizing the number of different opcodes is a tradeoff. It simplifies the VM implementation and helps you keep the common case fast. However, this comes at the cost of more complicated parsing and more time spent decoding bytecode. All the new semantics we are adding to Clox can be achieved by only three new opcodes: `OP_BUILD_LIST`, `OP_INDEX_SUBSCR`, and `OP_STORE_SUBSCR`.
+The key to designing opcodes for a new feature is to K.I.S.S. — Keep It Simple Stupid. That is to say, if the language’s current set of opcodes can already support the new semantics you want, then do not add more opcodes. If you aren't that lucky, then try to find the minimal number of opcodes you can add to support the new semantics. Minimizing the number of different opcodes is a tradeoff. It simplifies the VM implementation and helps you keep the common case fast. However, this comes at the cost of more complicated parsing and more time spent decoding bytecode. All the new semantics we are adding can be achieved by three new opcodes: `OP_BUILD_LIST`, `OP_INDEX_SUBSCR`, and `OP_STORE_SUBSCR`.
 
 Many parts of this design and implementation are heavily influenced by Python. This includes both the semantics and syntax. The opcodes are no exception and mirror the opcodes Python uses for its list type.
 
-`OP_BUILD_LIST` does the obvious thing. Notably, the opcode takes an operand `itemCount`. This is the number of values on the stack that it should build into the list. To ensure the proper order of the list, we peek at the items on the stack in reverse order[^3]. Then we pop them all off the stack. Finally, it pushes the new list onto the stack. Here is the switch-case for it in `vm.c`:
+`OP_BUILD_LIST` does the obvious thing. Notably, the opcode takes an operand `itemCount`. This is the number of values on the stack that it should build into the list. To ensure the proper order of the list, we peek at the items on the stack in reverse order[^4]. Then we pop them all off the stack. Finally, it pushes the new list onto the stack. Here is the switch-case for it in `vm.c`:
 
 ```c++
 case OP_BUILD_LIST: {
-    // before: [item1, item2, ..., itemN] after: [list]
+    // Stack before: [item1, item2, ..., itemN] and after: [list]
     ObjList* list = newList();
     uint8_t itemCount = READ_BYTE();
 
+    // Add items to list
     push(OBJ_VAL(list)); // So list isn't sweeped by GC in appendToList
     for (int i = itemCount; i > 0; i--) {
         appendToList(list, peek(i));
     }
     pop();
 
+    // Pop items from stack
     while (itemCount-- > 0) {
         pop();
     }
+
     push(OBJ_VAL(list));
     break;
 }
@@ -214,24 +217,29 @@ case OP_BUILD_LIST: {
 
 ```c++
 case OP_INDEX_SUBSCR: {
-    // before: [list, index] after: [index(list, index)]
+    // Stack before: [list, index] and after: [index(list, index)]
     Value index = pop();
     Value list = pop();
     Value result;
-    if (IS_LIST(list)) {
-        ObjList* list = AS_LIST(list);
-        if (!IS_NUMBER(index)) {
-            runtimeError("List index is not a number.");
-            return INTERPRET_RUNTIME_ERROR;
-        } else if (!isValidListIndex(list, AS_NUMBER(index))) {
-            runtimeError("List index out of range.");
-            return INTERPRET_RUNTIME_ERROR;
-        }
-        result = indexFromList(list, AS_NUMBER(index));
-    } else {
+
+    if (!IS_LIST(list)) {
         runtimeError("Invalid type to index into.");
         return INTERPRET_RUNTIME_ERROR;
     }
+    ObjList* list = AS_LIST(list);
+
+    if (!IS_NUMBER(index)) {
+        runtimeError("List index is not a number.");
+        return INTERPRET_RUNTIME_ERROR;
+    }
+    int index = AS_NUMBER(index);
+
+    if (!isValidListIndex(list, index)) {
+        runtimeError("List index out of range.");
+        return INTERPRET_RUNTIME_ERROR;
+    }
+
+    result = indexFromList(list, AS_NUMBER(index));
     push(result);
     break;
 }
@@ -241,33 +249,41 @@ case OP_INDEX_SUBSCR: {
 
 ```c++
 case OP_STORE_SUBSCR: {
-    // before: [list, index, item] after: [item]
+    // Stack before: [list, index, item] and after: [item]
     Value item = pop();
     Value index = pop();
     Value list = pop();
+
     if (!IS_LIST(list)) {
         runtimeError("Cannot store value in a non-list.");
         return INTERPRET_RUNTIME_ERROR;
-    } else if (!IS_NUMBER(index)) {
+    }
+    ObjList* list = AS_LIST(list);
+
+    if (!IS_NUMBER(index)) {
         runtimeError("List index is not a number.");
         return INTERPRET_RUNTIME_ERROR;
-    } else if (!isValidListIndex(AS_LIST(list), AS_NUMBER(index))) {
+    }
+    int index = AS_NUMBER(index);
+
+    if (!isValidListIndex(list, index)) {
         runtimeError("Invalid list index.");
         return INTERPRET_RUNTIME_ERROR;
     }
-    storeToList(AS_LIST(list), AS_NUMBER(index), item);
+
+    storeToList(list, index, item);
     push(item);
     break;
 }
 ```
 
-And that concludes designing and implementing the new opcodes required for lists in Clox. For a full implementation be sure to update `debug.c` with switch-cases for the new opcodes.
+And that concludes designing and implementing the new opcodes required for lists in Lox. For a full implementation be sure to update `debug.c` with switch-cases for the new opcodes.
 
 # The Power of Parsing
 
 Up until this point, our interpreter still can't handle lists end to end. Hypothetically, the interpreter could execute hand compiled bytecode. But, hand compiling is no fun, so let's automate it.
 
-First, we need to get more formal about our syntax's [grammar](https://craftinginterpreters.com/appendix-i.html). I've shown an excerpt from the grammar below that includes the modifications we will be making.
+First, we need to get more formal about our syntax's [grammar](https://craftinginterpreters.com/appendix-i.html). I've shown an excerpt of the grammar below that includes the modifications we will be making.
 
 ```plain
 ...
@@ -295,6 +311,7 @@ To support indexing from lists, we've added a new rule `subscript`. It has a hig
 With a formal grammar in hand, we can tie this new feature into `compiler.c`. First, we add two new rules to the Pratt parsing table. When we encounter a `[` in a prefix scenario we parse a list literal. Seeing an infix `[` kicks off parsing of a subscript (index or store).
 
 ```c++
+// {Prefix, Infix, Precedence}
 { list, subscript, PREC_SUBSCRIPT }, // TOKEN_LEFT_BRACKET
 { NULL, NULL,      PREC_NONE },      // TOKEN_RIGHT_BRACKET
 ```
@@ -307,7 +324,7 @@ static void list(bool canAssign) {
     if (!check(TOKEN_RIGHT_BRACKET)) {
         do {
             if (check(TOKEN_RIGHT_BRACKET)) {
-                    // Trailing comma case
+                // Trailing comma case
                 break;
             }
 
@@ -324,7 +341,6 @@ static void list(bool canAssign) {
 
     emitByte(OP_BUILD_LIST);
     emitByte(itemCount);
-
     return;
 }
 ```
@@ -355,7 +371,7 @@ case ']': return makeToken(TOKEN_RIGHT_BRACKET);
 
 # Finishing Up
 
-Alright, let's come up for air. That was a lot of code. We should be proud of ourselves though, we finally have lists working end to end. Unfortunately, we are still missing a few key parts of the implementation before we can call it done. We need to do two things: implement `append` and `delete` functions, and update the garbage collector.
+Alright, let's come up for air. That was a lot of code. We should be proud of ourselves though, we finally have lists working end to end. Unfortunately, we are still missing a few key parts of the implementation before we can call it done. We need to do two things: implement the `append` and `delete` functions, and update the garbage collector.
 
 ## Append and Delete
 
@@ -364,23 +380,23 @@ Alright, let's come up for air. That was a lot of code. We should be proud of ou
 ```c++
 static Value appendNative(int argCount, Value* args) {
     // Append a value to the end of a list increasing the list's length by 1
-    if (argCount != 2 || !IS_LIST(*args)) {
+    if (argCount != 2 || !IS_LIST(args[0])) {
         // Handle error
     }
-    ObjList* list = AS_LIST(*args);
-    Value item = *(args + 1);
+    ObjList* list = AS_LIST(args[0]);
+    Value item = args[1];
     appendToList(list, item);
     return NIL_VAL;
 }
 
 static Value deleteNative(int argCount, Value* args) {
     // Delete an item from a list at the given index.
-    if (argCount != 2 || !IS_LIST(*args) || !IS_NUMBER(*(args + 1))) {
+    if (argCount != 2 || !IS_LIST(args[0]) || !IS_NUMBER(args[1])) {
         // Handle error
     }
 
-    ObjList* list = AS_LIST(*args);
-    int index = AS_NUMBER(*(args + 1));
+    ObjList* list = AS_LIST(args[0]);
+    int index = AS_NUMBER(args[1]);
 
     if (!isValidListIndex(list, index)) {
         // Handle error
@@ -393,7 +409,7 @@ static Value deleteNative(int argCount, Value* args) {
 
 ## Garbage Collection
 
-Ensuring that garbage collection was working correctly was the most difficult part of the implementation. On its face, it is relatively simple task. To wire up lists to the collector we need to handle two switch-cases in `memory.c`. In `blackenObject` we mark every item in the list.
+Ensuring that garbage collection was working correctly was the most difficult part of the implementation. On its face, it is a relatively simple task. To wire up lists to the garbage collector we need to handle two switch-cases in `memory.c`. In `blackenObject` we mark every item in the list.
 
 ```c++
 case OBJ_LIST: {
@@ -431,7 +447,7 @@ pop();
 
 ## All Done
 
-Congratulations! We've finished a complete implementation of a performant list type. This is no small feat. Lists will certainly make programming in Clox much nicer. I hope that working through this encourages you to go and hack on programming languages too. Thanks for reading!
+Congratulations! We've finished a complete implementation of a performant list type. This is no small feat. Lists will certainly make programming in Lox much nicer. I hope that working through this encourages you to go and hack on programming languages too. Thanks for reading!
 
 # Challenges
 
@@ -439,7 +455,7 @@ If you are looking for more things to explore beyond what we've gone over in thi
 
 1. More fully-featured languages often present a wider variety of ways to access items in a list. This includes negative indexing and slicing. Negative indexing is quite simple; an index of `-1` accesses the last item, `-2` the second last, and so forth. Slicing allows a user to easily extract and operate on portions of a list. In Python, something like `myList[2:8:2]` would take every second item of the list starting at index `2` and going to index `8` exclusive. Try supporting negative indexing in `OP_INDEX_SUBSCR`. Then try adding a native function with the signature `Value slice(start, stop, step)`.
 
-2. Making `append` and `delete` native functions kept the implementation simple, but is uncommon in other languages. Two other options exist. Append and delete could be keywords that form a statement e.g. `delete foo[0]`. This statement would then be compiled down into some new opcodes. Alternatively, append and delete could be made into methods on a list object. This would require some rewiring of Clox but would perhaps be more idiomatic. Pick the approach you prefer and try implementing it.
+2. Making `append` and `delete` native functions kept the implementation simple, but is uncommon in other languages. Two other options exist. Append and delete could be keywords that form a statement e.g. `delete foo[0]`. This statement would then be compiled down into some new opcodes. Alternatively, append and delete could be made into methods on a list object. This would require some rewiring but would perhaps be more idiomatic. Pick the approach you prefer and try implementing it.
 
 3. Most languages have a unified theory on iterable types. This includes how you work with lists/arrays, iterators, strings, generators, and more. Currently, our implementation is pretty lacking in this area. Research how other languages implement iterators and try adding them to Clox. Additionally, try adding the ability to index individual characters of a Clox string.
 
@@ -447,6 +463,8 @@ If you are looking for more things to explore beyond what we've gone over in thi
 
 [^1]: Lots of code will be shown but it will not be comprehensive. Not every line of code required for a complete implementation will be provided.
 
-[^2]: In the Clox implementation parsing and compilation are squeezed into a single step. Despite the fact that they are happening at the same time, they are still providing different functions. Parsing is all about turning a flat stream of tokens into a hierarchical structure that represents the intent of the computation. Compilation is about turning that structure into something that is easier and quicker to execute. By squishing these two steps into one we are skipping building the AST. This has the possible benefits of being conceptually simpler and faster but inhibits static analysis of the code.
+[^2]: Lox is a dynamic programming language. In Crafting Interpreters you build two interpreters for the language. Jlox a tree-walk interpreter with Java and Clox a bytecode interpreter with C. This post modifies the Clox interpreter.
 
-[^3]: When a list is parsed the items are pushed onto the stack one at a time from left to right. If `OP_BUILD_LIST` were to read the items in from the top of the stack to the bottom it would be building the list in reverse.
+[^3]: In the Clox implementation parsing and compilation are squeezed into a single step. Despite the fact that they are happening at the same time, they are still providing different functions. Parsing is all about turning a flat stream of tokens into a hierarchical structure that represents the intent of the computation. Compilation is about turning that structure into something that is easier and quicker to execute. By squishing these two steps into one we are skipping building the AST. This has the possible benefits of being conceptually simpler and faster but inhibits static analysis of the code.
+
+[^4]: When a list is parsed the items are pushed onto the stack one at a time from left to right. If `OP_BUILD_LIST` were to read the items in from the top of the stack to the bottom it would be building the list in reverse.
