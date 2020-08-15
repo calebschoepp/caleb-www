@@ -2,8 +2,8 @@
   <div
     class="inline-block footer-fit flex flex-row justify-center mx-auto border-t border-gray-800"
   >
-    <p class="m-2 text-lg">Caleb Schoepp &middot; 2020</p>
-    <div class="m-2">
+    <p class="m-2 text-lg">Caleb Schoepp &middot; {{ now.Format "2006" }}</p>
+    <div class="mx-1 my-2">
       <a
         href="https://www.linkedin.com/in/calebschoepp/"
         title="LinkedIn"
@@ -11,13 +11,13 @@
         ><img src="/linkedin.svg" alt="LinkedIn"
       /></a>
     </div>
-    <div class="m-2">
+    <div class="mx-1 my-2">
       <a href="https://github.com/calebschoepp" title="Github" type="text/html"
         ><img src="/github.svg" alt="Github"
       /></a>
     </div>
     <!-- TODO fix email link -->
-    <div class="m-2">
+    <div class="mx-1 my-2">
       <a
         href="mailto:caleb.schoepp@gmail.com?subject=Hi Caleb nice to meet you"
         title="Email"
@@ -25,7 +25,15 @@
         ><img src="/mail.svg" alt="Email"
       /></a>
     </div>
+    <div class="mx-1 my-2">
+      <a
+        href="/index.xml"
+        title="RSS"
+        type="application/rss+xml"
+        ><img src="/rss.svg" alt="RSS"
+      /></a>
+    </div>
   </div>
 </footer>
 
-<!-- feather for icons -->
+<!-- https://feathericons.com/ for the icons -->
