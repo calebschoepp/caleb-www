@@ -6,6 +6,7 @@ googleAnalytics = "UA-129268689-2"
 enableRobotsTXT = true
 [author]
   name = "Caleb Schoepp"
+  email = "caleb.schoepp@gmail.com"
 [permalinks]
     blog = "/blog/:title/"
 [markup]
