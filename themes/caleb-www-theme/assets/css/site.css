@@ -57,12 +57,14 @@ article ul {
   @apply list-disc;
   @apply list-outside;
   @apply my-4;
+  padding-inline-start: 0;
 }
 
 article ol {
   @apply list-decimal;
   @apply list-outside;
   @apply my-4;
+  padding-inline-start: 0;
 }
 
 article li {
