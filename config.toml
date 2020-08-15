@@ -14,3 +14,8 @@ googleAnalytics = "UA-129268689-2"
     noClasses = true
     style = "manni"
     tabWidth = 4
+  # Add this to make shortcodes render html correctly
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

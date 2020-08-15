@@ -449,9 +449,10 @@ pop();
 
 Congratulations! We've finished a complete implementation of a performant list type. This is no small feat. Lists will certainly make programming in Lox much nicer. I hope that working through this encourages you to go and hack on programming languages too. Thanks for reading!
 
-# Challenges
+If you are looking for more things to explore beyond what we've gone over in this post then you’re in luck. Following in the footsteps of the book Crafting Interpreters I've included some challenges below.
 
-If you are looking for more things to explore beyond what we've gone over in this post then you’re in luck. Following in the footsteps of the book Crafting Interpreters, I've included some challenges below.
+{{% callout %}}
+## Challenges
 
 1. More fully-featured languages often present a wider variety of ways to access items in a list. This includes negative indexing and slicing. Negative indexing is quite simple; an index of `-1` accesses the last item, `-2` the second last, and so forth. Slicing allows a user to easily extract and operate on portions of a list. In Python, something like `myList[2:8:2]` would take every second item of the list starting at index `2` and going to index `8` exclusive. Try supporting negative indexing in `OP_INDEX_SUBSCR`. Then try adding a native function with the signature `Value slice(start, stop, step)`.
 
@@ -460,6 +461,7 @@ If you are looking for more things to explore beyond what we've gone over in thi
 3. Most languages have a unified theory on iterable types. This includes how you work with lists/arrays, iterators, strings, generators, and more. Currently, our implementation is pretty lacking in this area. Research how other languages implement iterators and try adding them to Clox. Additionally, try adding the ability to index individual characters of a Clox string.
 
 4. The current implementation of `delete` only removes an item and reshuffles the content in the array as necessary. If many items were deleted from a list then the list would be overallocated for memory. Try adding some logic to `delete` that deallocates memory when the number of items in the list becomes small enough.
+{{% / callout %}}
 
 [^1]: Lots of code will be shown but it will not be comprehensive. Not every line of code required for a complete implementation will be provided.
 
