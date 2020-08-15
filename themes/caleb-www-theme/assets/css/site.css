@@ -41,7 +41,7 @@ article code {
 
 article pre {
   @apply my-4;
-  @apply p-2;
+  @apply p-1;
   overflow-x: auto;
   @apply text-gray-800;
   /* The following is a kludge to make code sizing work properly in prod */
@@ -50,18 +50,23 @@ article pre {
 
 article pre code {
   @apply text-gray-800;
+  display: inline-block;
 }
 
 article ul {
   @apply list-disc;
-  @apply list-inside;
+  @apply list-outside;
   @apply my-4;
 }
 
 article ol {
   @apply list-decimal;
-  @apply list-inside;
+  @apply list-outside;
   @apply my-4;
+}
+
+article li {
+  @apply mx-8;
 }
 
 blockquote {
@@ -81,4 +86,8 @@ blockquote p {
 /* For centered and fitted footer border */
 .footer-fit {
   width: fit-content;
+}
+
+article .footnote-ref {
+  margin-left: 0.2rem;
 }

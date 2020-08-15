@@ -1,5 +1,5 @@
 ---
-title: "Building_objects_with_closures"
+title: "Building Objects With Closures"
 date: 2020-05-24T10:31:38-07:00
 draft: true
 ---
