@@ -92,6 +92,10 @@ article .footnote-ref {
   margin-left: 0.2rem;
 }
 
+article .footnotes {
+  @apply mt-12;
+}
+
 article .callout {
   background-color: #eef4f7;
   @apply p-4;
