@@ -8,7 +8,7 @@ enableRobotsTXT = true
   name = "Caleb Schoepp"
   email = "caleb.schoepp@gmail.com"
 [permalinks]
-    blog = "/blog/:title/"
+    blog = "/blog/:year/:title/"
 [markup]
   [markup.highlight]
     codeFences = true
