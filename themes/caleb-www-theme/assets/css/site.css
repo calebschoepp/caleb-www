@@ -14,14 +14,14 @@ article a:hover {
 
 article h1 {
   @apply text-4xl;
-  @apply my-10;
+  @apply mt-12;
   @apply leading-none;
   @apply text-left;
 }
 
 article h2 {
   @apply text-2xl;
-  @apply my-4;
+  @apply mt-6;
   @apply font-semibold;
 }
 
