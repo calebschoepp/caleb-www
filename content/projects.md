@@ -14,7 +14,8 @@ layout: "alternating_img_rows"
   that helps users understand JavaScript syntax by directly annotating the
   source code with descriptions and links to documentation. With the help of
   the wonderful [Acorn](https://github.com/acornjs/acorn)
-  parser this project was quite doable in 24 hours.
+  parser this project was quite doable in 24 hours. We were ranked as one of the top
+  6 projects at the hackathon and got to present our project at [DemoCamp](https://youtu.be/zyFWEHhFllQ?t=879).
 {{% /img_row_left %}}
 
 {{% img_row_right src="/spotify_queue_shuffler.png" alt="Spotify Queueu Shuffler Logo" %}}
@@ -47,7 +48,7 @@ layout: "alternating_img_rows"
   continued to improve my implementation that I was calling
   [NQQ](https://github.com/calebschoepp/nqq). Notably, I added list and map
   data structures to the language. I even wrote a
-  [post](https://calebschoepp.com/blog/2020/adding-a-list-data-type-to-lox/)
-  about the process on my blog. This project taught me so much about
+  [blog post](https://calebschoepp.com/blog/2020/adding-a-list-data-type-to-lox/)
+  about the process. This project taught me so much about
   programming!
 {{% /img_row_right %}}
