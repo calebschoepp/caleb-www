@@ -9,6 +9,7 @@ draft: false
   alt="Picture of Caleb"
   class="mx-auto w-48 sm:w-64 mb-6"
 />
+
 Hi I'm Caleb, a Computer Engineering student at the University of Alberta. Currently, I'm working on the Azure Data Usage Billing team at Microsoft. In the fall I will be going to work with [Resemble AI](https://resemble.ai) to help build state of the art synthetic voices. Over the past year I was working on biometric authentication at [UnifyID](https://unify.id).
 
 {{% novelty_link %}}
