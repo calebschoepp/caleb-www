@@ -1,0 +1,19 @@
+<div
+  class="flex flex-wrap sm:flex-no-wrap flex-row items-center content-center mb-12"
+>
+  <img
+    class="sm:hidden mx-auto sm:ml-6 mb-2 sm:mb-0"
+    src='{{ .Get "src" }}'
+    height="128"
+    width="128"
+    alt='{{ .Get "alt" }}'
+  />
+  <p class="text-lg text-justify">{{ .Inner | markdownify }}</p>
+  <img
+    class="hidden sm:block mx-auto sm:ml-6"
+    src='{{ .Get "src" }}'
+    height="128"
+    width="128"
+    alt='{{ .Get "alt" }}'
+  />
+</div>

@@ -1,15 +1,35 @@
-article p {
-  @apply text-lg;
-  @apply my-4;
-}
-
-article a {
+main a {
   @apply text-red-600;
   @apply underline;
 }
 
-article a:hover {
+main a:hover {
   @apply text-red-800;
+}
+
+.novelty-link a {
+  @apply font-extrabold;
+  @apply text-gray-800;
+  @apply no-underline;
+}
+
+.novelty-link a:hover {
+  @apply text-gray-600;
+}
+
+summary a {
+  @apply text-gray-800;
+  @apply no-underline;
+}
+
+summary a:hover {
+  @apply text-gray-800;
+  @apply underline;
+}
+
+article p {
+  @apply text-lg;
+  @apply my-4;
 }
 
 article h1 {
@@ -78,9 +98,7 @@ article li p {
 blockquote {
   background: #f0f3f3;
   border-left: 10px solid #ccc;
-  margin-right: 1.5em 10px;
-  margin-top: 1.5em 10px;
-  margin-bottom: 1.5em 10px;
+  margin: 1.5em;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
@@ -106,4 +124,8 @@ article .callout {
   background-color: #eef4f7;
   @apply p-4;
   @apply shadow-xl;
+}
+
+summary {
+  display: revert;
 }
