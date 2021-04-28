@@ -1,15 +1,35 @@
-article p {
-  @apply text-lg;
-  @apply my-4;
-}
-
-article a {
+main a {
   @apply text-red-600;
   @apply underline;
 }
 
-article a:hover {
+main a:hover {
   @apply text-red-800;
+}
+
+.novelty-link a {
+  @apply font-extrabold;
+  @apply text-gray-800;
+  @apply no-underline;
+}
+
+.novelty-link a:hover {
+  @apply text-gray-600;
+}
+
+summary a {
+  @apply text-gray-800;
+  @apply no-underline;
+}
+
+summary a:hover {
+  @apply text-gray-800;
+  @apply underline;
+}
+
+article p {
+  @apply text-lg;
+  @apply my-4;
 }
 
 article h1 {
