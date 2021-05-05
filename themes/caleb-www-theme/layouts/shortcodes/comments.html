@@ -1,0 +1,19 @@
+<!-- prettier-ignore -->
+<div id="comments">
+  <div id="none">
+    <p>
+Leave a comment on
+{{ range $i, $e := .Params }}{{ if $i }} / {{ end }}<a class="post" href='{{index (split . ">>") 1 }}'>{{index (split . ">>") 0 }}</a>{{ end }}
+    </p>
+  </div>
+
+  <div id="some" class="hidden">
+    <h2 id="comment_count">Comments (1)</h2>
+    <p>
+View comments on
+{{ range $i, $e := .Params }}{{ if $i }} / {{ end }}<a href='{{index (split . ">>") 1 }}'>{{index (split . ">>") 0 }}</a>{{ end }}
+    </p>
+  </div>
+</div>
+
+<script src="/comments.js"></script>

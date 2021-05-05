@@ -40,18 +40,13 @@ var foo = ["a", "b", "c"];
 var bar = [];
 
 // Directly in an expression
-print [1, 2, 3]; // Expect: [1, 2, 3]
+print[(1, 2, 3)]; // Expect: [1, 2, 3]
 ```
 
 Commonly you'll see the items of large lists defined across multiple lines. In many languages, it is idiomatic to include a trailing comma. Let's support that.
 
 ```js
-var foo = [
- 1,
- 2,
-    ...
- 25,
-];
+var foo = [1, 2, ...25];
 ```
 
 If all we could do with lists is define them at compile time then they would be pretty useless. We want to be able to access items in the list. We'd also like to be able to store new values into the list.
@@ -114,7 +109,7 @@ Great work, users can now grow and shrink lists as they wish. This concludes the
 
 Now that we know what semantics lists should have, we need to update the interpreter’s runtime. This is where the rubber hits the road. The runtime is just some C code that does the work of executing our Lox source code. If the runtime for lists is slow, then you can be sure that lists will be slow in Lox too. Considering this, how should we implement the runtime for lists? Two data structures immediatley come to mind: dynamic arrays and linked lists.
 
-Let's examine linked lists first. This data structure consists of  nodes holding both data and a pointer to the next node in the list. You may recall that a linked list was used in the implementation of Clox to link all the objects together for garbage collection. Leaving the formal proofs for another time a linked list has the following algorithmic complexities; `O(n)` to access or modify an item; `O(1)` to append an item to the list; `O(n)` to delete an item.
+Let's examine linked lists first. This data structure consists of nodes holding both data and a pointer to the next node in the list. You may recall that a linked list was used in the implementation of Clox to link all the objects together for garbage collection. Leaving the formal proofs for another time a linked list has the following algorithmic complexities; `O(n)` to access or modify an item; `O(1)` to append an item to the list; `O(n)` to delete an item.
 
 `O(n)` complexity to access or modify an item presents an issue. We’d like something as common as accessing an item to be faster than that. The final nail in the coffin for linked lists is that the nodes aren't guaranteed to exist in contiguous sections of memory. Scattered memory means terrible cache locality and as a result slow speeds.
 
@@ -213,7 +208,7 @@ case OP_BUILD_LIST: {
 }
 ```
 
-`OP_INDEX_SUBSCR` stands for *index subscript* — meaning access an item at a particular index. It's corresponding code in `vm.h` looks complex, but this is only because of a plethora of error handling. All it actually does is pop a list and index off of the stack, run `indexFromList` and push the resulting value back on the stack.
+`OP_INDEX_SUBSCR` stands for _index subscript_ — meaning access an item at a particular index. It's corresponding code in `vm.h` looks complex, but this is only because of a plethora of error handling. All it actually does is pop a list and index off of the stack, run `indexFromList` and push the resulting value back on the stack.
 
 ```c++
 case OP_INDEX_SUBSCR: {
@@ -245,7 +240,7 @@ case OP_INDEX_SUBSCR: {
 }
 ```
 
-`OP_STORE_SUBSCR` of course means *store subscript*. Instead of pulling a value from the list, we are storing a value to the list. Again, error handling makes a simple task look complicated. First pop a list, index, and item from the stack. Then store the item in the list at the particular index.
+`OP_STORE_SUBSCR` of course means _store subscript_. Instead of pulling a value from the list, we are storing a value to the list. Again, error handling makes a simple task look complicated. First pop a list, index, and item from the stack. Then store the item in the list at the particular index.
 
 ```c++
 case OP_STORE_SUBSCR: {
@@ -420,6 +415,7 @@ case OBJ_LIST: {
     break;
 }
 ```
+
 In `freeObject` we want to free both the dynamic array and the object itself.
 
 ```c++
@@ -452,6 +448,7 @@ Congratulations! We've finished a complete implementation of a performant list t
 If you are looking for more things to explore beyond what we've gone over in this post then you’re in luck. Following in the footsteps of the book Crafting Interpreters I've included some challenges below.
 
 {{% callout %}}
+
 ## Challenges
 
 1. More fully-featured languages often present a wider variety of ways to access items in a list. This includes negative indexing and slicing. Negative indexing is quite simple; an index of `-1` accesses the last item, `-2` the second last, and so forth. Slicing allows a user to easily extract and operate on portions of a list. In Python, something like `myList[2:8:2]` would take every second item of the list starting at index `2` and going to index `8` exclusive. Try supporting negative indexing in `OP_INDEX_SUBSCR`. Then try adding a native function with the signature `Value slice(start, stop, step)`.
@@ -461,12 +458,11 @@ If you are looking for more things to explore beyond what we've gone over in thi
 3. Most languages have a unified theory on iterable types. This includes how you work with lists/arrays, iterators, strings, generators, and more. Currently, our implementation is pretty lacking in this area. Research how other languages implement iterators and try adding them to Clox. Additionally, try adding the ability to index individual characters of a Clox string.
 
 4. The current implementation of `delete` only removes an item and reshuffles the content in the array as necessary. If many items were deleted from a list then the list would be overallocated for memory. Try adding some logic to `delete` that deallocates memory when the number of items in the list becomes small enough.
-{{% / callout %}}
+   {{% / callout %}}
+
+{{% comments "Reddit>>https://www.reddit.com/r/ProgrammingLanguages/comments/ibk3xe/adding_a_list_data_type_to_lox/" "Hacker News>>https://news.ycombinator.com/item?id=24190366" %}}
 
 [^1]: Lots of code will be shown but it will not be comprehensive. Not every line of code required for a complete implementation will be provided.
-
 [^2]: Lox is a dynamic programming language. In Crafting Interpreters you build two interpreters for the language. Jlox a tree-walk interpreter with Java and Clox a bytecode interpreter with C. This post modifies the Clox interpreter. I originally developed the code for adding lists to Lox on my own Lox derivative called [NQQ](https://github.com/calebschoepp/nqq).
-
 [^3]: In the Clox implementation parsing and compilation are squeezed into a single step. Despite the fact that they are happening at the same time, they are still providing different functions. Parsing is all about turning a flat stream of tokens into a hierarchical structure that represents the intent of the computation. Compilation is about turning that structure into something that is easier and quicker to execute. By squishing these two steps into one we are skipping building the AST. This has the possible benefits of being conceptually simpler and faster but inhibits static analysis of the code.
-
 [^4]: When a list is parsed the items are pushed onto the stack one at a time from left to right. If `OP_BUILD_LIST` were to read the items in from the top of the stack to the bottom it would be building the list in reverse.
