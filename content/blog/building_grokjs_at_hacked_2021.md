@@ -3,6 +3,7 @@ title: "Building GrokJS at HackED 2021"
 date: 2021-01-24
 draft: false
 ---
+
 This past weekend I participated in [HackED 2021](https://hacked-2021.devpost.com/), the annual hackathon put on by the U of A Computer Engineering Club. I wanted to take some time to reflect on the experience.
 
 Unlike previous hackathons I have attended, I came into this hackathon with a clear picture of a problem I wanted to solve. Thankfully, when I pitched the idea to my team before the hackathon, they liked it.
@@ -12,7 +13,6 @@ I intend to write more on this topic so I will keep the explanation of the probl
 ![Trouble Googling Syntax](/googling_syntax.png)
 
 We set out to solve this problem by building a VS Code extension called [GrokJS](https://marketplace.visualstudio.com/items?itemName=grokjs.grok-js). The extension helps you learn JavaScript syntax directly inside your editor. Walking through an example is the easiest way to explain how it works. Imagine you encounter the following JavaScript and can't tell what it is doing:
-
 
 ```js
 let myArray = [...[1, 2, 3], ...[4, 5, 6]];
@@ -37,6 +37,5 @@ I spent a long time consternating over how the backend should be implemented. Bu
 We managed to get the extension almost fully working by 4:30 AM. This let us grab a few hours of sleep before regrouping to polish and publish the extension. Later that afternoon we presented to the judges. At the closing ceremonies we learned that our project had finished in the top 6.
 
 This was the first remote hackathon I've attended. Like everything remote over this past year I missed the in person interactions, but regardless I had a great time. All things considered, the organizers did a great job putting it together. I'm glad I attended and very pleased with how GrokJS turned out.
-
 
 [^1]: Our implementation re-parsed the AST everytime something changed. We had worried that parsing an AST multiple times a second might introduce performance issues. Turned out to not be a problem. In our tests, Acorn could parse ~5000 lines of JavaScript in under 10 ms. Call me impressed.
