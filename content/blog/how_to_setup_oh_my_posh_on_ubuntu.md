@@ -4,7 +4,7 @@ date: 2021-05-18
 draft: false
 ---
 
-While onboarding at my latest internship I noticed that my manager had a very aesthetically pleasing shell. Upon further inspection I discovered he was using something called [Oh my Posh](https://ohmyposh.dev/). It markets itself as, "A prompt theme engine for any shell." It is more than pretty though, it also will show you Git status, error codes, Python versions, and can be configured to do [more](https://ohmyposh.dev/docs/configure).
+While onboarding at my latest internship I noticed that my manager had a very aesthetically pleasing shell. Upon further inspection I discovered he was using something called [Oh my Posh](https://ohmyposh.dev/). It markets itself as, "A prompt theme engine for any shell." It's more than pretty though — it will also show you Git status, error codes, Python versions, and can be configured to do [more](https://ohmyposh.dev/docs/configure).
 
 ![My terminal using Oh my Posh](/posh_terminal.png)
 
@@ -33,7 +33,7 @@ rm ~/.poshthemes/themes.zip
 
 # Change your prompt
 
-This is also pretty straightforward in the [docs](https://ohmyposh.dev/docs/linux#replace-your-existing-prompt). Add the following to you `~/.bashrc` and then source it. Replace `{theme}` with your preferred theme. I like Paradox.
+This is also pretty straightforward in the [docs](https://ohmyposh.dev/docs/linux#replace-your-existing-prompt). Add the following to you `~/.bashrc` and then source it. Replace `{theme}` below with your preferred theme. I like the Paradox theme.
 
 ```bash
 eval "$(oh-my-posh --init --shell bash --config ~/.{theme}.omp.json)"
@@ -41,7 +41,7 @@ eval "$(oh-my-posh --init --shell bash --config ~/.{theme}.omp.json)"
 
 # Setup the fonts
 
-This is the tricky part. Start by installing a nerd font from [here](https://www.nerdfonts.com/font-downloads). I recommend using [Meslo](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip). Now you need to install the font to your system. Using the instructions found [here](https://gist.github.com/matthewjberger/7dd7e079f282f8138a9dc3b045ebefa0) we should do the following:
+This is the tricky part. Start by installing a nerd font from [here](https://www.nerdfonts.com/font-downloads). I recommend using [Meslo](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip). Now you need to install the font to your system. Based on the instructions found [here](https://gist.github.com/matthewjberger/7dd7e079f282f8138a9dc3b045ebefa0) we should do the following:
 
 ```bash
 cd ~
