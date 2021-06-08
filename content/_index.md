@@ -21,5 +21,5 @@ See my [/projects](/projects)
 {{% /novelty_link %}}
 
 {{% novelty_link %}}
-Ready my [/blog](/blog)
+Read my [/blog](/blog)
 {{% /novelty_link %}}
