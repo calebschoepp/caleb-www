@@ -1,7 +1,7 @@
 ---
 title: "Ideas are worthless, execution is everything"
 date: 2021-08-05
-draft: true
+draft: false
 ---
 
 This post serves as a reminder to myself that "_Ideas are worthless, execution is everything_"[^1]. I want to stop believing that the only thing holding me back from starting a company/open-source project/etc. is a lack of good ideas.
