@@ -25,7 +25,7 @@ Maybe you'll find it helpful too.
 # Remote learning questions platform
 
 1. Because of the pandemic I was entering into a semester of classes where everything would be delivered remotely. I wanted to build a platform that would allow students in a class to signal that they were confused. If the professor saw that enough students were confused they would be able to slow down. The platform would also support questions with some sort of upvote system.
-2. I didn't excute.
+2. I didn't execute.
 3. Listening to the [Indie Hackers Podcast](https://www.indiehackers.com/podcast/032-peter-and-calvin-of-segment) I learned that the founders of Segment had a built an application like this in the past. It ultimately didn't work but that was without the remote conditions imposed by the pandemic.
 
 # Augmented reality clothes fitting
@@ -36,6 +36,6 @@ Maybe you'll find it helpful too.
 
 #
 
-Enough is enough Caleb. Go excute!
+Enough is enough Caleb. Go execute!
 
 [^1]: While I was doing research for this post I found a [more nuanced](https://sive.rs/multiply) take on this idea that I really like.
