@@ -9,11 +9,11 @@ TODO make sure I'm using meta-programming right
 TODO make sure I'm talking about lisp and s-expressions to DSLs right
 
 - Bla di da, some sort of intro
-   - Closures are cool
-   - Closures are powerful
-   - Were going to do an exercise as practice
-   - Probably not production code but is a good learning experience
-   - Try something different out today
+  - Closures are cool
+  - Closures are powerful
+  - Were going to do an exercise as practice
+  - Probably not production code but is a good learning experience
+  - Try something different out today
 
 -- MEH --
 A fascinating thing about programming languages is that you can hack on them and make them your own. Macros, lisps, DSLs etc. Some of these are more powerful and allow you to actually modify the syntax - others are less powerful and only let you build new semantic constructs. I love this about programming languages.
@@ -29,7 +29,7 @@ Let's walkthrough building an alternate object system within JavaScript. I can't
 
 First things first, what's expected of an object system. This is actually a bigger question then it appears to be - there is no one clear definition. Every OOP language is a little bit different. At high level, there are a few key expectations of an object system.
 
-1. Group behaviour and data
+1. Group behavior and data
 2. Polymorphism
 3. Encapsulation
 4. Mutability?
@@ -46,14 +46,14 @@ Semantics - the behavior the object system allows.
 Implementation - the process of translating syntax into semantics.
 
 -- NOTE --
-I think I'm being to ambitious with the prototypical inheritance. Maybe I should simplify this article and exlcude the concepts of polymorphism and inheritance
--- NOTE -- 
+I think I'm being to ambitious with the prototypical inheritance. Maybe I should simplify this article and exclude the concepts of polymorphism and inheritance
+-- NOTE --
 
 Take a simpler approach - don't try to ham fist in inheritance and polymorphism. Instead just try to talk about how you can make cool one off objects with closures.
 
 - Class objects are multiple methods bound to a single piece of data. Closure objects are a single method bound to multiple pieces of data.
-- Closure objects are good in ad-hoc one-off scenarios. Class objects are good when you need a strong type heirarchy
-- By default closures present a single method, but you can alternativley use X pattern to expose multiple methods from a closure object without even using a collection type.
+- Closure objects are good in ad-hoc one-off scenarios. Class objects are good when you need a strong type hierarchy
+- By default closures present a single method, but you can alternatively use X pattern to expose multiple methods from a closure object without even using a collection type.
 
 ROUGH OUTLINE?
 

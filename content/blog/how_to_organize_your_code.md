@@ -26,6 +26,7 @@ nesting
         └── small-projects
             └── project-4
 ```
+
 **Organize by language:** For simpler projects, this is a logical conclusion. But, as projects grow in complexity they will start to make use of many languages. It is not uncommon for my projects to involve 3-4 different languages. This makes it impossible to know which directory a project should live under.
 
 ```text
@@ -38,6 +39,7 @@ by-language
 └── python
     └── project-4
 ```
+
 # Do
 
 **Keep everything in one place:** I have a single directory on my computer that all my programming work lives under. Get creative with the name! I call mine the `batcave`. What would you call yours?

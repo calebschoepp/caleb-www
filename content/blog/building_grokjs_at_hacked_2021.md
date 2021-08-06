@@ -8,7 +8,7 @@ This past weekend I participated in [HackED 2021](https://hacked-2021.devpost.co
 
 Unlike previous hackathons I have attended, I came into this hackathon with a clear picture of a problem I wanted to solve. Thankfully, when I pitched the idea to my team before the hackathon, they liked it.
 
-I intend to write more on this topic so I will keep the explanation of the problem brief. Syntax is often a stumbling block when working with new programming languages. Before you can undertand a piece of code, you need to understand what all of the characters represent. Unfortunately, it is very difficult to google for help with unfamiliar syntax. Google will likely give you documenation on the methods and functions being used, not the unfamilar syntax.
+I intend to write more on this topic so I will keep the explanation of the problem brief. Syntax is often a stumbling block when working with new programming languages. Before you can understand a piece of code, you need to understand what all of the characters represent. Unfortunately, it is very difficult to google for help with unfamiliar syntax. Google will likely give you documentation on the methods and functions being used, not the unfamiliar syntax.
 
 ![Trouble Googling Syntax](/googling_syntax.png)
 

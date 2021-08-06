@@ -107,7 +107,7 @@ Great work, users can now grow and shrink lists as they wish. This concludes the
 
 # Building a Runtime
 
-Now that we know what semantics lists should have, we need to update the interpreter’s runtime. This is where the rubber hits the road. The runtime is just some C code that does the work of executing our Lox source code. If the runtime for lists is slow, then you can be sure that lists will be slow in Lox too. Considering this, how should we implement the runtime for lists? Two data structures immediatley come to mind: dynamic arrays and linked lists.
+Now that we know what semantics lists should have, we need to update the interpreter’s runtime. This is where the rubber hits the road. The runtime is just some C code that does the work of executing our Lox source code. If the runtime for lists is slow, then you can be sure that lists will be slow in Lox too. Considering this, how should we implement the runtime for lists? Two data structures immediately come to mind: dynamic arrays and linked lists.
 
 Let's examine linked lists first. This data structure consists of nodes holding both data and a pointer to the next node in the list. You may recall that a linked list was used in the implementation of Clox to link all the objects together for garbage collection. Leaving the formal proofs for another time a linked list has the following algorithmic complexities; `O(n)` to access or modify an item; `O(1)` to append an item to the list; `O(n)` to delete an item.
 
