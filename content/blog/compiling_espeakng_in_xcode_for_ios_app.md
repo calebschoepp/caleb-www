@@ -35,13 +35,13 @@ module EspeakNg [system] {
 
 Now open the app's build settings and add the following import path. Make sure to replace `MyApp` with your app name.
 
-```swift
+```
 ${SRCROOT}/MyApp/espeak-ng/**
 ```
 
 Next in the settings add the following header search paths:
 
-```swift
+```
 ${SRCROOT}/MyApp/espeak-ng/src/include/**
 ${SRCROOT}/MyApp/espeak-ng/src/ucd-tools/src/include/**
 ${SRCROOT}/MyApp/espeak-ng/src/speechPlayer/include
@@ -49,7 +49,7 @@ ${SRCROOT}/MyApp/espeak-ng/src/speechPlayer/include
 
 And the following user header search paths:
 
-```swift
+```
 ${SRCROOT}/MyApp/espeak-ng/src/include/**
 ${SRCROOT}/MyAPP/espeak-ng/src/ucd-tools/src/include/**
 ```
