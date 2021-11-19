@@ -45,8 +45,6 @@ Next in the settings add the following header search path:
 ${SRCROOT}/MyApp/espeak-ng/src/**
 ```
 
-And the following user header search paths:
-
 # Silencing the errors
 
 Xcode will treat this code as a module now but it is going to fail to compile. Your mileage may very in this section, but here is a number of things I had to do to make this C code happily compile in Xcode.
