@@ -39,22 +39,11 @@ Now open the app's build settings and add the following import path. Make sure t
 ${SRCROOT}/MyApp/espeak-ng/**
 ```
 
-Next in the settings add the following header search paths:
+Next in the settings add the following header search path:
 
 ```
-${SRCROOT}/MyApp/espeak-ng/src/include/**
-${SRCROOT}/MyApp/espeak-ng/src/ucd-tools/src/include/**
-${SRCROOT}/MyApp/espeak-ng/src/speechPlayer/include
+${SRCROOT}/MyApp/espeak-ng/src/**
 ```
-
-And the following user header search paths:
-
-```
-${SRCROOT}/MyApp/espeak-ng/src/include/**
-${SRCROOT}/MyAPP/espeak-ng/src/ucd-tools/src/include/**
-```
-
-Feel free to experiment with more concise header search paths here. I was definitely just throwing spaghetti at the wall at this stage. This is just what I got to work and probably not as concise as it could be.
 
 # Silencing the errors
 
