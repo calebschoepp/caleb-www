@@ -116,9 +116,7 @@ I find the digital world to be both a blessing and a curse. Software amplifies b
 
 ## Building
 
-MEME TWEET
-
-<!--  tweet user="zuhayeer" id="1449079602580652035" -->
+{{< tweet user="zuhayeer" id="1449079602580652035" >}}
 
 Building things makes me happy. I don't intend to be prescriptive about what I'll build in 2022 — all that matters is that I build something.
 
@@ -136,7 +134,7 @@ Last year I focused on reading less short/medium-form blog content and more long
 
 ## Writing
 
-https://twitter.com/alexandbooks_/status/1446883211393503232?s=11 TWEET THING here
+{{< tweet user="alexandbooks_" id="1446883211393503232" >}}
 
 I tend to overthink (understatement of the year) so I should definitely be writing more. In the first year of this blog I managed to write eight posts. I chalk it up to a productive spurt in the early COVID lockdowns. In 2021 I only managed to write five. I think it'd be a big win if I wrote ten or more posts in 2022. Writing has compounding benefits so I want to start the compounding sooner than later.
 
