@@ -1,6 +1,6 @@
 ---
 title: "Year in Review: 2021"
-date: 2021-12-29
+date: 2021-12-30
 draft: false
 ---
 
@@ -64,79 +64,110 @@ Honorable mentions for **The Office**, **Rick and Morty**, **Drive to Survive**,
 9. **My First Million** — at times the hustle is a bit too much, but with timestamps you can find some diamonds in the rough.
 10. **The Tim Ferriss Show** — perhaps Tim could make less liberal use of his soap box, but — you guessed it — some episodes are diamonds in the rough.
 
-# Looking Forward to 2021
+# Looking Forward to 2022
 
 ## Career
 
-Most straightforward
+By the end of this year I'll graduate. With that in mind I will need to start making some decisions about where I want to work full-time and where I want to live. I also want to consider less traditional options like digital nomading or consulting.
 
-- Graduate
-- Rock my summer internship
-- Setup myself up for digital nomading or a rocking full-time offer
+{{< begin_task_list >}}
+
+- [ ] Graduate!
+- [ ] Leverage my connections to have multiple full-time offers post-graduation.
+- [ ] Seriously research the possibility of digital nomading or consulting at the start of 2023.
 
 ## Travel and Adventure
 
-Spice up my life
+Thanks to remote schooling and work I spend a lot of time at home. Travelling abroad and doing adventurous things is a great way to spice up my life.
 
-- Eastern Canada
-- Canoeing
+{{< begin_task_list >}}
+
+- [ ] Travel to Eastern Canada.
+- [ ] Do a multi-night canoe trip on the North Saskatchewan.
+- [ ] Bike an imperial century.
 
 ## Health
 
-Lots of health problems. Need to take a more holistic approach.
+I've had some trouble with physical and mental health problems over 2021. Looking forward to 2022 I want to take a more holistic approach to my health, or in other words, I want to do a lot of yoga.
 
-- Yoga
-- At home exercise
-- Biking
+{{< begin_task_list >}}
+
+- [ ] Build a habit of doing yoga multiple times a week.
+- [ ] Do a mix of body weight exercises at home and weightlifting at the gym.
+- [ ] Keep biking and training for a century.
 
 ## Digital Life
 
-So much benefit but so much damage.
+I find the digital world to be both a blessing and a curse. Software amplifies both the good and the bad. On one hand I've never been more connected, empowered, and informed. On the other hand I've never felt so paralyzed, discouraged, and confused. Not quite sure how to get off the treadmill or if I even want to, but the following seem like some rational first steps.
 
-- Control my social media consumption
-- Phone in the morning
+{{< begin_task_list >}}
+
+- [ ] Avoid having my phone be the first thing I interact with in the morning.
+- [ ] Limit the empty calories I consume i.e. Instagram, Youtube, etc.
 
 ## Finances
 
-Made big progress in 2021. Going to be an expensive year being mostly at school.
+2021 was a big year for my finances: I read some great investing books; started investing in crypto; got my traditional investments in order; and built a big spreadsheet to help me keep track of my overall financial direction. I'd be happy if all I did in 2022 was continue to dollar cost average into my investments and keep my spreadsheet up to date — compounding will take care of the rest.
 
-- Keep dollar cost averaging into stock,btc,eth
-- Keep up with finance spreadsheet
+{{< begin_task_list >}}
+
+- [ ] Keep dollar cost averaging into index funds, ETH, BTC.
+- [ ] Keep my spreadsheet up to date.
 
 ## Building
 
-Building makes me happy. Be pretty loose here but I would be happy with
+MEME TWEET
 
-- 2+ build projects
+<!--  tweet user="zuhayeer" id="1449079602580652035" -->
+
+Building things makes me happy. I don't intend to be prescriptive about what I'll build in 2022 — all that matters is that I build something.
+
+{{< begin_task_list >}}
+
+- [ ] Build and publish 2+ projects.
 
 ## Reading
 
-Made a big push last year to start reading more books than blogs for reasons. Want to continue
+Last year I focused on reading less short/medium-form blog content and more long-form book content. Blogs have their place, but I felt I was missing some of the nuance you find in books. I also wanted to rediscover fiction. It was a good start last year but I want to pick up the pace. The Kobo I got for christmas should hopefully assist with this.
 
-- Kobo
-- 1.5 books a month
+{{< begin_task_list >}}
+
+- [ ] Read 1.5+ books a month (for a total of 18+ over the year).
 
 ## Writing
 
-Crypto theses quote. Try to write more. Wrote 8 in 2020, wrote 5 in 2021. I'd be happy if I wrote 10 or more
+https://twitter.com/alexandbooks_/status/1446883211393503232?s=11 TWEET THING here
 
-- 10 or more published
+I tend to overthink (understatement of the year) so I should definitely be writing more. In the first year of this blog I managed to write eight posts. I chalk it up to a productive spurt in the early COVID lockdowns. In 2021 I only managed to write five. I think it'd be a big win if I wrote ten or more posts in 2022. Writing has compounding benefits so I want to start the compounding sooner than later.
+
+{{< begin_task_list >}}
+
+- [ ] Publish 10+ blog posts.
 
 ## Guitar
 
-This was one of my favorite parts of 2021. Let's keep it rolling.
+Learning guitar was one of the best decisions I made in 2021 so I want to keep my foot on the gas pedal. The hardest thing here will be continuing to do focused practice; at the one year mark I have enough skill that I find it really easy to waste a whole practice session just noodling rather than working on the fundamentals.
 
-- Theory
-- Justin Guitar modules?
-- Perform for people
-- Jam with people
-- Maybe record something?
+{{< begin_task_list >}}
+
+- [ ] Complete Justin Guitar Beginner Grade 3.
+- [ ] Complete Justin Guitar Ear Training and Theory up to Grade 3.
+- [ ] Keep playing in front of family and friends to practice performing.
+- [ ] Find more people to jam with.
+- [ ] Stretch goal: Try to record a song.
 
 ## Web 3.0
 
-Bonus crypto section. 20201 opened my eyes to crypto and I finally started buying btc/eth and mining hnt. I want to dive in hard in 2022, understand what are the opportunities for building in the space
+> If you’re in college, I’d encourage you to spend the spring semester (maybe redeploy your book budget into ETH gas fees), learning and testing different crypto protocols on Earn, Rabbithole and other places. Best case scenario, you hit the lotto on a few more airdrops. Worst case? You flunk out, and you’ll get hired on the spot by a crypto company once you show them your degen score and NFT merit badge library.
+> <br>
+> — **Ryan Selkis in Crypto Theses for 2022**
 
-- Helium more miners
-- Register an ENS domain
-- Try out NFTs in different use cases
-- Try out some simple defi
+2021 was the year that I got red-pilled by crypto; I started buying ETH and BTC; I started mining HNT; but most of all I read and listened to a lot of crypto content. In 2022 I want to double down on actually tinkering around with crypto. I'm convinced that Web 3.0 is going to be huge so I want to get in early. The end goal of the tinkering is to discover what still needs to be built and to go build it.
+
+{{< begin_task_list >}}
+
+- [ ] Continue to dollar cost average my way into ETH and BTC.
+- [ ] Purchase or host more Helium miners.
+- [ ] Register an ENS domain.
+- [ ] Try out some DeFi protocols.
+- [ ] Buy some NFTs and get involved with the communities.
