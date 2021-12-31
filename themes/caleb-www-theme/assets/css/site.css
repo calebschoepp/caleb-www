@@ -129,3 +129,8 @@ article .callout {
 summary {
   display: revert;
 }
+
+div.begin-task-list + ul {
+  list-style: none;
+  margin-left: -1em;
+}
