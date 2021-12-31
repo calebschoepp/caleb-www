@@ -4,8 +4,6 @@ date: 2021-12-30
 draft: false
 ---
 
-**TODO fix publish date**
-
 As 2021 comes to a close it's time to look in the rear-view mirror and reflect on what I've done, where I've been, and what I've consumed. I'll also look forward to what I want next year to look like.
 
 # Top 10 Moments
@@ -42,14 +40,14 @@ Honorable mentions for **The Office**, **Rick and Morty**, **Drive to Survive**,
 
 1. **To Sleep in a Sea of Stars** — one of the most compelling science fiction books I've read. Paolini's visions of ship minds and augmented reality are riveting.
 2. **The Psychology of Money** — as far as I'm concerned this book is a must read. It seriously changed how I think about my risk tolerances for investing.
-3. **Cloud Atlas** — this is worth reading for the unique narrative structure alone. Spoiler alert: Think Russian nesting doll.
+3. **Cloud Atlas** — this is worth reading for the unique narrative structure alone (think Russian nesting doll).
 4. **Crypto Theses for 2022** — stumbled across this in an email newsletter and then spent the next two days chained to my desktop reading it like a madman. It sold me on NFTs with this quote, "If a big part of our future lives are spent living in global, virtual, interconnected worlds (the metaverse), then NFTs are some of the primary building blocks for everything in that world".
 5. **Foundation series** — a classic series that comes highly recommended. Fascinating to follow the thread of the Foundation through a century spanning history.
 6. **Bird Box** — a terrifying read. Way better than the movie. A story about wearing blindfolds deserves to be read, not watched 🤦.
-7. **Real-World Cryptography** — I read this on the beaches of Mexico while sipping piña coladas of all places. Cryptography is still a complex and risk-laden field but this book primed me with enough of the basics that I feel prepared to navigate it anyways.
+7. **Real-World Cryptography** — of all places I read this on the beaches of Mexico while sipping piña coladas. Cryptography is still a complex and risk-laden field but this book primed me with enough of the basics that I feel prepared to navigate it anyways.
 8. **The Wealthy Barber** — this was probably the fourth time I've read the book, but I always learn something new. It's outdated in parts but the core message still holds water.
 9. **Operating Systems: Three Easy Pieces** — this book unlocked a big part of the modern computing environment for me. I love peeling back layers of abstraction and seeing how something works underneath.
-10. **The Mom Test** — an indie hackers classic. For the most part it lives up to the hype and provides you with some solid mental models for customer conversations.
+10. **The Mom Test** — an indie hackers classic. For the most part it lives up to the hype and provides you with some solid mental models for customer conversations and product discovery.
 
 # Top 10 Podcasts
 
@@ -68,7 +66,7 @@ Honorable mentions for **The Office**, **Rick and Morty**, **Drive to Survive**,
 
 ## Career
 
-By the end of this year I'll graduate. With that in mind I will need to start making some decisions about where I want to work full-time and where I want to live. I also want to consider less traditional options like digital nomading or consulting.
+By the end of this year I'll graduate. With that in mind I'll need to start making some decisions about where I want to work full-time and where I want to live. I also want to consider less traditional options like digital nomading or consulting for the start of 2023.
 
 {{< begin_task_list >}}
 
@@ -98,7 +96,7 @@ I've had some trouble with physical and mental health problems over 2021. Lookin
 
 ## Digital Life
 
-I find the digital world to be both a blessing and a curse. Software amplifies both the good and the bad. On one hand I've never been more connected, empowered, and informed. On the other hand I've never felt so paralyzed, discouraged, and confused. Not quite sure how to get off the treadmill or if I even want to, but the following seem like some rational first steps.
+I find the digital world to be both a blessing and a curse, software itself is amoral but amplifies the underlying good or bad. On one hand I've never been more connected, empowered, and informed. On the other hand I've never felt so isolated, paralyzed, and confused. Not quite sure how to get off the treadmill or if I even want to, but the following seem like some rational first steps.
 
 {{< begin_task_list >}}
 
@@ -111,7 +109,7 @@ I find the digital world to be both a blessing and a curse. Software amplifies b
 
 {{< begin_task_list >}}
 
-- [ ] Keep dollar cost averaging into index funds, ETH, BTC.
+- [ ] Keep dollar cost averaging into passive index funds, ETH, BTC.
 - [ ] Keep my spreadsheet up to date.
 
 ## Building
@@ -126,7 +124,7 @@ Building things makes me happy. I don't intend to be prescriptive about what I'l
 
 ## Reading
 
-Last year I focused on reading less short/medium-form blog content and more long-form book content. Blogs have their place, but I felt I was missing some of the nuance you find in books. I also wanted to rediscover fiction. It was a good start last year but I want to pick up the pace. The Kobo I got for christmas should hopefully assist with this.
+Last year I focused on reading less short/medium-form blog content and more long-form book content. Blogs have their place, but I felt that I was missing some of the nuance you find in books. I also wanted to rediscover fiction. It was a good start last year but I want to pick up the pace. The Kobo I got for christmas should hopefully assist with this.
 
 {{< begin_task_list >}}
 
@@ -152,7 +150,7 @@ Learning guitar was one of the best decisions I made in 2021 so I want to keep m
 - [ ] Complete Justin Guitar Ear Training and Theory up to Grade 3.
 - [ ] Keep playing in front of family and friends to practice performing.
 - [ ] Find more people to jam with.
-- [ ] Stretch goal: Try to record a song.
+- [ ] Stretch goal: Record a cover of a song.
 
 ## Web 3.0
 
