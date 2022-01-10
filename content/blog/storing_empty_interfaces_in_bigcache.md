@@ -28,7 +28,7 @@ var type interface{} // Could be anything
 gob.register(type)
 ```
 
-# Putting It All Together
+## Putting It All Together
 
 With the problem of storing an arbitrary struct as bytes solved, I'll show you how I put it all together. First we want an interface for the cache that the rest of the system can interact with. For a simple cache we don’t need much more than get and set methods.
 

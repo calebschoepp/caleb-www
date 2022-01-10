@@ -8,7 +8,7 @@ When I first started programming, I struggled a lot with how I should organize a
 
 Thank you to Dan Fletcher for his [blog post](http://www.danfletcherblog.ca/2017/01/beginners-tip-organize-coding-projects/) on this very topic. He helped me figure this out when I was starting out. The following is a summary and rehashing of his fantastic ideas.
 
-# Don't
+## Don't
 
 **Make heavy use of nesting:** At first, it seems like nesting is the key to good organization. This is wrong for two main reasons. First, nesting makes long filepaths which makes navigation with the command-line inconvenient. Second, deeply nested directories impose too brittle of a hierarchy. Eventually you will have files that can live in multiple places within the hierarchy. Then the hierarchy becomes inconsistent and loses its value. Keep things simple and avoid nesting too deeply.
 
@@ -40,7 +40,7 @@ by-language
     └── project-4
 ```
 
-# Do
+## Do
 
 **Keep everything in one place:** I have a single directory on my computer that all my programming work lives under. Get creative with the name! I call mine the `batcave`. What would you call yours?
 

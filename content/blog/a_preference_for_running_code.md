@@ -6,7 +6,7 @@ draft: true
 
 It seems to me that every programmer has an innate desire to rip everything out and rebuild the system from scratch "the right way". I'm fascinated by the psychology behind this. More often than not I catch myself thinking like this and it rarely gives me the results I thought it would. Instead of the overall improvement I was expecting when starting fresh, there ends up a set of new bugs and technical debts that reignite this vicious cycle. I think I might have some insight into why this happens.
 
-# The mountain of abstractions
+## The mountain of abstractions
 
 My favorite thing about software engineering is abstraction. What a beautiful concept. Nothing makes you feel more powerful than building a new abstraction that didn't exist before.
 
@@ -18,7 +18,7 @@ So why do programmers always want to rip everything out and start from fresh. It
 
 The core problem here is that we need to keep building up the abstractions to do our work, but we need to avoid succumbing to the naive temptation to tear it all down.
 
-# A preference for running code
+## A preference for running code
 
 At work, my team was working to build some significant new functionality into our existing systems. The decision with every new piece of functionality was to find ways to integrate it into our currently existing systems. This was very surprising to me. From my perspective the new requirements were orthogonal to what we already had and so they belonged in there own services where they could be scaled and maintained independently. When I brought up my concerns the senior engineers kept stating, "We have a preference for running code", meaning not starting over but rather molding what they already have. At the time I don't think I appreciated how wise that statement is, but in the light of what I've observed above it makes total sense.
 

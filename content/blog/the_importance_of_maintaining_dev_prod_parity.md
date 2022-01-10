@@ -10,7 +10,7 @@ The project was a web service to convert an email newsletter into a PDF for offl
 
 Generating the PDF required a plethora of tools. I used [Puppeteer](https://github.com/puppeteer/puppeteer) to render links as HTML documents and convert them to PDFs; a mix of the Python PDF libraries [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) and [PyPDF4](https://github.com/claird/PyPDF4) to merge and link the generated PDFs; and [GhostScript](https://www.ghostscript.com/) to compress the final result.
 
-# A World Without
+## A World Without
 
 At the start, I hacked together a mess of Python, Node.js, and Bash scripts to prove I could get it to work. When it came time to try and deploy it in a more robust fashion, I had three obvious choices for hosting — a VPS like Digital Ocean, a PaaS like Heroku, or something serverless like AWS Lambda.
 
@@ -26,15 +26,15 @@ I added all these tools/plugins/shims to be able to solve my problem, but they w
 
 Without the ability to test locally, development ground to a halt. Every syntax error, typo, and silly accident was locked behind 15 minutes of waiting. So much for rapid iteration. Over time, I lost interest and the project died.
 
-# Dev/Prod Parity
+## Dev/Prod Parity
 
 If I had been able to test my project locally it wouldn’t have died. Testing changes locally would have shortened my feedback loop. 30 seconds is much more manageable than 15 minutes. In other words, what killed my project was a failure to maintain Dev/Prod parity.
 
 Dev/Prod parity is the idea that your local testing environment should be as close to identical to your production environment as possible. I like the description of it from the [Twelve-Factor App](https://12factor.net/dev-prod-parity). If you aren’t already familiar with the idea of a Twelve-Factor App, you should go check it out - it’s great.
 
-My failed side project is an extreme example of losing environment parity; in fact, by the end, there was no parity. The only working environment was prod. But even in less extreme cases, differences in environments can start to cause big problems. 
+My failed side project is an extreme example of losing environment parity; in fact, by the end, there was no parity. The only working environment was prod. But even in less extreme cases, differences in environments can start to cause big problems.
 
-# Key Takeaways
+## Key Takeaways
 
 It’s clear to me now why Dev/Prod parity is so valuable. There are two ways it will change how I work on future projects.
 
@@ -43,4 +43,3 @@ First, I’m going to be more cognizant of how new features break Dev/Prod parit
 Second, I need to start thinking about Dev/Prod parity from the very start of the project. Even before I write the first line of code. In hindsight, choosing to use AWS Lambda was a mistake for my particular situation. The tooling for doing advanced workflows with AWS Lambda is still very nascent and set me up for failure. Sure it’s easy to locally emulate a simple CRUD app with only a few functions. But local emulation is untenable once you need binaries, Step Functions, and Docker build steps.
 
 My side project died on the vine, but yours doesn’t have to. With the discipline to maintain Dev/Prod parity, you can avoid the issues I had.
-

@@ -8,7 +8,7 @@ Compiling a C program that used `nanosleep` turned out to be quite the thorn in 
 
 **TL;DR** — Try compiling your program with a GNU standard e.g. `gcc -std=gnu11 ...`
 
-# Debugging
+## Debugging
 
 Here's a simplified version of what I was trying to compile.
 
@@ -54,21 +54,21 @@ extern int nanosleep (const struct timespec *__requested_time,
 
 A grep of the C99 standard output only turned up the instance of `timespec` used in `main.c`. The default standard output had a `timespec` struct, a `nanosleep` declaration, and even more I've left out. These declarations resolved both the error and warning I was encountering.
 
-# Going Further
+## Going Further
 
 A fix, hooray! But, this left me with more questions than answers. First off, what standard does GCC use by default when we don't select one? My machine is running GCC `v7.5.0` and thanks to this [helpful Stackoverflow answer](https://stackoverflow.com/a/44057210) we can see that GCC is defaulting to the GNU11 standard. So apparently `time.h` from the GNU11 standard's gives us what we need where as the `time.h` from the C99 standard does not.
 
 This begs the question of what other standards work. I tested a few of the common options and have placed the results below.
 
-## GNU89 / GNU99 / GNU11
+### GNU89 / GNU99 / GNU11
 
 No issues here. The `nanosleep` function works flawlessly with all these standards.
 
-## C89 / C99
+### C89 / C99
 
 Both fail to compile with the all too familiar "storage size isn't known error". Neither standards include `struct timespec` or `nanosleep`. A fun tidbit is that the C89 standard does not trigger a warning for the implicit declaration of a function — this wasn't part of the C language yet.
 
-## C11
+### C11
 
 C11 is something of an anomaly. It compiles successfully but still throws the implicit declaration error. However, we can quench this error by defining the POSIX source macro[^1] I mentioned earlier.
 

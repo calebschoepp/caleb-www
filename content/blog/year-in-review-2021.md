@@ -6,7 +6,7 @@ draft: false
 
 As 2021 comes to a close it's time to look in the rear-view mirror and reflect on what I've done, where I've been, and what I've consumed. I'll also look forward to what I want next year to look like.
 
-# Top 10 Moments
+## Top 10 Moments
 
 1. **Travelling to Portugal for ~2 weeks** — port tasting and the Castle of Marvão were some of the highlights.
 2. **Spending ~2 weeks with my family in Mexico** — I was lucky to be able to work remotely for Resemble AI during this time. Shout-out to Karen's for their happy hour piña coladas.
@@ -21,7 +21,7 @@ As 2021 comes to a close it's time to look in the rear-view mirror and reflect o
 
 Honorable mention to **buying a Quest 2**. It's an amazing piece of hardware and it has some really great games on it.
 
-# Top 10 Movies and TV Shows
+## Top 10 Movies and TV Shows
 
 1. **Bo Burnham: Inside** — this literally left my jaw on the floor.
 2. **Don't Look Up** — I don't even know how to describe how perfect the social commentary in this is. I wonder if my death will involve a Brontaroc?
@@ -36,7 +36,7 @@ Honorable mention to **buying a Quest 2**. It's an amazing piece of hardware and
 
 Honorable mentions for **The Office**, **Rick and Morty**, **Drive to Survive**, **Brooklyn Nine-Nine** and **Archer**. These shows either released great new seasons or in the case of The Office are amazing enough to re-watch a third time.
 
-# Top 10 Books
+## Top 10 Books
 
 1. **To Sleep in a Sea of Stars** — one of the most compelling science fiction books I've read. Paolini's visions of ship minds and augmented reality are riveting.
 2. **The Psychology of Money** — as far as I'm concerned this book is a must read. It seriously changed how I think about my risk tolerances for investing.
@@ -49,7 +49,7 @@ Honorable mentions for **The Office**, **Rick and Morty**, **Drive to Survive**,
 9. **Operating Systems: Three Easy Pieces** — this book unlocked a big part of the modern computing environment for me. I love peeling back layers of abstraction and seeing how something works underneath.
 10. **The Mom Test** — an indie hackers classic. For the most part it lives up to the hype and provides you with some solid mental models for customer conversations and product discovery.
 
-# Top 10 Podcasts
+## Top 10 Podcasts
 
 1. **All-In** — billionaires shooting the shit, 'nuff said.
 2. **Bankless** — my crypto red pill.
@@ -62,9 +62,9 @@ Honorable mentions for **The Office**, **Rick and Morty**, **Drive to Survive**,
 9. **My First Million** — at times the hustle is a bit too much, but with timestamps you can find some diamonds in the rough.
 10. **The Tim Ferriss Show** — perhaps Tim could make less liberal use of his soap box, but — you guessed it — some episodes are diamonds in the rough.
 
-# Looking Forward to 2022
+## Looking Forward to 2022
 
-## Career
+### Career
 
 By the end of this year I'll graduate. With that in mind I'll need to start making some decisions about where I want to work full-time and where I want to live. I also want to consider less traditional options like digital nomading or consulting for the start of 2023.
 
@@ -74,7 +74,7 @@ By the end of this year I'll graduate. With that in mind I'll need to start maki
 - [ ] Leverage my connections to have multiple full-time offers post-graduation.
 - [ ] Seriously research the possibility of digital nomading or consulting at the start of 2023.
 
-## Travel and Adventure
+### Travel and Adventure
 
 Thanks to remote schooling and work I spend a lot of time at home. Travelling abroad and doing adventurous things is a great way to spice up my life.
 
@@ -84,7 +84,7 @@ Thanks to remote schooling and work I spend a lot of time at home. Travelling ab
 - [ ] Do a multi-night canoe trip on the North Saskatchewan.
 - [ ] Bike an imperial century.
 
-## Health
+### Health
 
 I've had some trouble with physical and mental health problems over 2021. Looking forward to 2022 I want to take a more holistic approach to my health, or in other words, I want to do a lot of yoga.
 
@@ -94,7 +94,7 @@ I've had some trouble with physical and mental health problems over 2021. Lookin
 - [ ] Do a mix of body weight exercises at home and weightlifting at the gym.
 - [ ] Keep biking and training for a century.
 
-## Digital Life
+### Digital Life
 
 I find the digital world to be both a blessing and a curse, software itself is amoral but amplifies the underlying good or bad. On one hand I've never been more connected, empowered, and informed. On the other hand I've never felt so isolated, paralyzed, and confused. Not quite sure how to get off the treadmill or if I even want to, but the following seem like some rational first steps.
 
@@ -103,7 +103,7 @@ I find the digital world to be both a blessing and a curse, software itself is a
 - [ ] Avoid having my phone be the first thing I interact with in the morning.
 - [ ] Limit the empty calories I consume i.e. Instagram, Youtube, etc.
 
-## Finances
+### Finances
 
 2021 was a big year for my finances: I read some great investing books; started investing in crypto; got my traditional investments in order; and built a big spreadsheet to help me keep track of my overall financial direction. I'd be happy if all I did in 2022 was continue to dollar cost average into my investments and keep my spreadsheet up to date — compounding will take care of the rest.
 
@@ -112,7 +112,7 @@ I find the digital world to be both a blessing and a curse, software itself is a
 - [ ] Keep dollar cost averaging into passive index funds, ETH, BTC.
 - [ ] Keep my spreadsheet up to date.
 
-## Building
+### Building
 
 {{< tweet user="zuhayeer" id="1449079602580652035" >}}
 
@@ -122,7 +122,7 @@ Building things makes me happy. I don't intend to be prescriptive about what I'l
 
 - [ ] Build and publish 2+ projects.
 
-## Reading
+### Reading
 
 Last year I focused on reading less short/medium-form blog content and more long-form book content. Blogs have their place, but I felt that I was missing some of the nuance you find in books. I also wanted to rediscover fiction. It was a good start last year but I want to pick up the pace. The Kobo I got for christmas should hopefully assist with this.
 
@@ -130,7 +130,7 @@ Last year I focused on reading less short/medium-form blog content and more long
 
 - [ ] Read 1.5+ books a month (for a total of 18+ over the year).
 
-## Writing
+### Writing
 
 {{< tweet user="alexandbooks_" id="1446883211393503232" >}}
 
@@ -140,7 +140,7 @@ I tend to overthink (understatement of the year) so I should definitely be writi
 
 - [ ] Publish 10+ blog posts.
 
-## Guitar
+### Guitar
 
 Learning guitar was one of the best decisions I made in 2021 so I want to keep my foot on the gas pedal. The hardest thing here will be continuing to do focused practice; at the one year mark I have enough skill that I find it really easy to waste a whole practice session just noodling rather than working on the fundamentals.
 
@@ -152,7 +152,7 @@ Learning guitar was one of the best decisions I made in 2021 so I want to keep m
 - [ ] Find more people to jam with.
 - [ ] Stretch goal: Record a cover of a song.
 
-## Web 3.0
+### Web 3.0
 
 > If you’re in college, I’d encourage you to spend the spring semester (maybe redeploy your book budget into ETH gas fees), learning and testing different crypto protocols on Earn, Rabbithole and other places. Best case scenario, you hit the lotto on a few more airdrops. Worst case? You flunk out, and you’ll get hired on the spot by a crypto company once you show them your degen score and NFT merit badge library.
 > <br>

@@ -10,7 +10,7 @@ Lox is a programming language from the fantastic book [Crafting Interpreters](ht
 
 My hope is that this post will help give you the confidence to start hacking on programming languages yourself. When I finished Crafting Interpreters I certainly didn't feel qualified to keep working on the language. I missed the comfort of Robert's witty writing, delightful drawings, and copious code-snippets. I'm here to show you that if I can add something like lists to Lox then so can you.
 
-# Overview
+## Overview
 
 When the Clox interpreter runs it starts by lexing source code into a stream of tokens. Next, it simultaneously parses the stream of tokens and compiles it into bytecode[^3]. Finally, the VM executes the bytecode.
 
@@ -28,7 +28,7 @@ I generally find working in reverse easier. When I start with something like lex
 
 With this in mind, let's dive in!
 
-# Semantics and Source Code
+## Semantics and Source Code
 
 Semantics is just a fancy way of saying what we want something to do. We should start with the basics. How do we want the user of our language to define a list literal?
 
@@ -105,7 +105,7 @@ print delete(foo, 2); // Expect: nil
 
 Great work, users can now grow and shrink lists as they wish. This concludes the list semantics that we will be implementing in this post. Again for simplicity’s sake, a number of common list features have been left out. These include slicing `print foo[1:8];`, reverse indexing `print foo[-1];`, and more. For more details on some of these items you can check out the [challenges](#challenges) section
 
-# Building a Runtime
+## Building a Runtime
 
 Now that we know what semantics lists should have, we need to update the interpreter’s runtime. This is where the rubber hits the road. The runtime is just some C code that does the work of executing our Lox source code. If the runtime for lists is slow, then you can be sure that lists will be slow in Lox too. Considering this, how should we implement the runtime for lists? Two data structures immediately come to mind: dynamic arrays and linked lists.
 
@@ -175,7 +175,7 @@ bool isValidListIndex(ObjList* list, int index) {
 
 Still with me? Fantastic, because we just implemented the entire runtime for lists. Not too shabby. Note that if you are following along with your own implementation there are still a few things you'll need to add. Notably, type checking macros like `IS_LIST`/`AS_LIST`, function declarations in `object.h`, and code to print our new list object.
 
-# Operation Opcode
+## Operation Opcode
 
 Clox is a bytecode interpreter. This means that it compiles source code into a stream of bytecode which the VM can then execute via the runtime. Bytecode consists of some opcodes (1-byte instructions) with optional operands (1-byte arguments). To implement lists we will need to add some new opcodes to Clox.
 
@@ -274,7 +274,7 @@ case OP_STORE_SUBSCR: {
 
 And that concludes designing and implementing the new opcodes required for lists in Lox. For a full implementation be sure to update `debug.c` with switch-cases for the new opcodes.
 
-# The Power of Parsing
+## The Power of Parsing
 
 Up until this point, our interpreter still can't handle lists end to end. Hypothetically, the interpreter could execute hand compiled bytecode. But, hand compiling is no fun, so let's automate it.
 
@@ -364,11 +364,11 @@ case '[': return makeToken(TOKEN_LEFT_BRACKET);
 case ']': return makeToken(TOKEN_RIGHT_BRACKET);
 ```
 
-# Finishing Up
+## Finishing Up
 
 Alright, let's come up for air. That was a lot of code. We should be proud of ourselves though, we finally have lists working end to end. Unfortunately, we are still missing a few key parts of the implementation before we can call it done. We need to do two things: implement the `append` and `delete` functions, and update the garbage collector.
 
-## Append and Delete
+### Append and Delete
 
 `append` and `delete` will be available to the user through the native function interface. Both functions are simple wrappers around the runtime we built earlier in the post. The Clox native function interface does not currently handle errors so this has been left as an exercise to the reader. Here is the code in `vm.c`.
 
@@ -402,7 +402,7 @@ static Value deleteNative(int argCount, Value* args) {
 }
 ```
 
-## Garbage Collection
+### Garbage Collection
 
 Ensuring that garbage collection was working correctly was the most difficult part of the implementation. On its face, it is a relatively simple task. To wire up lists to the garbage collector we need to handle two switch-cases in `memory.c`. In `blackenObject` we mark every item in the list.
 
@@ -441,7 +441,7 @@ for (int i = itemCount; i > 0; i--) {
 pop();
 ```
 
-## All Done
+### All Done
 
 Congratulations! We've finished a complete implementation of a performant list type. This is no small feat. Lists will certainly make programming in Lox much nicer. I hope that working through this encourages you to go and hack on programming languages too. Thanks for reading!
 
@@ -449,7 +449,7 @@ If you are looking for more things to explore beyond what we've gone over in thi
 
 {{% callout %}}
 
-## Challenges
+### Challenges
 
 1. More fully-featured languages often present a wider variety of ways to access items in a list. This includes negative indexing and slicing. Negative indexing is quite simple; an index of `-1` accesses the last item, `-2` the second last, and so forth. Slicing allows a user to easily extract and operate on portions of a list. In Python, something like `myList[2:8:2]` would take every second item of the list starting at index `2` and going to index `8` exclusive. Try supporting negative indexing in `OP_INDEX_SUBSCR`. Then try adding a native function with the signature `Value slice(start, stop, step)`.
 
