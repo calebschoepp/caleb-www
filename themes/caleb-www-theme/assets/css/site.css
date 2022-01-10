@@ -40,6 +40,13 @@ article h1 {
 }
 
 article h2 {
+  @apply text-4xl;
+  @apply mt-12;
+  @apply leading-none;
+  @apply text-left;
+}
+
+article h3 {
   @apply text-2xl;
   @apply mt-6;
   @apply font-semibold;

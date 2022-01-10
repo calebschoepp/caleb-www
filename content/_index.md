@@ -9,13 +9,13 @@ draft: false
 Hi I'm Caleb, a Computer Engineering student at the University of Alberta. In the past I've interned at Microsoft, UnifyID, and Resemble AI. I like building full-stack apps, playing guitar, and spending time with my family. Please get in touch, I'd love to chat.
 
 {{% novelty_link %}}
-Learn [/about](/about) me
+Learn [/about](/about/) me
 {{% /novelty_link %}}
 
 {{% novelty_link %}}
-See my [/projects](/projects)
+See my [/projects](/projects/)
 {{% /novelty_link %}}
 
 {{% novelty_link %}}
-Read my [/blog](/blog)
+Read my [/blog](/blog/)
 {{% /novelty_link %}}
