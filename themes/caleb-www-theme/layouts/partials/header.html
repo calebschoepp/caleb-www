@@ -1,10 +1,14 @@
 <header class="max-w-screen-md mx-auto text-center">
+  {{ if or (eq .RelPermalink "/") (eq .RelPermalink "/about/") (eq .RelPermalink
+  "/projects/") (eq .RelPermalink "/blog/")}}
   <h1>
     <a class="text-4xl sm:text-6xl hover:text-gray-600" href="/"
       >Caleb Schoepp</a
     >
   </h1>
-  <!-- <h2 class="text-xl">engineer &middot; hacker &middot; go-getter</h2> -->
+  {{ else }}
+  <a class="text-4xl sm:text-6xl hover:text-gray-600" href="/">Caleb Schoepp</a>
+  {{ end }}
   <nav>
     <div class="inline-block border-t border-b border-gray-800 p-2 text-lg">
       <a
