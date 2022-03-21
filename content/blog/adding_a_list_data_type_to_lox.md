@@ -274,6 +274,8 @@ case OP_STORE_SUBSCR: {
 
 And that concludes designing and implementing the new opcodes required for lists in Lox. For a full implementation be sure to update `debug.c` with switch-cases for the new opcodes.
 
+{{% collect_email %}}
+
 ## The Power of Parsing
 
 Up until this point, our interpreter still can't handle lists end to end. Hypothetically, the interpreter could execute hand compiled bytecode. But, hand compiling is no fun, so let's automate it.

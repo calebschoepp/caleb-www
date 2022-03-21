@@ -133,6 +133,13 @@ article .callout {
   @apply shadow-xl;
 }
 
+article .callout-grey {
+  background-color: #c9c9c933;
+  @apply p-4;
+  @apply shadow-xl;
+}
+
+
 summary {
   display: revert;
 }
