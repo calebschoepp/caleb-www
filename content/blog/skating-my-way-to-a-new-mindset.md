@@ -18,9 +18,9 @@ After a decade of being embarrassed about not being able to skate it had become 
 
 In a twist of fate, for the first time in years the outdoor rink by my house was being maintained. A saint of a gentleman from the neighborhood was carefully flooding the rink and keeping the shack open every night. Pristine ice a two minute walk from my house — what a waste!
 
-On the encouragement of my family I made a move that was out of character for me. I bought some skates, laced up, and hit the rink. I was bad. Really bad. But, something happened that I didn't expect. I had a really good time. So I kept going back to the rink and I started getting better. Although I'm sure this is unsurprising to reader, let me assure you that this was surprising to me — the silly American who could never learn to skate.
+On the encouragement of my family I made a move that was out of character for me. I bought some skates, laced up, and hit the rink. I was bad. Really bad. But, something happened that I didn't expect. I had a really good time. So I kept going back to the rink and I started getting better. Although I'm sure the idea that skating would make you a better skater is unsurprising to the reader. Let me assure you that this was surprising to me — the silly American who could never learn to skate.
 
-What started as going to the rink once a week turned into going to the rink every night. I started playing shinny with people from the neighborhood. I started to learn to crossover and skate backwards. I wasn't very good — nine year olds could still beat me in a 1-1 game of hockey — but, I could skate!
+What started as going to the rink once a week turned into going to the rink every night. I started playing shinny with people from the neighborhood. I started to learn to crossover and skate backwards. I wasn't very good — nine year olds could still beat me in a 1-1 game of hockey — but I could skate!
 
 My inability to skate had always been a part of my identity. A shameful and unhelpful part of my identity, but, a part of it all the same. I viewed learning to skate as an attack on my identity. Or in other words, my fixed mindset told me that skills are innate and unlearnable. I can't skate thus I'll never be able to skate.
 
