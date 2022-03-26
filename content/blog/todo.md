@@ -14,7 +14,7 @@ What follows is an _extremely_ opinionated take on what I think is the right way
 
 These opinions were formed from years of making shoddy technical decisions while building web apps. I'd like to think I've learned a thing or two along the way. I'm sure that in a couple years I'll look back at this and disagree with a good portion of it, but, that's okay. Changing your mind is important.
 
-## You don't need a SPA dummy
+## You Don't Need an SPA Dummy
 
 Much ink has been spilled over the issues of building single-page applications (SPAs). I tend to agree with most of it.
 
@@ -26,11 +26,11 @@ So if you're not going to build your web app with the JS framework of the week, 
 
 We'll start with the Rails because it is the more important of the two. Rails is the best MVC web framework ever written, full stop. Fight me. If you don't know Rails yet stop reading this guide and go learn it, then come back here. I seriously feel that strong about it.
 
-Everything about Rails is meant to save you time while maintaining quality. The mantra of convention over configuration keeps you from wasting time bike-shedding[^3]. The `rails generate` utilities get you 90% of the way to where you need to go at the cost of typing like 20 characters. The actual usage of Rails reads like a DSL for the web which saves you from having to translate between the world of your interpreter and the world of the web.
+Everything about Rails is meant to save you time while maintaining quality. The mantra of convention over configuration keeps you from wasting time bike-shedding[^3]. The `rails generate` utilities get you 90% of the way to where you need to go at the cost of typing like 20 characters. The `byebug` gem and `rails console` save you from writing print statements every other line when you're debugging. The actual usage of Rails reads like a DSL for the web which saves you from having to translate between the world of your interpreter and the world of the web.
 
 Ruby is merely a prerequisite for the greatness that is Rails. It is the extreme expressiveness of Ruby that allows Rails to act as a DSL for the web. If I'm being honest the typing story isn't quite where I would like it to be but at least it's not PHP.
 
-## Only choose the shiniest gems
+## Only Choose the Shiniest Gems
 
 Now that we're on the Ruby on Rails train it is time to grab some shiny [gems](https://rubygems.org/) to take along for the ride. The ecosystem of gems for web development is Rails goes from great to the best.
 
@@ -40,23 +40,23 @@ Security is the wrong place for a "learning experience" since the little things 
 
 Customizing `devise` may not be trivial, but, it is possible which is what matters. Besides, you shouldn't be modifying your auth flow for quite awhile anyways. Odds are your app isn't a special snowflake that needs a special authentication flow.
 
+You should probably authorize that your users have access to specific resources. Don't reinvent the wheel here. Use a gem to keep your authorization logic separate from your business logic. Something like [`pundit`](https://github.com/varvet/pundit) is great because it doesn't force too many idioms on you, it is basically just Ruby code. While your at it start tracking any user roles with [`rolify`](https://github.com/RolifyCommunity/rolify).
+
+You setup `rolify` and gave some users an `:admin` role right? We're gonna need that now. Admin dashboards make administering a web app much easier but are a waste of time to build by hand. Go ahead and install [`rails_admin`](https://github.com/railsadminteam/rails_admin). Congratulations, you now have a fully functional admin dashboard.
+
 ## Other things I guess I need to have opinions on
 
-- Testing
-- devise
-- rolify
-- pundit
+- figaro
 - postgres
-- heroku
+- sidekiq
 - redis
+- heroku
 - tailwind
 - daisyUI
 - stripe
-- rails_admin
-- figaro
 - stimulus and react if necessary
 - Use freaking linters
-- sidekiq
+- test only what matters
 - overall theme of power laws in development
 
 [^1]: I'm kinda picking fights for no good reason. Charicature of how strongly I feel. Written this way to make it more exciting. Screw nuance
