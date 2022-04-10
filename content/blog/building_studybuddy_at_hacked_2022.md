@@ -73,5 +73,3 @@ In hindsight we should have gone to bed earlier. From about 4am to 7am before we
 I don't think I'll ever build a web app without Rails again. I simply just cannot believe how productive it makes me. Do I miss static types and being able to fiddle with configuration? Sure. But, I'm happy to give up all of that for the insane productivity of Rails.
 
 Overall I'm super pleased with how everything went and that I got to win a hackathon during my university career. Who knows, maybe we'll even publicly release StudyBuddy.
-
-{{% collect_email %}}

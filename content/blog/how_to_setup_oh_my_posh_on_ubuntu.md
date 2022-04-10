@@ -55,5 +55,3 @@ With the nerd font installed on the system we need to get Gnome Terminal to use 
 ![Setting up a new terminal profile to use our font](/posh.gif)
 
 After all that, you should be in business. Happy coding and I hope you find the theme as beautiful as I do.
-
-{{% collect_email %}}
