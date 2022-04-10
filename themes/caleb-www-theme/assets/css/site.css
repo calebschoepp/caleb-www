@@ -139,7 +139,6 @@ article .callout-grey {
   @apply shadow-xl;
 }
 
-
 summary {
   display: revert;
 }
