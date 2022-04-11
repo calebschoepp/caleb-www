@@ -1,5 +1,5 @@
 ---
-title: "Three Things You Should Buy And Use"
+title: "Three Things You Should Buy and Use"
 date: 2022-04-10
 draft: false
 ---
