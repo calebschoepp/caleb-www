@@ -4,6 +4,12 @@ date: 2022-04-10
 draft: false
 ---
 
+- https://herget.me/
+- https://jeffdelaney.me/projects/
+- https://alexpeattie.com/blog/
+- https://carolchen.me/
+- https://www.lelandjansen.com/
+
 Inspired by Dynomight's list of [creative nonfiction training exercises](https://dynomight.net/training/), here is a list of three things that I think you should buy and use.
 
 # Password Manager
