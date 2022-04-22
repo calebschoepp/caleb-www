@@ -1,6 +1,6 @@
 ---
 title: "Stating the Obvious"
-date: 2022-04-19
+date: 2022-04-22
 draft: false
 ---
 
