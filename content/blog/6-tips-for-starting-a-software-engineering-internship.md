@@ -8,7 +8,7 @@ On Monday I'll be starting my third internship with Microsoft, and my fifth inte
 
 ## 1. Ask lots of questions
 
-This very well might be the cardinal rule for interns. It can be scary to ask questions because you don't want to show that you don't know something. Bad, fight that impulse. Everyone understands that interns don't know a lot of things. If they wanted someone who already knew everything they would not have hired you. What they're looking for is someone who can learn quickly and level up. Questions are an essential step in that process.
+This very well might be the cardinal rule for interns. It can be scary to ask questions because you don't want to show that you don't know something. Bad. Fight that impulse. Everyone understands that interns don't know a lot of things. If they wanted someone who already knew everything they would not have hired you. What they're looking for is someone who can learn quickly and level up. Questions are an essential step in that process.
 
 Ask questions about everything. Why am I getting this error when I run the app? How do I test this code I just wrote? Why are we using Python instead of Go? What should my pull request look like? What part of the codebase is Sheila responsible for?
 
@@ -22,7 +22,7 @@ As an intern you can pretty much ask anyone to talk and they're likely to say ye
 
 ## 3. Understand the big picture
 
-I think that understanding the big picture is drastically underrated on internships. Doing this can set you apart from being a good intern to a great intern. By understanding the big picture I mean that you should make an effort to understand the __why__, not just the __what__ or __how__. Why is the software I'm working on relevant to the business. Why are customers buying our product? Why do we need to solve this problem with software? And so on --- you get the point.
+I think that understanding the big picture is drastically underrated on internships. Doing this can set you apart from being a good intern to a great intern. By understanding the big picture I mean that you should make an effort to understand the **why**, not just the **what** or **how**. Why is the software I'm working on relevant to the business. Why are customers buying our product? Why do we need to solve this problem with software? And so on --- you get the point.
 
 You will be able to make much better decisions by taking the time to look up and understand the world around the software you're working on. For example maybe it's really important that spend that extra time to polish the styling because you learned that a key reason why customers switch to the product is a more intuitive UX. I also find that understanding the context around why I'm building something motivates me even more.
 
@@ -41,8 +41,6 @@ You're going to have a lot of information thrown at you as you start your intern
 Shipping code is the strongest signal that you are meaningfully contributing to the team and going to be a good fit. You want to do this as quickly as possible. At a startup that might mean you're pushing a small PR on the very first day --- something like a bug fix or documentation. At larger companies a more reasonable goal is in the first week or two.
 
 A good leading indicator for how quickly you can ship code is how quickly you can clone and run the codebase. Ideally you've got it running in the first few hours at a startup or in the first few days at a large company. You'll probably run into lots of issues while trying to run the code; this is a perfect opportunity for a quick PR updating the README.
-
-
 
 [^1]: While this post has been written on the basis of internships rather than full-time positions, I still think that all of the tips hold up. More broadly these tips are about how to do well in the first few months of a software engineering position.
 [^2]: I'm breezing over this here as if the tradeoff of how much to interrupt people is simple. But, it's actually really difficult to find the right balance. I should write more about this in the future.
