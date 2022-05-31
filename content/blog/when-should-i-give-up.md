@@ -14,7 +14,7 @@ But the words don't flow when I sit down to write it. I can't seem to thread a c
 
 This doesn't always happen to me. Sometimes when I sit down to write a blog post the words seem to just pour out of me as if they desire to escape my head and be on the page.
 
-This mental block isn't unique to writing blog posts. I'll run into it any time I'm doing something that requires creativity and isn't just rote execution. Like when I'm building a side project and I just can structure the code in a way that makes sense. Or when I'm pursuing a business idea and it just seems like no one cares and I'm not actually solving a problem.
+This mental block isn't unique to writing blog posts. I'll run into it any time I'm doing something that requires creativity and isn't just rote execution. Like when I'm building a side project and I just can't structure the code in a way that makes sense. Or when I'm pursuing a business idea and it just seems like no one cares and I'm not actually solving a problem.
 
 Should I always expect it to be easy? Is getting blocked my subconscious's way of saying that I'm working on a bad idea and it isn't worth my time? Or, on the other extreme should I always try to push through these mental blocks? The idea being that struggle is a prerequisite for doing something great.
 
