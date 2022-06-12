@@ -1,6 +1,6 @@
 ---
 title: "Productivity Porn"
-date: 2022-06-08
+date: 2022-06-11
 draft: false
 ---
 
@@ -20,23 +20,26 @@ But, what I've recently come to realize is that there is an even more pernicious
 
 Productivity porn is anything that after having been consumed makes you feel like you were productive when in reality you didn't actually do anything. Just like regular pornography it stimulates you without even performing the act. It is a hollow imitation of the real thing.
 
-Examples of productivity porn include but are not limited to: reading a tweet by a top VC about how to become a better startup founder; watching a Youtube video about the 7 mistakes you need to avoid at the gym; perusing a Hacker News thread about how to improve the code you write. All of these activities deceptively make you feel like you've done something productive. "I just learned something new", you tell yourself. But even so you continue the viscious cycle of not actually doing what you set out to do but instead just thinking about doing it.
+Examples of productivity porn include but are not limited to: reading a tweet by a top VC about how to become a better startup founder; watching a Youtube video about the 7 mistakes you need to avoid at the gym; perusing a Hacker News thread about how to improve the code you write. All of these activities deceptively make you feel like you've done something productive. "I just learned something new", you tell yourself. And well this is true, you never actually did the thing you were setting out to do in the first place. A viscious cycle forms where you spend all your time thinking about doing things instead of actually doing them. As this cycle continues your productivity approaches zero.
 
-Keep in mind that productivity can mean a variety of things. Founding a startup, working out at the gym, building a side project, reading a book, planting a garden. Regardless, the key is that you benefit from doing the actual activity, but not from thinking about doing it. Hence the problem with productivity pornography.
+Keep in mind that productivity can mean a variety of things. Founding a startup, working out at the gym, building a side project, reading a book, growing a garden. Regardless, the key is that you benefit from doing the actual activity, but not from thinking about doing it. Hence the problem with productivity pornography.
 
-HOW I REALIZED THIS WAS A PROBLEM
+I only realized I had this addiction when it was pointed out to me over and over again. [Start Marketing The Day You Start Coding](https://robwalling.com/assets/ebook.pdf) by Rob Walling, [The drawing advice that changed my life](https://www.youtube.com/watch?v=M6NsEDwHHiE&t=512s&ab_channel=struthless) by struthless, [How to get famous on twitter](https://podcasts.apple.com/us/podcast/how-to-get-famous-on-twitter-and-other-listener-questions/id1469759170?i=1000558020601) by the My First Million podcast, and [The Cooking Skill That Can't Be Taught](https://www.youtube.com/watch?v=gYwkKaK5yeQ&ab_channel=InternetShaquille) by Internet Shaquille all were telling me the message I needed to hear. They each said it in a different way, but the core of their message was the same. Stop thinking (reading, listening, watching etc.) about how to do something and just go do it. Or using my terminology, they were all saying that I was addicted to productivity pornography.
 
-WHY I FIND THIS UNIQUELY DANGEROUS.
+Each time I'd here their message I would be hit with an electric shock when I realized that they were right. Immediately I would stop consuming whatever gave me this woke up call. Ironically, the thing delivering the wake-up message was productivity porn itself self-aware enough to surface the issue. For about a week after I would steer clear of any and all productivity porn, but inevitably I would find it weaseling its way back into my life.
 
-- IT SAPS MY INTRISINC MOTIVATION
+I find productivity porn to be a uniquely terrifying negative effect of social media for four reasons. While each of these reasons could be used to explain the other negative impacts of social media, I think they are particularly fitting for productivity porn.
 
-- IT IS DECEPTIVE, VERY EASY TO SEEM LIKE YOUR BEING PRODUCTIVE AND THEN REALIZE YOURE NOT ACTUALLY BEING PRODUCTIVE
-
-- AT THE SAME TIME IT IS STILL HELPFUL IN MODERATION
-
-- I CAN'T RUN AWAY TO BOOKS AND PODCASTS, JUST AS PROBLEMATIC. Social media is just a supercharged version of it
+- **It saps my intrinsic motivation.** When I find myself wasting excessive amounts of time on social media my intrinsic motivation normally acts as a back stop. Eventually I will become tired of scrolling on social media and will go do something productive. However, productivity porn short circuits this by making me think I was being productive the entire time.
+- **It is very deceptive.** As far as I can tell I've been negatively impacted by this since at least highschool and I'm only realizing it right now. Looking back on it, how much time have I actually spent doing things versus just thinking about doing them.
+- **It is necessary in moderation.** Unlike other parts of social media, you actually need some this in moderation. It is equally as bad to only ever do things and to never spend time learning about how to do them better. This makes avoiding it difficult because you can't just cut it out cold turkey.
+- **It is found in all forms of media.** This is the scariest reason for me. Typically when I feel like social media is too negative for me I feel safe running away to slower, less connected, and more deliberate forms of media --- books, podcasts, blog posts etc. These help mitigate the plethora of issues that arise in _social_ media platforms. However, I find productivity porn is just a prevalent in traditional media as it is in social media. While perhaps it is more toned down when found in traditional media, it means that there is no safe haven from productivity porn.
 
 HOW TO CLOSE?
+
+Measure?
+
+Choose nutrients over cheap calories.
 
 ---
 
