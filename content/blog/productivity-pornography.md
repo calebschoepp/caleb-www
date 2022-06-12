@@ -8,9 +8,7 @@ draft: false
 
 I have a pornography problem and if you're anything like me you might too.
 
----
-
-It is well understood that social media[^1] can have a negative impact on your life. Whether you are doom-scrolling on Instagram, furiously retweeting on Twitter, or on your fifth hour of Youtube, you might experience:
+It is well understood that social media can have a negative impact on your life. Whether you are doom-scrolling on Instagram, furiously retweeting on Twitter, or on your fifth hour of Youtube, you might experience:
 
 - **Feelings of jealousy, anxiousness, and loneliness** induced by only seeing the heavily curated feeds of those who you follow. Ultimately, leading to unrealistic expectations about what your life should be like mixed with a constant bombardment of FOMO.
 - **An increasingly polarized, misinformed, and enraged outlook on life** as the incentives of our digital world push you deeper into a filter bubble. In the extreme case even leading to the radicalization of individuals.
@@ -33,20 +31,12 @@ I find productivity porn to be a uniquely terrifying negative effect of social m
 - **It saps my intrinsic motivation.** When I find myself wasting excessive amounts of time on social media my intrinsic motivation normally acts as a back stop. Eventually I will become tired of scrolling on social media and will go do something productive. However, productivity porn short circuits this by making me think I was being productive the entire time.
 - **It is very deceptive.** As far as I can tell I've been negatively impacted by this since at least highschool and I'm only realizing it right now. Looking back on it, how much time have I actually spent doing things versus just thinking about doing them.
 - **It is necessary in moderation.** Unlike other parts of social media, you actually need some this in moderation. It is equally as bad to only ever do things and to never spend time learning about how to do them better. This makes avoiding it difficult because you can't just cut it out cold turkey.
-- **It is found in all forms of media.** This is the scariest reason for me. Typically when I feel like social media is too negative for me I feel safe running away to slower, less connected, and more deliberate forms of media --- books, podcasts, blog posts etc. These help mitigate the plethora of issues that arise in _social_ media platforms. However, I find productivity porn is just a prevalent in traditional media as it is in social media. While perhaps it is more toned down when found in traditional media, it means that there is no safe haven from productivity porn.
+- **It is found in all forms of media.** This is the scariest reason for me. Typically when I feel like social media is too negative for me I feel safe running away to slower, less connected, and more deliberate forms of media --- books, podcasts, blog posts etc. These lack the virality of _social_ media platforms and mitigate the issues that arise. However, I find productivity porn is just a prevalent in traditional media as it is in social media. While perhaps it is more toned down when found in traditional media, it means that there is no safe haven from productivity porn.
+
+I've spent a lot of time thinking about how to conclude this post and I don't think I've come up with anything satisfying. The only thing that is clear to me is that it is abundantly important that I figure out how stymie the affect that productivity porn is having in my life. When I look for solutions to this problem I only come up with half-baked ideas and more questions.
 
 HOW TO CLOSE?
 
 Measure?
 
 Choose nutrients over cheap calories.
-
----
-
-Content that is acting as PP is stuff that makes you feel like you've been productive when in reality all you've done is watch someone else do something. Things like podcasts or blog posts about how to do anything.
-
-I discovered this type of damaging by having numerous wake up calls in a row from blogs or books that made this meta point. In fact they were productivity pornography themselves but were at least meta enough to point it out.
-
-This type of harm scares me so much because I don't know how to counteract it. With wasting my time I know that I will eventually get tired of this and will want to do something productive. With jealousy I know to just avoid it entirely. However, with PP it is empty calories that are just so much easier then creating and doing something yourself. Moreover, the helpful aspects are actually that. Helpful. I don't know what to do
-
-[^1]: TODO, podcasts, news, books, internet, twitter, blog post... Morass
