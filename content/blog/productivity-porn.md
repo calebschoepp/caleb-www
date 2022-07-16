@@ -1,10 +1,10 @@
 ---
 title: "Productivity Porn"
 date: 2022-06-28
-draft: true
+draft: false
 ---
 
-I have a pornography problem and if you're anything like me you might too.
+I have a pornography problem, but it's not what you're thinking. In fact if you're anything like me you might too.
 
 It is well understood that social media can have a negative impact on your life. Whether you are doom-scrolling on Instagram, furiously retweeting on Twitter, or on your fifth hour of Youtube, you might experience:
 
@@ -22,7 +22,7 @@ Keep in mind that productivity is a personal thing. It can look like a variety o
 
 I only realized I had this addiction when it was pointed out to me over and over again. [Start Marketing The Day You Start Coding](https://robwalling.com/assets/ebook.pdf) by Rob Walling, [The drawing advice that changed my life](https://www.youtube.com/watch?v=M6NsEDwHHiE&t=512s&ab_channel=struthless) by struthless, [How to get famous on twitter](https://podcasts.apple.com/us/podcast/how-to-get-famous-on-twitter-and-other-listener-questions/id1469759170?i=1000558020601) by the My First Million podcast, and [The Cooking Skill That Can't Be Taught](https://www.youtube.com/watch?v=gYwkKaK5yeQ&ab_channel=InternetShaquille) by Internet Shaquille all were telling me the message I needed to hear. They each said it in a different way, but the core of their message was the same. Stop thinking (reading, listening, watching etc.) about how to do something and just go do it. Or using my terminology, they were all saying that I was addicted to productivity porn[^1].
 
-Each time I'd here their message I would be hit with an electric shock when I realized that they were right. I would immediately shut off my phone. For about a week after I would steer clear of any and all productivity porn, but inevitably I would find it weaseling its way back into my life.
+Each time I'd hear their message I would be hit with an electric shock when I realized that they were right. I would immediately shut off my phone. For about a week after I would steer clear of any and all productivity porn, but inevitably I would find it weaseling its way back into my life.
 
 I find productivity porn to be a uniquely terrifying negative effect of social media for four reasons. While these reasons are also relevant to the other negative impacts of social media, I think they are particularly fitting for productivity porn.
 
