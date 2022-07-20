@@ -1,16 +1,12 @@
 ---
 title: "2022 Halfway Check-In"
-date: 2022-06-11T21:45:49-07:00
+date: 2022-07-20
 draft: false
 ---
 
-**TODO fix title**
-
 **TODO fix publish date**
 
-**TODO fix filename**
-
-In my [review](/blog/2021/year-in-review-2021/) of the year 2021 I wrote some notes about looking forward to 2022. In a number of sections I outlined my goals for the coming year. Now that we are halfway through the year I thought it would be a good idea to stop and reflect on these goals[^1]. To see where I've excelled and where I've slacked. To determine what is still worthy of pursuing and what I should [give up on](/blog/2022/when-should-i-give-up/).
+My [2021 year in review](/blog/2021/year-in-review-2021/) outlines my goals for 2022. Now that we are a bit more than halfway through the year I thought it would be a good idea to stop and reflect on these goals[^1] -- to see where I've excelled and where I've slacked. To determine what is still worthy of pursuing and what I should [give up on](/blog/2022/when-should-i-give-up/).
 
 ### Career
 
@@ -120,4 +116,4 @@ Learning guitar was one of the best decisions I made in 2021 so I want to keep m
 - [ ] Try out some DeFi protocols.
 - [ ] Buy some NFTs and get involved with the communities.
 
-[^1]: Checkboxes will be ticked for anything that has been completely finished or is so clearly on track that I consider it complete. The latter statement of course leaves open the sad possibility that I will regress in the coming six months and will need to uncheck that box. How awful.
+[^1]: Checkboxes will be ticked for anything that has been completely finished or is so clearly on track that I consider it complete. The latter statement of course leaves open the unfortunate possibility that I will regress in the coming six months and will need to uncheck that box. How awful.
