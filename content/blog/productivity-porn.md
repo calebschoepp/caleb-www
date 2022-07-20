@@ -4,7 +4,7 @@ date: 2022-06-28
 draft: false
 ---
 
-I have a pornography problem, but it's not what you're thinking. In fact if you're anything like me you might too.
+I have a pornography problem, but it's not what you're thinking. In fact, if you're anything like me, you might too.
 
 It is well understood that social media can have a negative impact on your life. Whether you are doom-scrolling on Instagram, furiously retweeting on Twitter, or on your fifth hour of watching YouTube, you might experience:
 
