@@ -6,7 +6,7 @@ draft: false
 
 I have a pornography problem, but it's not what you're thinking. In fact if you're anything like me you might too.
 
-It is well understood that social media can have a negative impact on your life. Whether you are doom-scrolling on Instagram, furiously retweeting on Twitter, or on your fifth hour of Youtube, you might experience:
+It is well understood that social media can have a negative impact on your life. Whether you are doom-scrolling on Instagram, furiously retweeting on Twitter, or on your fifth hour of watching YouTube, you might experience:
 
 - **Feelings of jealousy, anxiousness, and loneliness** induced by only seeing the heavily curated feeds of those who you follow. Ultimately, leading to unrealistic expectations about what your life should be like mixed with a constant bombardment of FOMO.
 - **An increasingly polarized, misinformed, and enraged outlook on life** as the incentives of our digital world push you deeper into a filter bubble. In the extreme case even leading to radicalization.
