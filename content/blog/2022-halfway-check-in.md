@@ -12,19 +12,21 @@ My [2021 year in review](/blog/2021/year-in-review-2021/) outlines my goals for 
 
 > By the end of this year I'll graduate. With that in mind I'll need to start making some decisions about where I want to work full-time and where I want to live. I also want to consider less traditional options like digital nomading or consulting for the start of 2023.
 
-This is an interesting time to be reflecting on this aspect of my life as I am very much in the thick of it right now. In the coming two months I'll be working hard to find a full-time job that I'm excited to land in come January. After lots of reflection I've decided that I would probably like to work a remote job where I have the flexibility of traveling around the world while I work. And while there is basically no forseeable way for me to not graduate at this point, I'll save of the gratification of checking it off until the moment comes.
+This is an interesting time to be reflecting on this aspect of my life as I am very much in the thick of it right now. After lots of reflection I've decided that I want to work a remote job where I have the geographic flexibility to both live by my family and travel the world. It is to be determined which specific company I will end up at.
+
+While there is basically no forseeable way for me to not graduate at this point, I'll save the gratification of checking it off until the moment comes.
 
 {{< begin_task_list >}}
 
 - [ ] Graduate!
-- [ ] Leverage my connections to have multiple full-time offers post-graduation.
+- [x] Leverage my connections to have multiple full-time offers post-graduation.
 - [x] Seriously research the possibility of digital nomading or consulting at the start of 2023.
 
 ### Travel and Adventure
 
 > Thanks to remote schooling and work I spend a lot of time at home. Travelling abroad and doing adventurous things is a great way to spice up my life.
 
-For future years I should be less specific about where I want to travel unless plans have materialized or I'm hellbent on going there. Rather than Eastern Canada I'll be travelling to Scotland and Ireland at the end of the summer. Also, still planning to canoe a lot and bike an imperial century. Nothing completed here yet but definitely on track in this area of my life. If I play my cards right I might even get a bonus trip to Portland in too.
+For future years I should be less specific about where I want to travel unless plans have materialized or I'm hellbent on going there. Rather than Eastern Canada I'll be travelling to Scotland and Ireland at the end of the summer[^2]. I'm still planning to canoe a lot and bike an imperial century. Nothing completed here yet but definitely on track in this area of my life. I even managed to get a bonus trip to Portland in too.
 
 {{< begin_task_list >}}
 
@@ -34,11 +36,15 @@ For future years I should be less specific about where I want to travel unless p
 
 ### Health
 
-I've had some trouble with physical and mental health problems over 2021. Looking forward to 2022 I want to take a more holistic approach to my health, or in other words, I want to do a lot of yoga.
+> I've had some trouble with physical and mental health problems over 2021. Looking forward to 2022 I want to take a more holistic approach to my health, or in other words, I want to do a lot of yoga.
+
+2022 has largely been a good year for my health -- both mental and physical. At the start of the year I was doing daily yoga and reaped commensurate benefits. Although I've since stopped doing daily yoga I'm going to count this as a success. I've developed a love for yoga and have it my back pocket now for days when I'm feeling physically stiff or mentally frayed.
+
+In late May I began consistently weightlifting with the [Stronglifts 5x5](https://stronglifts.com/5x5/) program and have been **really** enjoying it. I've had multiple failed attempts at starting to lift in the past but it really seems to be sticking this time. I'm two months in and I still get excited to go to the gym every morning. Spending some time with a trainer at the start was really helpful for solidifying proper form (which was a big challenge for me in the past). As of July 21 I'm lifting: TODO
 
 {{< begin_task_list >}}
 
-- [ ] Build a habit of doing yoga multiple times a week.
+- [x] Build a habit of doing yoga multiple times a week.
 - [ ] Do a mix of body weight exercises at home and weightlifting at the gym.
 - [ ] Keep biking and training for a century.
 
@@ -117,3 +123,4 @@ Learning guitar was one of the best decisions I made in 2021 so I want to keep m
 - [ ] Buy some NFTs and get involved with the communities.
 
 [^1]: Checkboxes will be ticked for anything that has been completely finished or is so clearly on track that I consider it complete. The latter statement of course leaves open the unfortunate possibility that I will regress in the coming six months and will need to uncheck that box. How awful.
+[^2]: And you better believe that I'll still be checking the Eastern Canada box off because a big trip is a big trip.
