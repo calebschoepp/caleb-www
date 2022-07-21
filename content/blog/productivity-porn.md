@@ -10,7 +10,7 @@ It is well understood that social media can have a negative impact on your life.
 
 - **Feelings of jealousy, anxiousness, and loneliness** induced by only seeing heavily curated feeds of those you follow. This ultimately leads to unrealistic expectations about what your life "should" be like mixed with a constant bombardment of FOMO.
 - **An increasingly polarized, misinformed, and enraged outlook on life** as the incentives of our digital world push you deeper into a filter bubble, which might even lead to radicalization.
-- **A crippling loss of time and agency** caused by the addictive and distracting nature of these platforms. The push notification acting as a phantasmal chain tethering us to our phone. Watching content not because you truly want to but just --- because?
+- **A crippling loss of time and agency** caused by the addictive and distracting nature of these platforms that use the push notification as a phantasmal chain tethering us to our phone. This ends in you consuming content not because you truly want to but just --- because?
 
 But, what I've recently come to realize is that there is an even more pernicious way in which social media is negatively impacting my life. Social media has become my productivity porn.
 
@@ -34,6 +34,6 @@ I find productivity porn to be a uniquely terrifying negative effect of social m
 - **It is found in all forms of media.** This is the scariest reason for me. Typically when I feel like social media is too negative for me I feel safe running away to slower, less connected, and more deliberate forms of media --- books, podcasts, blog posts, etc. These lack the virality of _social_ media platforms and mitigate the issues that arise. However, I find productivity porn is just as prevalent in traditional media as it is in social media. While perhaps it is more toned down when found in traditional media, there is still no safe haven from productivity porn.
 
 
-I've spent a lot of time thinking about how to conclude this post and I don't think I've come up with anything satisfying. The only thing that is clear to me is that it is abundantly important that I figure out how to stymie the negative effect that productivity porn is having in my life. When I look for solutions to this problem I only come up with half-baked ideas and more questions. Is this something you've encountered in your life? What have you done about it?
+I've spent a lot of time thinking about how to conclude this post and I don't think I've come up with anything satisfying. The only thing that is clear to me is that it is abundantly important that I figure out how to stymie the negative effect that productivity porn is having on my life. When I look for solutions to this problem I only come up with half-baked ideas and more questions. Is this something you've encountered in your life? What have you done about it?
 
 [^1]: Ironically, the thing delivering the wake-up message was productivity porn itself self-aware enough to surface the issue.
