@@ -36,6 +36,8 @@ I find productivity porn to be a uniquely terrifying negative effect of social m
 
 I've spent a lot of time thinking about how to conclude this post and I don't think I've come up with anything satisfying. The only thing that is clear to me is that it is abundantly important that I figure out how to stymie the negative effect that productivity porn is having on my life. When I look for solutions to this problem I only come up with half-baked ideas and more questions. Is this something you've encountered in your life? What have you done about it?
 
+---
+
 *Thanks to Morgan Frisby for reviewing drafts of this.*
 
 [^1]: Ironically, the thing delivering the wake-up message was productivity porn itself self-aware enough to surface the issue.
