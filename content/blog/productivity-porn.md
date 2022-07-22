@@ -1,7 +1,7 @@
 ---
 title: "Productivity Porn"
 date: 2022-06-28
-draft: false
+draft: true
 ---
 
 I have a pornography problem, but it's not what you're thinking. In fact, if you're anything like me, you might too.
