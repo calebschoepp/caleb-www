@@ -1,6 +1,6 @@
 ---
 title: "A Programmer's Three Identities"
-date: 2022-08-24
+date: 2022-08-25
 draft: false
 ---
 
