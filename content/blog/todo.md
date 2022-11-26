@@ -1,6 +1,6 @@
 ---
 title: "Todo"
-date: 2022-11-21
+date: 2022-11-25
 draft: false
 ---
 
@@ -11,6 +11,51 @@ draft: false
 **TODO fix filename**
 
 I recently spent a weekend in California at an Inception Studio event. For three days I hacked on large language model (LLM) ideas with some really smart people. I learned so much from the experience that I wanted to write down some of my biggest learnings.
+
+## Life
+
+### Take more risk
+
+At this time in my life I should take as much risk as I can fathom. Taking large risks early in life means you have a longer time to compound the successful outcomes of these risks. I also have multiple factors that make me very resilient to failure:
+
+- No dependents to support.
+- A stable family to catch me if I fail.
+- Pedigree from a Computer Engineering degree.
+- Work experience and connections making it highly likely I could find work.
+
+### The value of regular therapy or life coaching
+
+I've seen therapists in acute contexts and it has been transformational. Correspondingly I've become a big advocate for therapy. However, I've always tied it to acute issues in my life. What if I integrated it more regularly into my life? This could be hugely beneficial since a programmer spends most of the day inside their own head. Speaking from personal experience I can say that dips in my mental health can wreak havoc on my productivity (not mentioning its effects on the rest of my life). It only makes sense that mental health should be regularly cared for like physical health.[^1]
+
+### The importance of low ego
+
+A big ego is like a bubble around you that keeps people from getting close. Keep your ego low and you'll find building relationships, asking for advice, and seeking favors all easier.
+
+### Digital nomad hacker house
+
+I want to learn more about this.
+
+## Career
+
+### Engineering management and the moral imperative to have the difficult conversation
+
+Because if you don't have it you're going to end up firing them in a year and a half which is awful and you could have just had the conversation.
+
+### Andy Chou on entrepreneurship - Stay at small companies and take action and talk to customers
+
+Action is more important then whether you start with an idea or start with finding a problem to work on. Find what resonates with you and gets you excited.
+
+### I want to do more hackathons
+
+I want to do more of this and meet a lot more smart motivated people. Working with people smarter than you.
+
+### Product market fit
+
+If it isn't completely obvious to you that you have it then you don't have it. It should feel like you're being pulled out to ocean by a riptide.
+
+I've never experienced true product market fit with anything I've built. The closest experience I've had is when one of my [posts](/blog/2022/productivity-porn/) went to #2 on Hacker News. In the span of a week more than 60k people read my post, aggregators around the internet were picking it up, and I received numerous emails from people with personal heartfelt messages. It felt like I was just along for the ride.
+
+Ultimately when I'm building something the goal is product market fit. Remembering this feeling of being pulled vs. pushed will help me know when I've found product market fit and when I should keep looking.
 
 ## LLM's
 
@@ -41,50 +86,6 @@ This weekend has gotten me very excited for the future of LLM's. I didn't pay mu
 
 Andy Chou kept reminding me that we needed to, "respect the LLM's more." Kind of a silly thing to say but the message really resonated with me. LLM's are more capable than we think and when I "respected" the model I was amazed at the results it was able to achieve.
 
-## Career
-
-### I should take as much risk as possible
-
-Ian and Greg. Worst case scenario is not bad at all.
-
-### Engineering management and the moral imperative to have the difficult conversation
-
-Because if you don't have it you're going to end up firing them in a year and a half which is awful and you could have just had the conversation.
-
-### Andy Chou on entrepreneurship - Stay at small companies and take action and talk to customers
-
-Action is more important then whether you start with an idea or start with finding a problem to work on. Find what resonates with you and gets you excited.
-
-### Digital nomad hacker house
-
-I want to learn more about this.
-
-### I want to do more hackathons
-
-I want to do more of this and meet a lot more smart motivated people. Working with people smarter than you.
-
-### Product market fit
-
-If it isn't completely obvious to you that you have it then you don't have it. It should feel like you're being pulled out to ocean by a riptide.
-
-I've never experienced true product market fit with anything I've built. The closest experience I've had is when one of my [posts](/blog/2022/productivity-porn/) went to #2 on Hacker News. In the span of a week more than 60k people read my post, aggregators around the internet were picking it up, and I received numerous emails from people with personal heartfelt messages. It felt like I was just along for the ride.
-
-Ultimately when I'm building something the goal is product market fit. Remembering this feeling of being pulled vs. pushed will help me know when I've found product market fit and when I should keep looking.
-
-## Life
-
-### The value of regular therapy or life coaching
-
-I've seen therapists in acute contexts and it has been transformational. Correspondingly I've become a big advocate for therapy. However, I've always tied it to acute issues in my life. What if I integrated it more regularly into my life? This could be hugely beneficial since a programmer spends most of the day inside their own head. Speaking from personal experience I can say that dips in my mental health can wreak havoc on my productivity (not mentioning its effects on the rest of my life). It only makes sense that mental health should be regularly cared for like physical health.
-
-### Threefold training mental health
-
-Talking with Ian
-
-### The importance of ego and humbleness
-
-Stay low ego
-
 ---
 
 _Special thanks to Andy, Ian, Greg, Brian, and Oliver for some of these insights._
@@ -92,3 +93,5 @@ _Special thanks to Andy, Ian, Greg, Brian, and Oliver for some of these insights
 Andy Chou thought I was a sr. engineer
 
 Aaron was very impressed with my skills as an undergraduate.
+
+[^1]: I was also exposed to a really interesting [blog](http://neuroticgradientdescent.blogspot.com/2021/03/threefold-training.html) about mental health that I intend to read a lot more.
