@@ -1,14 +1,10 @@
 ---
-title: "Todo"
+title: "Inception Studio Weekend Reflections"
 date: 2022-11-25
 draft: false
 ---
 
-**TODO fix title**
-
 **TODO fix publish date**
-
-**TODO fix filename**
 
 I recently spent a weekend in California at an Inception Studio event. For three days I hacked on large language model (LLM) ideas with some really smart people. I learned so much from the experience that I wanted to write down some of my biggest learnings.
 
@@ -29,13 +25,17 @@ I've seen therapists in acute contexts and it has been transformational. Corresp
 
 ### The importance of low ego
 
-A big ego is like a bubble around you that keeps people from getting close. Keep your ego low and you'll find building relationships, asking for advice, and seeking favors all easier.
-
-### Digital nomad hacker house
-
-I want to learn more about this.
+A big ego is like a bubble around you that keeps people from getting close. Keep your ego low and you'll find building relationships, seeking advice, and asking favors all easier.
 
 ## Career
+
+### Prioritize working with smart people
+
+- Smart motivated people are better.
+- Even better when they are way smarter than I am.
+- Hackathons are a good format for this - also makes ideation easier.
+- Mitch hackathon format.
+- Digital nomad hacker house - learn more about it.
 
 ### Engineering management and the moral imperative to have the difficult conversation
 
@@ -44,10 +44,6 @@ Because if you don't have it you're going to end up firing them in a year and a 
 ### Andy Chou on entrepreneurship - Stay at small companies and take action and talk to customers
 
 Action is more important then whether you start with an idea or start with finding a problem to work on. Find what resonates with you and gets you excited.
-
-### I want to do more hackathons
-
-I want to do more of this and meet a lot more smart motivated people. Working with people smarter than you.
 
 ### Product market fit
 
