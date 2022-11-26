@@ -1,6 +1,6 @@
 ---
 title: "Inception Studio Weekend Reflections"
-date: 2022-11-25
+date: 2022-11-26
 draft: false
 ---
 
@@ -31,21 +31,29 @@ A big ego is like a bubble around you that keeps people from getting close. Keep
 
 ### Prioritize working with smart people
 
-- Smart motivated people are better.
-- Even better when they are way smarter than I am.
-- Hackathons are a good format for this - also makes ideation easier.
-- Mitch hackathon format.
-- Digital nomad hacker house - learn more about it.
+Perhaps my favorite part of the weekend was being surrounded by so many smart and motivated people. Rubbing shoulders with people smarter than me drastically accelerated my learning. I want to optimize for having more opportunities to surround myself with people like this.
 
-### Engineering management and the moral imperative to have the difficult conversation
+Hackathons are the most obvious way to inject more of this into my life. As I exit my undergrad I'll have to be more intentional about seeking these opportunities. A variation on this would be to throw mini hackathons with friends I know. Another thing I want to explore are [digital nomad groups](https://www.remoteyear.com/). Combining traveling the world with meeting cool people sounds great.
 
-Because if you don't have it you're going to end up firing them in a year and a half which is awful and you could have just had the conversation.
+### The moral imperative to have the difficult conversation
 
-### Andy Chou on entrepreneurship - Stay at small companies and take action and talk to customers
+When I asked one of attendees for advice on being an engineer manager I was given some advice that I thought was very profound.
 
-Action is more important then whether you start with an idea or start with finding a problem to work on. Find what resonates with you and gets you excited.
+Imagine that one of your direct reports is doing something problematic. In your gut you know you should have a conversation with them and bring up the issue. However, this requires some confrontation and isn't easy to do. You take the easy way out and don't say anything. Naturally the problem persists and gets worse over time. As the months pass the problem grows into something that can no longer be ignored. You need to fire this employee because of the problem. When you go to fire them they of course ask you why. You explain that, "it is because of the problem", to which they say, "why didn't you tell me about the problem?!"
 
-### Product market fit
+The point of the story is that you have a moral imperative as a manager to have these difficult conversations early. Not doing so is just setting up everyone for more pain and difficulty.
+
+### A mental model for entrepreneurship
+
+Only two things matter in entrepreneurship: product market fit and founder product fit.
+
+Product market fit means that you are providing value to the world by filling a real market demand. To find it you need to iterate on the cycle of building things and talking to customers. Both elements are critical. But, it doesn't really matter where you start so long as you keep iterating as quickly as you can.
+
+Found product fit means that you love the problem space you're working in. This ensures that you'll have the intensity and longevity necessary to find product market fit. To find founder product fit you need to try and build a lot of things and see what resonates with you.
+
+Put more simply the most important element of entrepreneurship is taking action.
+
+### Knowing when you have product market fit
 
 If it isn't completely obvious to you that you have it then you don't have it. It should feel like you're being pulled out to ocean by a riptide.
 
@@ -85,9 +93,5 @@ Andy Chou kept reminding me that we needed to, "respect the LLM's more." Kind of
 ---
 
 _Special thanks to Andy, Ian, Greg, Brian, and Oliver for some of these insights._
-
-Andy Chou thought I was a sr. engineer
-
-Aaron was very impressed with my skills as an undergraduate.
 
 [^1]: I was also exposed to a really interesting [blog](http://neuroticgradientdescent.blogspot.com/2021/03/threefold-training.html) about mental health that I intend to read a lot more.
