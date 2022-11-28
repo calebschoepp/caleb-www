@@ -1,6 +1,6 @@
 ---
 title: "Inception Studio Weekend Reflections"
-date: 2022-11-27
+date: 2022-11-28
 draft: false
 ---
 
