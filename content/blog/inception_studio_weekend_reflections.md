@@ -1,12 +1,10 @@
 ---
 title: "Inception Studio Weekend Reflections"
-date: 2022-11-28
+date: 2022-12-06
 draft: false
 ---
 
-**TODO fix publish date**
-
-I recently spent a weekend in California at an Inception Studio event. For three days I hacked on large language model (LLM) ideas with some really smart people. I learned so much from the experience that I wanted to write down some of my biggest learnings.
+I recently spent a weekend in California at a hackathon put on by Inception Studio. For three days I hacked on large language model (LLM) ideas with some really smart people. I learned so much from the experience that I wanted to write down some of my biggest learnings.
 
 ## Life
 
@@ -81,7 +79,7 @@ I think that the LLM space is in massive need of more/better tooling. Prompt eng
 
 ### The future of LLM's is very exciting
 
-This weekend has gotten me very excited for the future of LLM's. I didn't pay much attention when GPT-3 came out but you can be sure that I'll be on the edge of my seat for the release of GPT-4. I think that it is going to display some emergent properties that are hard to fathom right now. We are somewhere near the start of an s-curve of innovation -- a very exciting place to be. I have lots of questions about the future of LLM's that I look forward to getting answers to:
+This weekend has gotten me very excited for the future of LLM's. I didn't pay much attention when GPT-3 came out but you can be sure that I'll be on the edge of my seat for the release of GPT-4. I think that it is going to display some emergent properties that are hard to fathom right now. We are somewhere near the start of an s-curve of innovation -- a very exciting place to be. I have lots of questions about the future of LLM's that I look forward to getting answered:
 
 - Will future models like GPT-4 become prohibitively expensive as they get increasingly larger?
 - Will LLM's turn into commodities like cloud computing did?
