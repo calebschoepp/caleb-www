@@ -1,6 +1,6 @@
 ---
 title: "Year in Review: 2022"
-date: 2022-12-21
+date: 2022-12-22
 draft: false
 ---
 
@@ -14,14 +14,14 @@ I always find a review like this to be a joyous and worthwhile exercise. It's ea
 
 1. **Graduating** --- On December 19 I wrote the last ever final of my Computer Engineering degree. Getting this degree was probably the hardest thing I've ever done. After five and half years, more than a hundred midterms and finals, and thousands of hours of studying and doing homework, I'm ready to finally graduate. Overall I'm incredibly proud of this achievement and very glad that I decided to stick it out and not go to industry early.
 2. **My sister's wedding** --- This was a very special experience because I'm very close with my sister. She was kind enough to ask me to be her man of honor which was such a privilege. It was also very exciting to welcome a new in-law to the family. And as an added bonus it was also just a very fun party.
-3. **Learning to play hockey** --- TODO. Skating / Discover Hockey / Shinny / Oilers games / Bears games.
+3. **Learning to play hockey** --- Last year I [learned to skate](/blog/skating_my_way_to_a_new_mindset) and started playing shinny. I've continued this progression in a big way. Not only have I been skating a lot but I also joined a learn to play hockey league for adults. It was so much fun that I was literally vibrating with excitement before each practice.
 4. **Summer in Seattle** --- This summer I was down in Seattle for an internship at Microsoft on the Azure Kubernetes Service team. It was an incredible three months and there is way too much to unpack here so the best I can do is share some highlights: making a lot of new friends; playing DnD for the first time; my weekend trip to Portland; winning the Microsoft Strike capture the flag; and my parents coming to visit.
-5. **Trip to California** --- TODO.
-6. **Trip to the British Isles** --- TODO.
-7. **Vacationing in Invermere** --- TODO. Kelowna with mom and dad.
-8. **Winning HackED 2022** --- TODO.
-9. **Trip to Grand Prairie** --- TODO.
-10. **Rex Orange County Concert** --- TODO.
+5. **Trip to California** --- I spent a week in California at [a hackathon](blog/inception_studio_weekend_reflections) and catching up with friends. This was the most impromptu trip I've ever taken and thus was memorable for the spontaneity alone.
+6. **Trip to the British Isles** --- I spent two weeks driving across Ireland and Scotland with my brother and sister-in-law. The highlight was all the epic landscapes I got to see.
+7. **Vacationing in Invermere** --- The family and I spent a week at a beautiful VRBO in Invermere. We did a lot of fun things, but my absolute favorite part was all the laughter.
+8. **Winning HackED 2022** --- In January I won the HackED 2022 hackathon with some friends. I wrote all about it [here](/blog/building_studybuddy_at_hacked_2022).
+9. **Trip to Grand Prairie** --- A lot of my family lives up north in Grand Prairie. I got to spend a few days up there with my dad and grandmother which was a very special experience. In particular I enjoyed building new relationships with some of my aunts and uncles.
+10. **Rex Orange County Concert** --- I ended up at this concert because of pure happenstance and made some really good friends. It poured rain the whole concert which oddly really amplified the experience and made it feel like it was just you and Rex.
 
 Honorable mentions to the **Eagles concert**, **Sausage Day**, and **biking a metric century**.
 
