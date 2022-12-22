@@ -1,42 +1,29 @@
 ---
 title: "Year in Review: 2022"
-date: 2022-12-20
+date: 2022-12-21
 draft: false
 ---
 
 **Fix date**
 
-INTRO
+It's hard to believe that 2022 is nearly over. In keeping with [the](/blog/2020/year-in-review-2020) [tradition](/blog/2021/year-in-review-2021) here is my year end review. The review is composed of three parts: my top 10's for the year; a reflection on 2022 similar to my [halfway check-in](/blog/2022/2022-halfway-check-in); and my goals and aspirations for the new year.
+
+I always find a review like this to be a joyous and worthwhile exercise. It's easy to forget about all the things you got to do throughout a whole year. If you like what you read here I would highly encourage you to do something similar.
 
 ## Top 10 Experiences
 
-1. **Graduating** --- After five and half years, more than a hundred midterms and finals, and thousands of hours of studying and doing homework, I've finally graduated.
-2. **My sister's wedding** --- TODO.
+1. **Graduating** --- On December 19 I wrote the last ever final of my Computer Engineering degree. Getting this degree was probably the hardest thing I've ever done. After five and half years, more than a hundred midterms and finals, and thousands of hours of studying and doing homework, I'm ready to finally graduate. Overall I'm incredibly proud of this achievement and very glad that I decided to stick it out and not go to industry early.
+2. **My sister's wedding** --- This was a very special experience because I'm very close with my sister. She was kind enough to ask me to be her man of honor which was such a privilege. It was also very exciting to welcome a new in-law to the family. And as an added bonus it was also just a very fun party.
 3. **Learning to play hockey** --- TODO. Skating / Discover Hockey / Shinny / Oilers games / Bears games.
-4. **Summer in Seattle** --- DND, Portland trip, Mom and dad visiting.
+4. **Summer in Seattle** --- This summer I was down in Seattle for an internship at Microsoft on the Azure Kubernetes Service team. It was an incredible three months and there is way too much to unpack here so the best I can do is share some highlights: making a lot of new friends; playing DnD for the first time; my weekend trip to Portland; winning the Microsoft Strike capture the flag; and my parents coming to visit.
 5. **Trip to California** --- TODO.
 6. **Trip to the British Isles** --- TODO.
-7. **Vacationing in Invermere** --- TODO.
+7. **Vacationing in Invermere** --- TODO. Kelowna with mom and dad.
 8. **Winning HackED 2022** --- TODO.
 9. **Trip to Grand Prairie** --- TODO.
 10. **Rex Orange County Concert** --- TODO.
 
-Honorable mentions to
-
-- eagles show
-- metric century
-- Accquired podcast show
-- DND
-- Portland trip
-- MOPOP museum
-
-- Strike CTF
-- Sausage day
-- Landlocked concert
-- Kelowna with mom and dad
-- Glen Miller band
-- clue citadel show
-- dodgeball game
+Honorable mentions to the **Eagles concert**, **Sausage Day**, and **biking a metric century**.
 
 ## Top 10 Movies and TV Shows
 
@@ -55,7 +42,7 @@ Honorable mentions to
 
 1. **Shadow Divers by Robert Kurson** --- I couldn't put this book down. Kurson's portrayal of deep sea wreck diving had me on the edge of my seat. Best of all, it's a true story. Can't recommend you read this enough.
 2. **Project Hail Mary by Andy Weir** --- I'm loathe to actually say anything about this book because I think it is a much better read if you go into it cold and without an idea of what is to come. That being said, Andy Weir lives up to his reputation of delivering a fantastic character driven read that's full of fun science.
-3. **The Martian by Andy Weir** --- TODO.
+3. **The Martian by Andy Weir** --- Even though this book is 11 years old and I'd already seen the movie I'm very glad I took the time to read it. I think the book is much better than the movie because you get to fully immerse yourself in the scientific writing that Weir is so good at.
 4. **Leviathan Wakes by James S. A. Corey** --- TODO.
 5. **Oscar And The Lady In Pink by Éric-Emmanuel Schmitt** --- TODO.
 6. **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness by Eric Jorgenson** --- TODO.
@@ -68,7 +55,7 @@ Honorable mentions to
 
 This is to capture the music, podcasts, Youtubers, video games, and board games that I really enjoyed this year.
 
-1. **Magic: The Gathering** --- Magic is a [collectible card game](https://en.wikipedia.org/wiki/Collectible_card_game) that I was first introduced to in junior high by my friend Ryan. I have really fond memories of hours spent in his basement learning to play. For a number of reasons we eventually stopped playing. However, this summer when I was in Seattle (the birthplace and mecca of Magic) I had a hankering to start playing again. There are multiple formats of Magic that you can play but by far my favorite is limited. In limited you sit around a table with 8 others passing packs of cards around as you draft a deck that you'll then play against your opponents. Since this summer I have made a very serious return to Magic and I'm absolutely loving it. I firmly believe that limited Magic is one of the funnest and most mentally stimulating ways to spend a few hours.
+1. **Magic: The Gathering** --- Magic is a [collectible card game](https://en.wikipedia.org/wiki/Collectible_card_game) that I was first introduced to in junior high by my friend. I have really fond memories of hours spent in his basement learning to play. For a number of reasons we eventually stopped playing. However, this summer when I was in Seattle (the birthplace and mecca of Magic) I had a hankering to start playing again. There are multiple formats of Magic that you can play but by far my favorite is limited. In limited you sit around a table with 8 others passing packs of cards around as you draft a deck that you'll then play against your opponents. Since this summer I have made a very serious return to Magic and I'm absolutely loving it. I firmly believe that limited Magic is one of the funnest and most mentally stimulating ways to spend a few hours.
 2. **Harry's House by Harry Styles** --- I basically just listened to this album on repeat all year. According to Spotify I was in the top 0.5% of listeners. My favorite songs were Daylight and Love Of My Life. I'll forever associate his second album with my trip to New Zealand and this album will forever be associated with my British Isles trip.
 3. **All-In podcast** --- The All-In podcast continues to deliver. Although the show can sometimes get a little more political than I prefer, I am still addicted to feeling like I have secret access to billionaires conversations.
 4. **Limited Resources podcast** --- This podcast is all about how to get better at playing Magic. I crushed so many of these episodes on my commute to work in the summer. Oddly enough I feel like I learned a lot of general life lessons from this podcast too.
@@ -77,7 +64,7 @@ This is to capture the music, podcasts, Youtubers, video games, and board games 
 7. **Lords of Limited podcast** -- This podcast is also all about how to get better at playing Magic. Are you noticing a theme of how into Magic I am?
 8. **Who Cares? by Rex Orange County** --- I really enjoyed this album. I first listened to it when driving up to Grand Prairie and I find I always love albums that are associated in my mind with travel. It also was really special to be able to watch Rex perform it live.
 9. **Adam Ragusea** --- There is a lot of different Youtube creators that I watch but Adam Ragusea definitely rises to the top. I'm particularly fond of how he approaches learning.
-10. **It Takes Two** --- This is a co-op video game that I played through with my friend Joel. I'm not going to spoil anything but the settings kept getting crazier than I expected them to.
+10. **It Takes Two** --- This is a co-op video game that I played through with my friend. I'm not going to spoil anything but the settings kept getting crazier than I expected them to.
 
 ## Reflecting on 2022
 
