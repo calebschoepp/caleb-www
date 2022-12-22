@@ -27,16 +27,16 @@ Honorable mentions to the **Eagles concert**, **Sausage Day**, and **biking a me
 
 ## Top 10 Movies and TV Shows
 
-1. **Succession** --- TODO.
-2. **Top Gun 2** --- TODO.
-3. **Breaking Bad** --- TODO.
-4. **Greyhound** --- TODO.
-5. **Ted Lasso** --- TODO.
-6. **Randy Feltface** --- TODO.
-7. **Barry Season 3** --- TODO.
-8. **Hitch** --- TODO.
-9. **Vengeance** --- TODO.
-10. **Inventing Anna** --- TODO.
+1. **Succession** --- Totally lives up to all the hype. It has some of the best season ending twists I've ever seen.
+2. **Top Gun 2** --- It's really cliché to like this movie but I unashamedly do. It is the perfect action movie.
+3. **Breaking Bad** --- I know I'm really late to the party here but it totally holds up.
+4. **Greyhound** --- I'm an absolute sucker for a realistic WW2 movie and this fits the bill. No surprise that Tom Hanks is involved.
+5. **Ted Lasso** --- Ted Lasso was a nice injection of wholesome in my year. Although, I have to say I thought season 2 was terrible and a huge disappointment.
+6. **Randy Feltface** --- I don't really know what to say about Randy Feltface other than that you need to go watch [all](https://www.youtube.com/watch?v=Z4pkE3OFpkc&ab_channel=RandyFeltface) [of](https://www.youtube.com/watch?v=Ktb6Ksx1luY&ab_channel=Frenchipotle) [his](https://www.youtube.com/watch?v=YzxAv9qz79s&ab_channel=RandyFeltface) [specials](https://www.youtube.com/watch?v=CXEcxvrrUYg&ab_channel=HeliumComedyStudios) right now.
+7. **Barry Season 3** --- Barry still keeps delivering an absurd mix of comedy and drama.
+8. **Hitch** --- A gold standard romantic comedy.
+9. **Vengeance** --- I'm a big fan of B.J. Novak's work so I knew I had to watch this. I thought it was great although I can't say I loved the ending.
+10. **Inventing Anna** --- I kinda hated that I liked this but it was a really addicting watch. Still can't get Anna's voice out of my head.
 
 ## Top 10 Books
 
