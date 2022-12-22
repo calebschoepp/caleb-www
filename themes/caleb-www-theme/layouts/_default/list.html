@@ -1,4 +1,6 @@
-{{ define "main" }}{{ range .Pages }}
+{{ define "main" }}
+<div class="text-4xl">Favorites</div>
+{{ range .Pages }} {{ if .Params.isFavorite }}
 <summary class="mb-1 leading-snug">
   <span class="sm:hidden text-xs text-gray-600">
     {{ dateFormat "January 2, 2006" .Date }}
@@ -13,4 +15,21 @@
     >
   </h2>
 </summary>
-{{ end }}{{ end }}
+{{ end }} {{ end }}
+<div class="mt-10 text-4xl">Archive</div>
+{{ range .Pages }}
+<summary class="mb-1 leading-snug">
+  <span class="sm:hidden text-xs text-gray-600">
+    {{ dateFormat "January 2, 2006" .Date }}
+  </span>
+  <span class="hidden sm:inline text-xs text-gray-600">
+    {{ .ReadingTime }} min read
+  </span>
+  <h2 class="text-lg">
+    <a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="hidden sm:inline text-base text-gray-600 float-right"
+      >{{ dateFormat "January 2, 2006" .Date }}</span
+    >
+  </h2>
+</summary>
+{{ end }} {{ end }}
