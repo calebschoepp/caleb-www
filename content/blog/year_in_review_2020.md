@@ -4,7 +4,7 @@ date: 2020-12-25
 draft: false
 ---
 
-## Top 10 Moments
+## Top 10 Experiences
 
 1. Freedom camping across New Zealand.
 2. All the adrenaline rushes (skydiving/bridge-jumping/diving).

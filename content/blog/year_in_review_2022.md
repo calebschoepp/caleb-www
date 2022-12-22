@@ -8,13 +8,48 @@ draft: false
 
 INTRO
 
-## Top 10 Moments
+## Top 10 Experiences
 
-TODO
+1. **Graduating** --- After five and half years, more than a hundred midterms and finals, and thousands of hours of studying and doing homework, I've finally graduated.
+2. **My sister's wedding** --- TODO.
+3. **Learning to play hockey** --- TODO. Skating / Discover Hockey / Shinny / Oilers games / Bears games.
+4. **Summer in Seattle** --- DND, Portland trip, Mom and dad visiting.
+5. **Trip to California** --- TODO.
+6. **Trip to the British Isles** --- TODO.
+7. **Vacationing in Invermere** --- TODO.
+8. **Winning HackED 2022** --- TODO.
+9. **Trip to Grand Prairie** --- TODO.
+10. **Rex Orange County Concert** --- TODO.
+
+Honorable mentions to
+
+- eagles show
+- metric century
+- Accquired podcast show
+- DND
+- Portland trip
+- MOPOP museum
+
+- Strike CTF
+- Sausage day
+- Landlocked concert
+- Kelowna with mom and dad
+- Glen Miller band
+- clue citadel show
+- dodgeball game
 
 ## Top 10 Movies and TV Shows
 
-TODO
+1. **Succession** --- TODO.
+2. **Top Gun 2** --- TODO.
+3. **Breaking Bad** --- TODO.
+4. **Greyhound** --- TODO.
+5. **Ted Lasso** --- TODO.
+6. **Randy Feltface** --- TODO.
+7. **Barry Season 3** --- TODO.
+8. **Hitch** --- TODO.
+9. **Vengeance** --- TODO.
+10. **Inventing Anna** --- TODO.
 
 ## Top 10 Books
 
@@ -29,9 +64,20 @@ TODO
 9. **Numbers Don't Lie: 71 Things You Need to Know About the World by Vaclav Smil** --- TODO.
 10. **Man's Search for Meaning by Viktor Frankl** --- TODO.
 
-## Top 10 Podcasts
+## Top 10 Others
 
-TODO
+This is to capture the music, podcasts, Youtubers, video games, and board games that I really enjoyed this year.
+
+1. **Magic: The Gathering** --- Magic is a [collectible card game](https://en.wikipedia.org/wiki/Collectible_card_game) that I was first introduced to in junior high by my friend Ryan. I have really fond memories of hours spent in his basement learning to play. For a number of reasons we eventually stopped playing. However, this summer when I was in Seattle (the birthplace and mecca of Magic) I had a hankering to start playing again. There are multiple formats of Magic that you can play but by far my favorite is limited. In limited you sit around a table with 8 others passing packs of cards around as you draft a deck that you'll then play against your opponents. Since this summer I have made a very serious return to Magic and I'm absolutely loving it. I firmly believe that limited Magic is one of the funnest and most mentally stimulating ways to spend a few hours.
+2. **Harry's House by Harry Styles** --- I basically just listened to this album on repeat all year. According to Spotify I was in the top 0.5% of listeners. My favorite songs were Daylight and Love Of My Life. I'll forever associate his second album with my trip to New Zealand and this album will forever be associated with my British Isles trip.
+3. **All-In podcast** --- The All-In podcast continues to deliver. Although the show can sometimes get a little more political than I prefer, I am still addicted to feeling like I have secret access to billionaires conversations.
+4. **Limited Resources podcast** --- This podcast is all about how to get better at playing Magic. I crushed so many of these episodes on my commute to work in the summer. Oddly enough I feel like I learned a lot of general life lessons from this podcast too.
+5. **Acquired podcast** --- Never did I think I would be listening to 9 hour episodes about people like Warren Buffet but Acquired is so worth listening to. They also put on a killer in person show in Seattle that I was lucky enough to attend.
+6. **Mr. Morale and the Big Steppers by Kendrick Lamar** --- I have a fairly limited exposure to rap, but I really like Kendrick Lamar. His latest album did not disappoint.
+7. **Lords of Limited podcast** -- This podcast is also all about how to get better at playing Magic. Are you noticing a theme of how into Magic I am?
+8. **Who Cares? by Rex Orange County** --- I really enjoyed this album. I first listened to it when driving up to Grand Prairie and I find I always love albums that are associated in my mind with travel. It also was really special to be able to watch Rex perform it live.
+9. **Adam Ragusea** --- There is a lot of different Youtube creators that I watch but Adam Ragusea definitely rises to the top. I'm particularly fond of how he approaches learning.
+10. **It Takes Two** --- This is a co-op video game that I played through with my friend Joel. I'm not going to spoil anything but the settings kept getting crazier than I expected them to.
 
 ## Reflecting on 2022
 
