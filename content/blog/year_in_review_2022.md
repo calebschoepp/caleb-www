@@ -43,13 +43,13 @@ Honorable mentions to the **Eagles concert**, **Sausage Day**, and **biking a me
 1. **Shadow Divers by Robert Kurson** --- I couldn't put this book down. Kurson's portrayal of deep sea wreck diving had me on the edge of my seat. Best of all, it's a true story. Can't recommend you read this enough.
 2. **Project Hail Mary by Andy Weir** --- I'm loathe to actually say anything about this book because I think it is a much better read if you go into it cold and without an idea of what is to come. That being said, Andy Weir lives up to his reputation of delivering a fantastic character driven read that's full of fun science.
 3. **The Martian by Andy Weir** --- Even though this book is 11 years old and I'd already seen the movie I'm very glad I took the time to read it. I think the book is much better than the movie because you get to fully immerse yourself in the scientific writing that Weir is so good at.
-4. **Leviathan Wakes by James S. A. Corey** --- TODO.
-5. **Oscar And The Lady In Pink by Éric-Emmanuel Schmitt** --- TODO.
-6. **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness by Eric Jorgenson** --- TODO.
-7. **Anthropocene Reviewed by John Green** --- TODO.
+4. **Leviathan Wakes by James S. A. Corey** --- The Expanse series paints the picture of a sci-fi world that I always dreamed about as a kid.
+5. **Oscar And The Lady In Pink by Éric-Emmanuel Schmitt** --- A very short read. I cried at the end of the book.
+6. **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness by Eric Jorgenson** --- This book has so much condensed wisdom that I only glean a small portion of it on each read through. My favorite part were his life formulas e.g. Happiness = Health + Wealth + Good Relationships.
+7. **Anthropocene Reviewed by John Green** --- I was a long time listener to the Anthropocene Reviewed podcast so it was fun to consume it in written form.
 8. **What If? Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe** --- What If? Serious Scientific Answers to Absurd Hypothetical Questions
-9. **Numbers Don't Lie: 71 Things You Need to Know About the World by Vaclav Smil** --- TODO.
-10. **Man's Search for Meaning by Viktor Frankl** --- TODO.
+9. **Numbers Don't Lie: 71 Things You Need to Know About the World by Vaclav Smil** --- This was a recommendation from my brother. I found it valuable to read something so quantitative in a world where we consume so much qualitative content.
+10. **Man's Search for Meaning by Viktor Frankl** --- Definitely a tough read but worth it to be exposed to the dynamic range of humanity.
 
 ## Top 10 Others
 
