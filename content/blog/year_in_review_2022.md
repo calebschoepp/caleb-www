@@ -33,10 +33,10 @@ Honorable mentions to the **Eagles concert**, **Sausage Day**, and **biking a me
 4. **Greyhound** --- I'm an absolute sucker for a realistic WW2 movie and this fits the bill. No surprise that Tom Hanks is involved.
 5. **Ted Lasso** --- Ted Lasso was a nice injection of wholesome in my year. Although, I have to say I thought season 2 was terrible and a huge disappointment.
 6. **Randy Feltface** --- I don't really know what to say about Randy Feltface other than that you need to go watch [all](https://www.youtube.com/watch?v=Z4pkE3OFpkc&ab_channel=RandyFeltface) [of](https://www.youtube.com/watch?v=Ktb6Ksx1luY&ab_channel=Frenchipotle) [his](https://www.youtube.com/watch?v=YzxAv9qz79s&ab_channel=RandyFeltface) [specials](https://www.youtube.com/watch?v=CXEcxvrrUYg&ab_channel=HeliumComedyStudios) right now.
-7. **Barry Season 3** --- Barry still keeps delivering an absurd mix of comedy and drama.
-8. **Hitch** --- A gold standard romantic comedy.
-9. **Vengeance** --- I'm a big fan of B.J. Novak's work so I knew I had to watch this. I thought it was great although I can't say I loved the ending.
-10. **Inventing Anna** --- I kinda hated that I liked this but it was a really addicting watch. Still can't get Anna's voice out of my head.
+7. **Avatar: The Way of Water** --- Didn't go into this movie thinking I would like it but I really did. Strong character development and great world building.
+8. **Barry Season 3** --- Barry still keeps delivering an absurd mix of comedy and drama.
+9. **Hitch** --- A gold standard romantic comedy.
+10. **Vengeance** --- I'm a big fan of B.J. Novak's work so I knew I had to watch this. I thought it was great although I can't say I loved the ending.
 
 ## Top 10 Books
 
@@ -72,21 +72,23 @@ This is to capture the music, podcasts, Youtubers, video games, and board games 
 
 > By the end of this year I'll graduate. With that in mind I'll need to start making some decisions about where I want to work full-time and where I want to live. I also want to consider less traditional options like digital nomading or consulting for the start of 2023.
 
-TODO
+Lots of wins for my career in 2022. I completed my Computer Engineering degree and I accepted an offer at [Fermyon](https://fermyon.com) where I'll start working in January. Although I didn't really explore consulting as an option, digital nomading is definitely front of mind for me. The two forms of this I'm most interested in our tacking travel on to company on-sites and joining a [digital nomad group](https://www.remoteyear.com/).
 
 {{< begin_task_list >}}
 
-- [ ] Graduate!
-- [ ] Leverage my connections to have multiple full-time offers post-graduation.
-- [ ] Seriously research the possibility of digital nomading or consulting at the start of 2023.
+- [x] Graduate!
+- [x] Leverage my connections to have multiple full-time offers post-graduation.
+- [x] Seriously research the possibility of digital nomading or consulting at the start of 2023.
 
 ### Travel and Adventure
 
 > Thanks to remote schooling and work I spend a lot of time at home. Traveling abroad and doing adventurous things is a great way to spice up my life.
 
+I'm counting my British Isles trip as equivalent to a trip to Eastern Canada. I'll be less specific in the future about locations because travel plans are always fluid. Unfortunately, I didn't end up canoeing much this year. I was also only able to do a metric century rather than a full imperial century. Despite missing these goals I still feel like I had a very adventurous year.
+
 {{< begin_task_list >}}
 
-- [ ] Travel to Eastern Canada.
+- [x] Travel to Eastern Canada.
 - [ ] Do a multi-night canoe trip on the North Saskatchewan.
 - [ ] Bike an imperial century.
 
@@ -94,15 +96,21 @@ TODO
 
 > I've had some trouble with physical and mental health problems over 2021. Looking forward to 2022 I want to take a more holistic approach to my health, or in other words, I want to do a lot of yoga.
 
+On the whole I think I successfully managed my health throughout 2022. Despite encountering a lot of injuries and setbacks I've been very intentional about rehabilitating the injuries and proactively preventing new ones. While I don't do yoga weekly anymore it is now something I am comfortable doing and know will benefit me. I was also able to train for biking a metric century despite a very busy fall. Perhaps best of all I got into hockey in a big way this year and joined a beer league team that I'm really excited to play on.
+
+Starting in May I've been doing the [Stronglifts 5x5](https://stronglifts.com/5x5/) program. Since then I've had to stop twice due to traveling and injury but otherwise I've been very consistent. I've really been enjoying this process. As of publishing this I am: squatting 190 lbs, deadlifting 195 lbs, bench pressing 110 lbs, barbell rowing 100 lbs, and overhead pressing 70 lbs. This wasn't quite as much progress from my midpoint check-in as I was hoping but I'm mostly pleased that I'm still working at it. More impressive numbers will come with time.
+
 {{< begin_task_list >}}
 
-- [ ] Build a habit of doing yoga multiple times a week.
-- [ ] Do a mix of body weight exercises at home and weightlifting at the gym.
-- [ ] Keep biking and training for a century.
+- [x] Build a habit of doing yoga multiple times a week.
+- [x] Do a mix of body weight exercises at home and weightlifting at the gym.
+- [x] Keep biking and training for a century.
 
 ### Digital Life
 
 > I find the digital world to be both a blessing and a curse, software itself is amoral but amplifies the underlying good or bad. On one hand I've never been more connected, empowered, and informed. On the other hand I've never felt so isolated, paralyzed, and confused. Not quite sure how to get off the treadmill or if I even want to, but the following seem like some rational first steps.
+
+No progress here. It's becoming more clear to me that the only way I'll see any success here is by going cold turkey which I don't feel prepared to do.
 
 {{< begin_task_list >}}
 
@@ -113,24 +121,28 @@ TODO
 
 > 2021 was a big year for my finances: I read some great investing books; started investing in crypto; got my traditional investments in order; and built a big spreadsheet to help me keep track of my overall financial direction. I'd be happy if all I did in 2022 was continue to dollar cost average into my investments and keep my spreadsheet up to date — compounding will take care of the rest.
 
+I'm really happy with my progress here. Overall I managed to graduate with limited debt and some meaningful assets all while still being able to travel and not feeling like I was living paycheck to paycheck. I was also able to secure a well paying job for the first job of my career.
+
 {{< begin_task_list >}}
 
-- [ ] Keep dollar cost averaging into passive index funds, ETH, BTC.
-- [ ] Keep my spreadsheet up to date.
+- [x] Keep dollar cost averaging into passive index funds, ETH, BTC.
+- [x] Keep my spreadsheet up to date.
 
 ### Building
 
 > Building things makes me happy. I don't intend to be prescriptive about what I'll build in 2022 — all that matters is that I build something.
 
+The coolest and most complete thing I built this year was [StudyBuddy](https://calebschoepp.com/blog/2022/building-studybuddy-at-hacked-2022/). I didn't really finish anything else but I did hack on a lot of different things: Postgres based product analytics, the inception studio project, a web assembly interpreter, a compiler, and a few more things I'm probably forgetting.
+
 {{< begin_task_list >}}
 
-- [ ] Build and publish 2+ projects.
+- [x] Build and publish 2+ projects.
 
 ### Reading
 
 > Last year I focused on reading less short/medium-form blog content and more long-form book content. Blogs have their place, but I felt that I was missing some of the nuance you find in books. I also wanted to rediscover fiction. It was a good start last year but I want to pick up the pace. The Kobo I got for christmas should hopefully assist with this.
 
-About 13 books
+Give or take I read about 13 books in 2022. While I didn't quite meet the goal I developed a good habit of reading a chapter or two before bed each night. One chapter isn't very much but it adds up when I'm consistent. The Kobo was also very helpful in getting me to read more.
 
 {{< begin_task_list >}}
 
@@ -140,30 +152,40 @@ About 13 books
 
 > I tend to overthink (understatement of the year) so I should definitely be writing more. In the first year of this blog I managed to write eight posts. I chalk it up to a productive spurt in the early COVID lockdowns. In 2021 I only managed to write five. I think it'd be a big win if I wrote ten or more posts in 2022. Writing has compounding benefits so I want to start the compounding sooner than later.
 
+Including this post I was able to publish 14 blog posts in 2022 well exceeding my goal. One of my posts went viral on Hacker News and accrued more than 60k visitors to my website growing my email list to a little more than 100 people. In the grand scheme of things these are still very small numbers. However, back in 2020 when I started blogging I would have been flabbergasted to see these numbers. And I'm sure that if I keep up this pace of blogging these numbers will continue to grow at a compounding rate.
+
 {{< begin_task_list >}}
 
-- [ ] Publish 10+ blog posts.
+- [x] Publish 10+ blog posts.
 
 ### Guitar
 
 > Learning guitar was one of the best decisions I made in 2021 so I want to keep my foot on the gas pedal. The hardest thing here will be continuing to do focused practice; at the one year mark I have enough skill that I find it really easy to waste a whole practice session just noodling rather than working on the fundamentals.
 
+Identify the risk of noodling rather than practicing was very prescient of me. This has been a big issue for me in 2022 and is the main reason why I made so little progress on grade 3, ear training, and theory. I'm not too mad about it because I have fun noodling and music is ultimately about fun for me --- but it would still be nice to grow as a musician.
+
+I did however have a lot of success in playing in front of people and jamming with other players. I spent a lot of time going out of my comfort zone doing these things this year.
+
+In hindsight the stretch goal was maybe too ambitious for me this year.
+
 {{< begin_task_list >}}
 
 - [ ] Complete Justin Guitar Beginner Grade 3.
 - [ ] Complete Justin Guitar Ear Training and Theory up to Grade 3.
-- [ ] Keep playing in front of family and friends to practice performing.
-- [ ] Find more people to jam with.
+- [x] Keep playing in front of family and friends to practice performing.
+- [x] Find more people to jam with.
 - [ ] Stretch goal: Record a cover of a song.
 
 ### Web 3.0
 
 > 2021 was the year that I got red-pilled by crypto; I started buying ETH and BTC; I started mining HNT; but most of all I read and listened to a lot of crypto content. In 2022 I want to double down on actually tinkering around with crypto. I'm convinced that Web 3.0 is going to be huge so I want to get in early. The end goal of the tinkering is to discover what still needs to be built and to go build it.
 
+My thoughts here haven't changed since the halfway check-in. Besides continuing to dollar cost average into ETH and BTC I have made no progress here. Frankly I think that my passion here has just cooled off which I am more than okay with. I’m still convinced (even in the current bear market) that there will be a myriad of world changing use cases for crypto. I’m also still convinced that there is an adequate possibility of a highly asymmetric upside for owning crypto on a multi-decade time horizon. All that being said I currently have no desires to build or actively participate in the space. Besides investing I’ll still keep hosting Helium miners cause it is low effort and fun. I’d also still like to pick up some ENS domains.
+
 {{< begin_task_list >}}
 
-- [ ] Continue to dollar cost average my way into ETH and BTC.
-- [ ] Purchase or host more Helium miners.
+- [x] Continue to dollar cost average my way into ETH and BTC.
+- [x] Purchase or host more Helium miners.
 - [ ] Register an ENS domain.
 - [ ] Try out some DeFi protocols.
 - [ ] Buy some NFTs and get involved with the communities.
