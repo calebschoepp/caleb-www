@@ -194,22 +194,92 @@ My thoughts here haven't changed since the halfway check-in. Besides continuing 
 
 ### Career
 
+{{< begin_task_list >}}
+
+- [ ] Find and maintain a sustainable work-life balance.
+- [ ] Actively seek 1-1's to learn and build relationships with teammates.
+- [ ] Write a blog post in January detailing my plan and goals for my new job more thoroughly.
+- [ ] Start building a professional network in Edmonton.
+- [ ] Stretch goal: Go to 2+ technical conferences.
+-
+
 ### Finances
+
+Use savings to pay off debt and dollar cost average into passive index funds, crypto, etc.
+
+{{< begin_task_list >}}
+
+- [ ] Use a monthly budget like [YNAB](https://ynab.com) all year.
+- [ ] Keep my high level spreadsheet updated.
+- [ ] Donate 10% of my gross income.
+- [ ] Save a minimum of 15% of my gross income.
+- [ ] Research investment strategies outside of RRSP.
+- [ ] Stretch goal: Save 30% of my gross income.
 
 ### Physical Health
 
+{{< begin_task_list >}}
+
+- [ ] Strength goals.
+- [ ]
+
 ### Mental Health
+
+{{< begin_task_list >}}
+
+- [] TODO
 
 ### Relationships
 
+{{< begin_task_list >}}
+
+- [] TODO
+
 ### Spirituality
+
+{{< begin_task_list >}}
+
+- [] TODO
 
 ### Travel and Adventure
 
+{{< begin_task_list >}}
+
+- [ ] Digital nomad?
+- [ ] Seattle?
+- [ ] Do a multi-night canoe trip on the North Saskatchewan?
+- [ ] Bike an imperial century.
+
 ### Building
+
+Less ambitious here. But will take some iteration to find the right idea.
+
+{{< begin_task_list >}}
+
+- [ ] Build, publish, and write about one meaningful project.
 
 ### Reading
 
+{{< begin_task_list >}}
+
+- [ ] Read 1.5+ books a month (for a total of 18+ over the year).
+
 ### Writing
 
+STRETCH GOAL?
+
+{{< begin_task_list >}}
+
+- [ ] Publish 12+ blog posts.
+
 ### Music
+
+{{< begin_task_list >}}
+
+- [ ] Complete Justin Guitar Grade 3 ang finish 3 modules in Justin Guitar Grade 4.
+- [ ] Complete Justin Guitar Ear Training and Theory up to Grade 3.
+- [ ] Learn to use a looper with [this](https://learnpracticeplay.com/loop-school-signup/) course.
+- [ ] Keep playing in front of family and friends to practice performing.
+- [ ] Keep jamming with other guitarists.
+- [ ] Stretch goal: Record a cover of a song.
+- [ ] Stretch goal: Start taking piano lessons.
