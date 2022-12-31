@@ -1,6 +1,6 @@
 ---
 title: "Year in Review: 2022"
-date: 2022-12-22
+date: 2022-12-31
 draft: false
 ---
 
@@ -194,6 +194,8 @@ My thoughts here haven't changed since the halfway check-in. Besides continuing 
 
 ### Career
 
+After nearly six years of university and internships I feel that I've mastered the technique of excelling in these domains. I'm now entering into a whole new world that is full-time work. I'm going to need to learn a lot of new skills and lessons to start mastering this domain.
+
 {{< begin_task_list >}}
 
 - [ ] Find and maintain a sustainable work-life balance.
@@ -201,11 +203,14 @@ My thoughts here haven't changed since the halfway check-in. Besides continuing 
 - [ ] Write a blog post in January detailing my plan and goals for my new job more thoroughly.
 - [ ] Start building a professional network in Edmonton.
 - [ ] Stretch goal: Go to 2+ technical conferences.
--
 
 ### Finances
 
-Use savings to pay off debt and dollar cost average into passive index funds, crypto, etc.
+Thanks to hard work, networking, and some luck I've found myself in a position where I'm going to be making more money than I'm used to. Given this opportunity I want to take maximum advantage of it and save as much as I can. Savings now are going to compound a lot more than savings I invest when I'm older. Not to mention the fact that I'm single and have no dependents which provides me with lots of flexibility in how I spend my money.
+
+So given this sudden increase in income and desire to save a large percentage of it, I have decided I need to strap some training wheels on for the year. In other words I've decided that I need to start monthly budgeting again. My hope is the monthly budget will allow me to save significantly while also spending my money on fun things guilt free.
+
+How I put this money I save to work is a more complicated question that I plan to answer throughout the year. There are many things I can do with it: pay off my debt; build a sizeable emergency fund; save for travel in the mid-term; invest for retirement in the long-term. The ordering and weighting of these uses is to be determined.
 
 {{< begin_task_list >}}
 
@@ -218,47 +223,64 @@ Use savings to pay off debt and dollar cost average into passive index funds, cr
 
 ### Physical Health
 
+This year I've split physical and mental health into separate categories. While they are tightly linked in how the affect each other, I think it is helpful to view my goals for them as separate.
+
+The main thrust of my physical health goals is to continue with Stronglifts 5x5. I've set my year end goal based on the [Intermediate I](https://stronglifts.com/5x5/#Strength_Goals) goals found on the website translated to 5 rep maxes. The secondary thrust is to continue to build a resilient body through things like yoga and stretching so that I get injured less.
+
 {{< begin_task_list >}}
 
-- [ ] Strength goals.
-- [ ]
+- [ ] Do yoga every day in January.
+- [ ] Play a sport (hockey) once a week.
+- [ ] Workout (yoga/weightlifting/etc.) consistently three times a week.
+- [ ] Actually warmup, cooldown, and stretch when I workout.
+- [ ] 5RM of: squat 255 lbs, deadlift 355 lbs, bench press 175 lbs, barbell row 155 lbs, and overhead press 90 lbs.
+- [ ] Stretch goal: Workout (yoga/weightlifting/etc.) consistently five times a week.
 
 ### Mental Health
 
+My mental health has a huge impact on my day to day life so I want to continue to actively work to improve it. In a previous [post](/blog/2022/inception-studio-weekend-reflections/#the-value-of-regular-therapy-or-life-coaching) I talked about how I think more regular therapy could be valuable. I want to try and enact that this year.
+
 {{< begin_task_list >}}
 
-- [] TODO
+- [ ] Build life coaching or therapy into my life on a regular cadence.
+- [ ] Keep using yoga as a tool to aid in my mental health.
 
 ### Relationships
 
-{{< begin_task_list >}}
-
-- [] TODO
-
-### Spirituality
+This is a new category I'm adding this year. It has become abundantly clear to me over the past year how good relationships are one of the most important factors to my happiness. Given that I've graduated university and decided to work for a remote company I am going to need to be extremely proactive about finding, building, and maintaining relationships.
 
 {{< begin_task_list >}}
 
-- [] TODO
+- [ ] Plan semi-regular lunches with friends and family in town as a way to get out of the house.
+- [ ] Get involved in 1-2 activities where I can meet people e.g. hockey team, dance lessons, etc.
+- [ ] Host friends and family more often at my place.
+- [ ] Be proactive about setting up calls with friends who live far away.
 
 ### Travel and Adventure
 
+Truth be told I'm not sure the best way to set goals in this area of my life. If I'm too specific than I always miss the goals because plans change. But, if I'm too generic I don' think the goals are in any way valuable. For this year what I'll try doing is listing some adventures that I'm entirely confident I want to do. I'll also include some stretch goals of things that sound fun and I want to look into but I'm not ready to commit to.
+
 {{< begin_task_list >}}
 
-- [ ] Digital nomad?
-- [ ] Seattle?
-- [ ] Do a multi-night canoe trip on the North Saskatchewan?
+- [ ] Visit friends in Seattle.
 - [ ] Bike an imperial century.
+- [ ] Stretch goal: Do a multi-night canoe trip on the North Saskatchewan.
+- [ ] Stretch goal: Join a digital nomad group like Remote Year.
+- [ ] Stretch goal: Plan a solo-trip to another country I haven't been to.
 
 ### Building
 
-Less ambitious here. But will take some iteration to find the right idea.
+This is one of the few categories where I'm setting a less ambitious goal. I'm very excited about building cool things and I think that long term it has compounding effects. However, now that I'm graduating I feel that I've entered a time in my life where I'm more focused on finding balance in my life as opposed to obsession. Put another way, I feel less of desire to grind on side projects than I did a year ago. I'm sure this desire will ebb and flow with time.
+
+Although I'm only aiming for one project I'm sure it will take me a couple tries to find an idea that I'm really excited to hack on. I also want to highlight the importance of the publishing and writing about it steps. I'm not going to consider a project done unless I do those too.
 
 {{< begin_task_list >}}
 
-- [ ] Build, publish, and write about one meaningful project.
+- [ ] Build, publish, and write about, one meaningful project.
 
 ### Reading
+
+Nothing crazy here. I want to continue to build the habit of reading books because I think it is a good counter-measure against the rapid pace of our digital world. In terms of genres I'm open to reading any mix of fiction, non-fiction, and self-help.
 
 {{< begin_task_list >}}
 
@@ -266,13 +288,17 @@ Less ambitious here. But will take some iteration to find the right idea.
 
 ### Writing
 
-STRETCH GOAL?
+I'm really pleased with how my blogging went last year and all I'm aiming to do in 2023 is keep a similar cadence. I could set a really aggressive stretch goal here but I don't think I actually desire to write that much. My perspective is that about one post a month will still give me the benefits I'm looking for. I'm also not going to set any goals about having posts go viral --- that either happens or it doesn't.
+
+The only thing I would change about my writing last year was that I wish I was more consistent. I think it is better to write one post a month rather than four posts one month and then zero the next. Consistency will not only help me build discipline in the practice of writing but it will also build my credibility and audience.
 
 {{< begin_task_list >}}
 
 - [ ] Publish 12+ blog posts.
 
 ### Music
+
+I'm so pleased that two years ago I decided to pick up guitar. Doing so filled a hole in my life that I wasn't aware of --- making music. As a kid music was a big part of my life but it faded in university. Suffice to say I'm glad it's back. Music is a more apt name for this category because my interests are starting to wander beyond guitar. In addition to my goals of progressing on guitar I'm also starting to have the desire to pick up piano too. I'm leaving it as a stretch goal and we'll see where the year takes me.
 
 {{< begin_task_list >}}
 
