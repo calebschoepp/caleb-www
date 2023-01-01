@@ -12,13 +12,13 @@ I always find a review like this to be a joyous and worthwhile exercise. It's ea
 
 1. **Graduating** --- On December 19 I wrote the last ever final of my Computer Engineering degree. Earning this degree was probably the hardest thing I've ever done. I'm ready to finally graduate after five and half years, more than a hundred midterms and finals, and thousands of hours of studying and doing homework. Overall I'm incredibly proud of this achievement and very glad that I decided to stick it out and not go to industry early.
 2. **My sister's wedding** --- This was a very special experience because I'm very close with my sister. She was kind enough to ask me to be her man of honor which was such a privilege. It was also very exciting to welcome a new in-law to the family. And as an added bonus it was also a very fun party.
-3. **Learning to play hockey** --- Last year I [learned to skate](/blog/skating_my_way_to_a_new_mindset) and started playing shinny. I've continued this progression in a big way. Not only have I been skating a lot but I also joined a learn to play hockey league for adults. It was so much fun that I was literally vibrating with excitement before each practice or game.
+3. **Learning to play hockey** --- Last year I [learned to skate](/blog/2022/skating-my-way-to-a-new-mindset) and started playing shinny. I've continued this progression in a big way. Not only have I been skating a lot but I also joined a learn to play hockey league for adults. It was so much fun that I was literally vibrating with excitement before each practice or game.
 4. **Summer in Seattle** --- This summer I was down in Seattle for an internship at Microsoft on the Azure Kubernetes Service team. It was an incredible three months. There is way too much to unpack here so the best I can do is share some highlights which included: making a lot of new friends; playing DnD for the first time; a weekend trip to Portland; winning the Microsoft Strike capture the flag event; and my parents coming to visit.
-5. **Trip to California** --- I spent a week in California at [a hackathon](blog/inception_studio_weekend_reflections) and catching up with friends. This was the most impromptu trip I've ever taken and thus was memorable for the spontaneity alone.
-6. **Trip to the British Isles** --- I spent two weeks driving across Ireland and Scotland with my brother and sister-in-law. The highlight was all the epic landscapes I got to see.
+5. **Trip to California** --- I spent a week in California at a [hackathon](/blog/2022/inception-studio-weekend-reflections) and catching up with friends. This was the most impromptu trip I've ever taken and thus was memorable for the spontaneity alone.
+6. **Trip to the British Isles** --- I spent two weeks driving across Ireland and Scotland with my brother and sister-in-law. Besides all the epic landscapes I go to see the highlight was all the great conversation that was had.
 7. **Vacationing in Invermere** --- The family and I spent a week at a beautiful VRBO in Invermere. We did a lot of fun things, but my absolute favorite part was all the laughter.
-8. **Winning HackED 2022** --- In January I won the HackED 2022 hackathon with some friends. I wrote all about it [here](/blog/building_studybuddy_at_hacked_2022).
-9. **Trip to Grand Prairie** --- A lot of my family lives up north in Grand Prairie. I got to spend a few days up there with my dad and grandmother which was a very special experience. In particular I enjoyed building new relationships with some of my aunts and uncles.
+8. **Winning HackED 2022** --- In January I won the HackED 2022 hackathon with some friends. I wrote all about it [here](/blog/2022/building-studybuddy-at-hacked-2022).
+9. **Trip to Grand Prairie** --- A lot of my family lives up north in Grand Prairie. I got to spend a few days up there with my dad and grandmother which was a very special experience. In particular I enjoyed rekindling relationships with some of my aunts and uncles.
 10. **Rex Orange County Concert** --- I ended up at this concert because of pure happenstance and made some really good friends. It poured rain the whole concert which oddly really amplified the experience and made it feel like it was just you and Rex.
 
 Honorable mentions to the **Eagles concert**, **Sausage Day**, and **biking a metric century**.
@@ -29,23 +29,23 @@ Honorable mentions to the **Eagles concert**, **Sausage Day**, and **biking a me
 2. **Top Gun 2** --- It's really cliché to like this movie but I unashamedly do. It is the perfect action movie.
 3. **Breaking Bad** --- I know I'm really late to the party here but it totally holds up.
 4. **Greyhound** --- I'm an absolute sucker for a realistic WW2 movie and this fits the bill. No surprise that Tom Hanks is involved.
-5. **Ted Lasso** --- Ted Lasso was a nice injection of wholesome in my year. Although, I have to say I thought season 2 was terrible and a huge disappointment.
-6. **Randy Feltface** --- I don't really know what to say about Randy Feltface other than that you need to go watch [all](https://www.youtube.com/watch?v=Z4pkE3OFpkc&ab_channel=RandyFeltface) [of](https://www.youtube.com/watch?v=Ktb6Ksx1luY&ab_channel=Frenchipotle) [his](https://www.youtube.com/watch?v=YzxAv9qz79s&ab_channel=RandyFeltface) [specials](https://www.youtube.com/watch?v=CXEcxvrrUYg&ab_channel=HeliumComedyStudios) right now.
-7. **Avatar: The Way of Water** --- Didn't go into this movie thinking I would like it but I really did. Strong character development and great world building.
-8. **Barry Season 3** --- Barry still keeps delivering an absurd mix of comedy and drama.
+5. **Randy Feltface** --- I don't really know what to say about Randy Feltface other than that you need to go watch [all](https://www.youtube.com/watch?v=Z4pkE3OFpkc&ab_channel=RandyFeltface) [of](https://www.youtube.com/watch?v=Ktb6Ksx1luY&ab_channel=Frenchipotle) [his](https://www.youtube.com/watch?v=YzxAv9qz79s&ab_channel=RandyFeltface) [specials](https://www.youtube.com/watch?v=CXEcxvrrUYg&ab_channel=HeliumComedyStudios) right now.
+6. **Ted Lasso** --- Ted Lasso was a nice injection of wholesome into my year. Although, I have to say I thought season 2 was terrible and a huge disappointment.
+7. **Avatar: The Way of Water** --- I didn't go into this movie thinking I would like it, but I really did. Strong character development and great world building.
+8. **Barry Season 3** --- Barry still keeps delivering an absurd mix of comedy and drama that I love.
 9. **Hitch** --- A gold standard romantic comedy.
 10. **Vengeance** --- I'm a big fan of B.J. Novak's work so I knew I had to watch this. I thought it was great although I can't say I loved the ending.
 
 ## Top 10 Books
 
-1. **Shadow Divers by Robert Kurson** --- I couldn't put this book down. Kurson's portrayal of deep sea wreck diving had me on the edge of my seat. Best of all, it's a true story. Can't recommend you read this enough.
+1. **Shadow Divers by Robert Kurson** --- I couldn't put this book down. Kurson's portrayal of deep sea wreck diving had me on the edge of my seat. Best of all, it's a true story. I can't recommend you read this enough.
 2. **Project Hail Mary by Andy Weir** --- I'm loathe to actually say anything about this book because I think it is a much better read if you go into it cold and without an idea of what is to come. That being said, Andy Weir lives up to his reputation of delivering a fantastic character driven read that's full of fun science.
-3. **The Martian by Andy Weir** --- Even though this book is 11 years old and I'd already seen the movie I'm very glad I took the time to read it. I think the book is much better than the movie because you get to fully immerse yourself in the scientific writing that Weir is so good at.
+3. **The Martian by Andy Weir** --- Even though this book is 11 years old and I'd already seen the movie, I'm very glad I took the time to read it. I think the book is much better than the movie because you get to fully immerse yourself in the scientific writing that Weir is so good at.
 4. **Leviathan Wakes by James S. A. Corey** --- The Expanse series paints the picture of a sci-fi world that I always dreamed about as a kid.
 5. **Oscar And The Lady In Pink by Éric-Emmanuel Schmitt** --- A very short read. I cried at the end of the book.
-6. **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness by Eric Jorgenson** --- This book has so much condensed wisdom that I only glean a small portion of it on each read through. My favorite part were his life formulas e.g. Happiness = Health + Wealth + Good Relationships.
+6. **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness by Eric Jorgenson** --- This book has so much condensed wisdom that I only glean a small portion of it on each read through. My favorite part was his life formulas e.g. Happiness = Health + Wealth + Good Relationships.
 7. **Anthropocene Reviewed by John Green** --- I was a long time listener to the Anthropocene Reviewed podcast so it was fun to consume it in written form.
-8. **What If? Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe** --- What If? Serious Scientific Answers to Absurd Hypothetical Questions
+8. **What If? Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe** --- If you like xkcd you're going to like this.
 9. **Numbers Don't Lie: 71 Things You Need to Know About the World by Vaclav Smil** --- This was a recommendation from my brother. I found it valuable to read something so quantitative in a world where we consume so much qualitative content.
 10. **Man's Search for Meaning by Viktor Frankl** --- Definitely a tough read but worth it to be exposed to the dynamic range of humanity.
 
@@ -55,14 +55,14 @@ This is to capture the music, podcasts, Youtubers, video games, and board games 
 
 1. **Magic: The Gathering** --- Magic is a [collectible card game](https://en.wikipedia.org/wiki/Collectible_card_game) that I was first introduced to in junior high by my friend. I have really fond memories of hours spent in his basement learning to play. For a number of reasons we eventually stopped playing. However, this summer when I was in Seattle (the birthplace and mecca of Magic) I had a hankering to start playing again. There are multiple formats of Magic that you can play but by far my favorite is limited. In limited you sit around a table with 8 others passing packs of cards around as you draft a deck that you'll then play against your opponents. Since this summer I have made a very serious return to Magic and I'm absolutely loving it. I firmly believe that limited Magic is one of the funnest and most mentally stimulating ways to spend a few hours.
 2. **Harry's House by Harry Styles** --- I basically just listened to this album on repeat all year. According to Spotify I was in the top 0.5% of listeners. My favorite songs were Daylight and Love Of My Life. I'll forever associate his second album with my trip to New Zealand and this album will forever be associated with my British Isles trip.
-3. **All-In podcast** --- The All-In podcast continues to deliver. Although the show can sometimes get a little more political than I prefer, I am still addicted to feeling like I have secret access to billionaires conversations.
+3. **All-In podcast** --- The All-In podcast continues to deliver. Although the show can sometimes get a little more political than I prefer, I am still addicted to feeling like I have secret access to the conversations of billionaires.
 4. **Limited Resources podcast** --- This podcast is all about how to get better at playing Magic. I crushed so many of these episodes on my commute to work in the summer. Oddly enough I feel like I learned a lot of general life lessons from this podcast too.
-5. **Acquired podcast** --- Never did I think I would be listening to 9 hour episodes about people like Warren Buffet but Acquired is so worth listening to. They also put on a killer in person show in Seattle that I was lucky enough to attend.
+5. **Acquired podcast** --- Never did I think I would be listening to 9 hour episodes about people like Warren Buffet, but Acquired is so worth listening to. They also put on a killer in person show in Seattle that I was lucky enough to attend.
 6. **Mr. Morale and the Big Steppers by Kendrick Lamar** --- I have a fairly limited exposure to rap, but I really like Kendrick Lamar. His latest album did not disappoint.
 7. **Lords of Limited podcast** -- This podcast is also all about how to get better at playing Magic. Are you noticing a theme of how into Magic I am?
 8. **Who Cares? by Rex Orange County** --- I really enjoyed this album. I first listened to it when driving up to Grand Prairie and I find I always love albums that are associated in my mind with travel. It also was really special to be able to watch Rex perform it live.
-9. **Adam Ragusea** --- There is a lot of different Youtube creators that I watch but Adam Ragusea definitely rises to the top. I'm particularly fond of how he approaches learning.
-10. **It Takes Two** --- This is a co-op video game that I played through with my friend. I'm not going to spoil anything but the settings kept getting crazier than I expected them to.
+9. **Adam Ragusea** --- There is a lot of different Youtube creators that I watch but Adam Ragusea definitely rises to the top. I'm particularly fond of how he approaches learning new things.
+10. **It Takes Two** --- This is a co-op video game that I played with my friend. I'm not going to spoil anything but the premise kept getting crazier than I expected it to.
 
 ## Reflecting on 2022
 
@@ -82,7 +82,7 @@ Lots of wins for my career in 2022. I completed my Computer Engineering degree a
 
 > Thanks to remote schooling and work I spend a lot of time at home. Traveling abroad and doing adventurous things is a great way to spice up my life.
 
-I'm counting my British Isles trip as equivalent to a trip to Eastern Canada. I'll be less specific in the future about locations because travel plans are always fluid. Unfortunately, I didn't end up canoeing much this year. I was also only able to do a metric century rather than a full imperial century. Despite missing these goals I still feel like I had a very adventurous year.
+I'm counting my British Isles trip as equivalent to a trip to Eastern Canada. I'll be less specific in the future about locations because travel plans are always fluid. Unfortunately, I didn't end up canoeing much this year. I was also only able to bike a metric century rather than a full imperial century. Despite missing these goals I still feel like I had a very adventurous year.
 
 {{< begin_task_list >}}
 
@@ -94,7 +94,7 @@ I'm counting my British Isles trip as equivalent to a trip to Eastern Canada. I'
 
 > I've had some trouble with physical and mental health problems over 2021. Looking forward to 2022 I want to take a more holistic approach to my health, or in other words, I want to do a lot of yoga.
 
-On the whole I think I successfully managed my health throughout 2022. Despite encountering a lot of injuries and setbacks I've been very intentional about rehabilitating the injuries and proactively preventing new ones. While I don't do yoga weekly anymore it is now something I am comfortable doing and know will benefit me. I was also able to train for biking a metric century despite a very busy fall. Perhaps best of all I got into hockey in a big way this year and joined a beer league team that I'm really excited to play on.
+On the whole I think I successfully managed my health throughout 2022 despite encountering a lot of injuries and setbacks. I've been very intentional about rehabilitating the injuries and proactively preventing new ones. While I don't do yoga weekly anymore it is now something I am comfortable doing and know will benefit me. I was also able to train for biking a metric century despite a very busy fall. Perhaps best of all I got into hockey in a big way this year and joined a beer league team that I'm really excited to play on.
 
 Starting in May I've been doing the [Stronglifts 5x5](https://stronglifts.com/5x5/) program. Since then I've had to stop twice due to traveling and injury but otherwise I've been very consistent. I've really been enjoying this process. As of publishing this I am: squatting 190 lbs, deadlifting 195 lbs, bench pressing 110 lbs, barbell rowing 100 lbs, and overhead pressing 70 lbs. This wasn't quite as much progress from my midpoint check-in as I was hoping but I'm mostly pleased that I'm still working at it. More impressive numbers will come with time.
 
@@ -150,7 +150,7 @@ Give or take I read about 13 books in 2022. While I didn't quite meet the goal I
 
 > I tend to overthink (understatement of the year) so I should definitely be writing more. In the first year of this blog I managed to write eight posts. I chalk it up to a productive spurt in the early COVID lockdowns. In 2021 I only managed to write five. I think it'd be a big win if I wrote ten or more posts in 2022. Writing has compounding benefits so I want to start the compounding sooner than later.
 
-Including this post I was able to publish 14 blog posts in 2022 well exceeding my goal. One of my posts went viral on Hacker News and accrued more than 60k visitors to my website growing my email list to a little more than 100 people. In the grand scheme of things these are still very small numbers. However, back in 2020 when I started blogging I would have been flabbergasted to see these numbers. And I'm sure that if I keep up this pace of blogging these numbers will continue to grow at a compounding rate.
+Including this post I was able to publish 14 blog posts in 2022 well exceeding my goal. One of my posts went viral on Hacker News and accrued more than 60k visitors to my website growing my email list to a little more than 100 people. In the grand scheme of things these are still very small numbers. However, back in 2020 when I started blogging I would have been flabbergasted to see these numbers. I'm sure that if I keep up this pace, these numbers will continue to grow at a compounding rate.
 
 {{< begin_task_list >}}
 
@@ -160,7 +160,7 @@ Including this post I was able to publish 14 blog posts in 2022 well exceeding m
 
 > Learning guitar was one of the best decisions I made in 2021 so I want to keep my foot on the gas pedal. The hardest thing here will be continuing to do focused practice; at the one year mark I have enough skill that I find it really easy to waste a whole practice session just noodling rather than working on the fundamentals.
 
-Identify the risk of noodling rather than practicing was very prescient of me. This has been a big issue for me in 2022 and is the main reason why I made so little progress on grade 3, ear training, and theory. I'm not too mad about it because I have fun noodling and music is ultimately about fun for me --- but it would still be nice to grow as a musician.
+Identifyin the risk of noodling rather than practicing was very prescient of me. This has been a big issue for me in 2022 and is the main reason why I made so little progress on grade 3, ear training, and theory. I'm not too mad about it because I have fun noodling and music is ultimately about fun for me --- but it would still be nice to grow as a musician.
 
 I did however have a lot of success in playing in front of people and jamming with other players. I spent a lot of time going out of my comfort zone doing these things this year.
 
@@ -192,19 +192,19 @@ My thoughts here haven't changed since the halfway check-in. Besides continuing 
 
 ### Career
 
-After nearly six years of university and internships I feel that I've mastered the technique of excelling in these domains. I'm now entering into a whole new world that is full-time work. I'm going to need to learn a lot of new skills and lessons to start mastering this domain.
+After nearly six years of university and internships I feel that I've learned how to excel in these domains. I'm now entering into a whole new world of full-time work. I'm going to need to learn a lot of new skills and lessons to start mastering this domain.
 
 {{< begin_task_list >}}
 
 - [ ] Find and maintain a sustainable work-life balance.
 - [ ] Actively seek 1-1's to learn and build relationships with teammates.
 - [ ] Write a blog post in January detailing my plan and goals for my new job more thoroughly.
-- [ ] Start building a professional network in Edmonton.
+- [ ] Stretch goal: Start building a professional network in Edmonton.
 - [ ] Stretch goal: Go to 2+ technical conferences.
 
 ### Finances
 
-Thanks to hard work, networking, and some luck I've found myself in a position where I'm going to be making more money than I'm used to. Given this opportunity I want to take maximum advantage of it and save as much as I can. Savings now are going to compound a lot more than savings I invest when I'm older. Not to mention the fact that I'm single and have no dependents which provides me with lots of flexibility in how I spend my money.
+Thanks to hard work, networking, and some luck I've found myself in a position where I'm going to be making more money than I'm used to. Given this opportunity I want to take maximum advantage of it and save as much as I can. Savings now are going to compound a lot more than savings I accrue when I'm older. Not to mention the fact that I'm single and have no dependents which provides me with lots of flexibility in how I spend my money.
 
 So given this sudden increase in income and desire to save a large percentage of it, I have decided I need to strap some training wheels on for the year. In other words I've decided that I need to start monthly budgeting again. My hope is the monthly budget will allow me to save significantly while also spending my money on fun things guilt free.
 
@@ -229,10 +229,10 @@ The main thrust of my physical health goals is to continue with Stronglifts 5x5.
 
 - [ ] Do yoga every day in January.
 - [ ] Play a sport (hockey) once a week.
-- [ ] Workout (yoga/weightlifting/etc.) consistently three times a week.
+- [ ] Workout (yoga/weightlifting/etc.) three times a week.
 - [ ] Actually warmup, cooldown, and stretch when I workout.
 - [ ] 5RM of: squat 255 lbs, deadlift 355 lbs, bench press 175 lbs, barbell row 155 lbs, and overhead press 90 lbs.
-- [ ] Stretch goal: Workout (yoga/weightlifting/etc.) consistently five times a week.
+- [ ] Stretch goal: Workout (yoga/weightlifting/etc.) five times a week.
 
 ### Mental Health
 
@@ -242,6 +242,7 @@ My mental health has a huge impact on my day to day life so I want to continue t
 
 - [ ] Build life coaching or therapy into my life on a regular cadence.
 - [ ] Keep using yoga as a tool to aid in my mental health.
+- [ ] Avoid having my phone be the first thing I interact with in the morning.
 
 ### Relationships
 
@@ -256,7 +257,7 @@ This is a new category I'm adding this year. It has become abundantly clear to m
 
 ### Travel and Adventure
 
-Truth be told I'm not sure the best way to set goals in this area of my life. If I'm too specific than I always miss the goals because plans change. But, if I'm too generic I don' think the goals are in any way valuable. For this year what I'll try doing is listing some adventures that I'm entirely confident I want to do. I'll also include some stretch goals of things that sound fun and I want to look into but I'm not ready to commit to.
+Truth be told I'm not sure the best way to set goals in this area of my life. If I'm too specific than I always miss the goals because plans change. But, if I'm too generic I don' think the goals are in any way valuable. For this year what I'll try doing is listing some adventures that I'm entirely confident I want to do. I'll also include some stretch goals of things that sound fun and that I want to look into, but that I'm not ready to fully commit to.
 
 {{< begin_task_list >}}
 
@@ -289,7 +290,7 @@ Nothing crazy here. I want to continue to build the habit of reading books becau
 
 I'm really pleased with how my blogging went last year and all I'm aiming to do in 2023 is keep a similar cadence. I could set a really aggressive stretch goal here but I don't think I actually desire to write that much. My perspective is that about one post a month will still give me the benefits I'm looking for. I'm also not going to set any goals about having posts go viral --- that either happens or it doesn't.
 
-The only thing I would change about my writing last year was that I wish I was more consistent. I think it is better to write one post a month rather than four posts one month and then zero the next. Consistency will not only help me build discipline in the practice of writing but it will also build my credibility and audience.
+The only thing I would change about my writing last year was that I wish it was more consistent. I think it is better to write one post a month rather than four posts one month and then zero the next. Consistency will not only help me build discipline in the practice of writing but it will also build my credibility and audience.
 
 {{< begin_task_list >}}
 
@@ -308,3 +309,7 @@ I'm so pleased that two years ago I decided to pick up guitar. Doing so filled a
 - [ ] Keep jamming with other guitarists.
 - [ ] Stretch goal: Record a cover of a song.
 - [ ] Stretch goal: Start taking piano lessons.
+
+## Closing Thoughts
+
+I'm really excited for what 2023 has to bring. I'm going through a lot of change in my life so I'm sure there will be plenty of highs and plenty of lows. Now if you'll excuse me, I need to go ring in the new year. Talk soon.
