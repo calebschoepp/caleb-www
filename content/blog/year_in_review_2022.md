@@ -160,7 +160,7 @@ Including this post I was able to publish 14 blog posts in 2022 well exceeding m
 
 > Learning guitar was one of the best decisions I made in 2021 so I want to keep my foot on the gas pedal. The hardest thing here will be continuing to do focused practice; at the one year mark I have enough skill that I find it really easy to waste a whole practice session just noodling rather than working on the fundamentals.
 
-Identifyin the risk of noodling rather than practicing was very prescient of me. This has been a big issue for me in 2022 and is the main reason why I made so little progress on grade 3, ear training, and theory. I'm not too mad about it because I have fun noodling and music is ultimately about fun for me --- but it would still be nice to grow as a musician.
+Identifying the risk of noodling rather than practicing was very prescient of me. This has been a big issue for me in 2022 and is the main reason why I made so little progress on grade 3, ear training, and theory. I'm not too mad about it because I have fun noodling and music is ultimately about fun for me --- but it would still be nice to grow as a musician.
 
 I did however have a lot of success in playing in front of people and jamming with other players. I spent a lot of time going out of my comfort zone doing these things this year.
 
