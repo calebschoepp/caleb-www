@@ -4,18 +4,16 @@ date: 2022-12-31
 draft: false
 ---
 
-**Fix date**
+It's hard to believe that 2022 is nearly over. In keeping with [the](/blog/2020/year-in-review-2020) [tradition](/blog/2021/year-in-review-2021), here is my year end review. The review is composed of three parts: my top 10's for the year; a reflection on 2022 similar to my [halfway check-in](/blog/2022/2022-halfway-check-in); and my goals and aspirations for the new year.
 
-It's hard to believe that 2022 is nearly over. In keeping with [the](/blog/2020/year-in-review-2020) [tradition](/blog/2021/year-in-review-2021) here is my year end review. The review is composed of three parts: my top 10's for the year; a reflection on 2022 similar to my [halfway check-in](/blog/2022/2022-halfway-check-in); and my goals and aspirations for the new year.
-
-I always find a review like this to be a joyous and worthwhile exercise. It's easy to forget about all the things you got to do throughout a whole year. If you like what you read here I would highly encourage you to do something similar.
+I always find a review like this to be a joyous and worthwhile exercise. It's easy to forget about all the things you did throughout the year. If you like what you read here, I would highly encourage you to do something similar.
 
 ## Top 10 Experiences
 
-1. **Graduating** --- On December 19 I wrote the last ever final of my Computer Engineering degree. Getting this degree was probably the hardest thing I've ever done. After five and half years, more than a hundred midterms and finals, and thousands of hours of studying and doing homework, I'm ready to finally graduate. Overall I'm incredibly proud of this achievement and very glad that I decided to stick it out and not go to industry early.
-2. **My sister's wedding** --- This was a very special experience because I'm very close with my sister. She was kind enough to ask me to be her man of honor which was such a privilege. It was also very exciting to welcome a new in-law to the family. And as an added bonus it was also just a very fun party.
-3. **Learning to play hockey** --- Last year I [learned to skate](/blog/skating_my_way_to_a_new_mindset) and started playing shinny. I've continued this progression in a big way. Not only have I been skating a lot but I also joined a learn to play hockey league for adults. It was so much fun that I was literally vibrating with excitement before each practice.
-4. **Summer in Seattle** --- This summer I was down in Seattle for an internship at Microsoft on the Azure Kubernetes Service team. It was an incredible three months and there is way too much to unpack here so the best I can do is share some highlights: making a lot of new friends; playing DnD for the first time; my weekend trip to Portland; winning the Microsoft Strike capture the flag; and my parents coming to visit.
+1. **Graduating** --- On December 19 I wrote the last ever final of my Computer Engineering degree. Earning this degree was probably the hardest thing I've ever done. I'm ready to finally graduate after five and half years, more than a hundred midterms and finals, and thousands of hours of studying and doing homework. Overall I'm incredibly proud of this achievement and very glad that I decided to stick it out and not go to industry early.
+2. **My sister's wedding** --- This was a very special experience because I'm very close with my sister. She was kind enough to ask me to be her man of honor which was such a privilege. It was also very exciting to welcome a new in-law to the family. And as an added bonus it was also a very fun party.
+3. **Learning to play hockey** --- Last year I [learned to skate](/blog/skating_my_way_to_a_new_mindset) and started playing shinny. I've continued this progression in a big way. Not only have I been skating a lot but I also joined a learn to play hockey league for adults. It was so much fun that I was literally vibrating with excitement before each practice or game.
+4. **Summer in Seattle** --- This summer I was down in Seattle for an internship at Microsoft on the Azure Kubernetes Service team. It was an incredible three months. There is way too much to unpack here so the best I can do is share some highlights which included: making a lot of new friends; playing DnD for the first time; a weekend trip to Portland; winning the Microsoft Strike capture the flag event; and my parents coming to visit.
 5. **Trip to California** --- I spent a week in California at [a hackathon](blog/inception_studio_weekend_reflections) and catching up with friends. This was the most impromptu trip I've ever taken and thus was memorable for the spontaneity alone.
 6. **Trip to the British Isles** --- I spent two weeks driving across Ireland and Scotland with my brother and sister-in-law. The highlight was all the epic landscapes I got to see.
 7. **Vacationing in Invermere** --- The family and I spent a week at a beautiful VRBO in Invermere. We did a lot of fun things, but my absolute favorite part was all the laughter.
@@ -277,6 +275,7 @@ Although I'm only aiming for one project I'm sure it will take me a couple tries
 {{< begin_task_list >}}
 
 - [ ] Build, publish, and write about, one meaningful project.
+- [ ] Organize a low-key weekend hackathon with my friends.
 
 ### Reading
 
