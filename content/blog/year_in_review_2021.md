@@ -6,7 +6,7 @@ draft: false
 
 As 2021 comes to a close it's time to look in the rear-view mirror and reflect on what I've done, where I've been, and what I've consumed. I'll also look forward to what I want next year to look like.
 
-## Top 10 Moments
+## Top 10 Experiences
 
 1. **Travelling to Portugal for ~2 weeks** — port tasting and the Castle of Marvão were some of the highlights.
 2. **Spending ~2 weeks with my family in Mexico** — I was lucky to be able to work remotely for Resemble AI during this time. Shout-out to Karen's for their happy hour piña coladas.
