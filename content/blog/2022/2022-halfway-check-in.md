@@ -52,7 +52,7 @@ In late May I began consistently weightlifting with the [Stronglifts 5x5](https:
 
 > I find the digital world to be both a blessing and a curse, software itself is amoral but amplifies the underlying good or bad. On one hand I've never been more connected, empowered, and informed. On the other hand I've never felt so isolated, paralyzed, and confused. Not quite sure how to get off the treadmill or if I even want to, but the following seem like some rational first steps.
 
-Total bust so far. Besides becoming [more aware](/blog/productivity-porn) of the downsides little has changed in my life. I need to spend more time researching and reflecting on how I can actually make improvements in this area of my life.
+Total bust so far. Besides becoming [more aware](/blog/productivity-porn/) of the downsides little has changed in my life. I need to spend more time researching and reflecting on how I can actually make improvements in this area of my life.
 
 {{< begin_task_list >}}
 
