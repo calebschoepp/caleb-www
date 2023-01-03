@@ -4,7 +4,7 @@ date: 2022-01-24
 draft: false
 ---
 
-This past weekend I participated in [HackED 2022](https://hacked-2022.devpost.com/), the annual hackathon put on by the U of A Computer Engineering club. My teammates Armi, Cyrus, Ryan, and I built a web app called StudyBuddy and we finished in first place winning a $1000 grand prize. I wanted to reflect on the experience like I did [last year]({{< ref "/blog/building-grokjs-at-hacked-2021.md" >}}).
+This past weekend I participated in [HackED 2022](https://hacked-2022.devpost.com/), the annual hackathon put on by the U of A Computer Engineering club. My teammates Armi, Cyrus, Ryan, and I built a web app called StudyBuddy and we finished in first place winning a $1000 grand prize. I wanted to reflect on the experience like I did [last year](/blog/2021/building-grokjs-at-hacked-2021).
 
 ## Demo
 
