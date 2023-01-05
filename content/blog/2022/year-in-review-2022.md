@@ -302,7 +302,7 @@ I'm so pleased that two years ago I decided to pick up guitar. Doing so filled a
 
 {{< begin_task_list >}}
 
-- [ ] Complete Justin Guitar Grade 3 ang finish 3 modules in Justin Guitar Grade 4.
+- [ ] Complete Justin Guitar Grade 3 and finish 3 modules in Justin Guitar Grade 4.
 - [ ] Complete Justin Guitar Ear Training and Theory up to Grade 3.
 - [ ] Learn to use a looper with [this](https://learnpracticeplay.com/loop-school-signup/) course.
 - [ ] Keep playing in front of family and friends to practice performing.
