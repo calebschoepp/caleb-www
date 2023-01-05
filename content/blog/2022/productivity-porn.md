@@ -2,6 +2,7 @@
 title: "Productivity Porn"
 date: 2022-06-28
 draft: false
+isFavorite: true
 ---
 
 I have a pornography problem, but it's not what you're thinking. In fact, if you're anything like me, you might too.
@@ -33,11 +34,10 @@ I find productivity porn to be a uniquely terrifying negative effect of social m
 
 - **It is found in all forms of media.** This is the scariest reason for me. Typically when I feel like social media is too negative for me I feel safe running away to slower, less connected, and more deliberate forms of media --- books, podcasts, blog posts, etc. These lack the virality of _social_ media platforms and mitigate the issues that arise. However, I find productivity porn is just as prevalent in traditional media as it is in social media. While perhaps it is more toned down when found in traditional media, there is still no safe haven from productivity porn.
 
-
 I've spent a lot of time thinking about how to conclude this post and I don't think I've come up with anything satisfying. The only thing that is clear to me is that it is abundantly important that I figure out how to stymie the negative effect that productivity porn is having on my life. When I look for solutions to this problem I only come up with half-baked ideas and more questions. Is this something you've encountered in your life? What have you done about it?
 
 ---
 
-*Thanks to Morgan Frisby for reviewing drafts of this.*
+_Thanks to Morgan Frisby for reviewing drafts of this._
 
 [^1]: Ironically, the thing delivering the wake-up message was productivity porn itself self-aware enough to surface the issue.

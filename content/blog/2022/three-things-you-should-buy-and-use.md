@@ -2,6 +2,7 @@
 title: "Three Things You Should Buy and Use"
 date: 2022-04-10
 draft: false
+isFavorite: true
 ---
 
 Inspired by Dynomight's list of [creative nonfiction training exercises](https://dynomight.net/training/), here is a list of three things that I think you should buy and use.
