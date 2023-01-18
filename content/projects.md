@@ -24,7 +24,7 @@ that helps users by directly annotating the source code with descriptions of the
 {{% img_row_right src="/spotify_queue_shuffler.png" alt="Spotify Queue Shuffler Logo" %}}
 Spotify has shuffle functionality, but it only works for playlists and
 albums. [qShuffle.com](https://qshuffle.com)
-allows you to shuffle the songs lined up in your queue. I wrote it in
+allows you to shuffle the songs in your up next queue. I wrote it in
 **React** and used the Spotify Web **API**. I also made it a [PWA](https://web.dev/progressive-web-apps/) so that it can be installed to users devices.{{% /img_row_right %}}
 
 {{% img_row_left src="/mixtape_manager.png" alt="MixtapeManager Logo" %}}
