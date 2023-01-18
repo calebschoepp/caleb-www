@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="text-4xl">Favorites</div>
+<h1 class="text-4xl">Favorites</h1>
 {{ range .Pages }} {{ if .Params.isFavorite }}
 <summary class="mb-1 leading-snug">
   <span class="sm:hidden text-xs text-gray-600">
@@ -16,7 +16,7 @@
   </h2>
 </summary>
 {{ end }} {{ end }}
-<div class="mt-10 text-4xl">Archive</div>
+<h1 class="mt-10 text-4xl">Archive</h1>
 {{ range .Pages }}
 <summary class="mb-1 leading-snug">
   <span class="sm:hidden text-xs text-gray-600">

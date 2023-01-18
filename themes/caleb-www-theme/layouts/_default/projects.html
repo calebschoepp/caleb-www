@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="flex justify-center mx-auto w-3/4 sm:w-full">
+    <div class="block">
+        <ul class="grid grid-cols-1 sm:grid-cols-2 gap-6 md:grid-cols-3">
+          <!-- Janky fix to remove the empty paragraph inserted my projects.md -->
+          {{ replace .Content "<p></p>" "" 1 | markdownify }}
+        </ul>
+    </div>
+</div>
+{{ end }}
