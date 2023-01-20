@@ -1,6 +1,6 @@
 ---
-title: "Asking Questions and Failure Modes"
-date: 2023-01-05
+title: "Questioning My Approach to Advice"
+date: 2023-01-20
 draft: false
 ---
 
@@ -10,32 +10,14 @@ draft: false
 
 **TODO fix filename**
 
-Advice is brittle questions are not.? Questions. Take more work but change better over time and a more contexts. Questions are more adaptable to the context
+Good advice is very difficult to give. This is because it is inherently context dependent. Advice is inextricably linked with the lived experience of the person giving the advice. No matter how well conceived or written, the value of advice is limited by its applicability to your situation.
 
-Failure modes
+Given how unlikely it is to produce advice that is helpful, what is someone like me with a blog supposed to do? I see three options: keep giving advice anyways; stop giving advice at all; or make the advice context independent.
 
-Planning
+Ignoring the problems with advice and barreling through is the easiest approach. It's not a problem if I don't acknowledge it 😉. More seriously, I think there is still some limited upside to this approach. While the advice you give is still going to be context dependent, if your audience is big enough then at least some people's context will intersect with yours enough to make the advice useful. Overall though, this approach leaves a lot of equity on the table.
 
-Advice is more brittle than questions -> How can I be more effective? -> What are your failure modes? -> Seeking perfection
+Another approach that takes the easy way out is just refraining from giving advice at all. In other words sharing your experience but refusing to extrapolate any lessons from it. This approach does solve the problem of giving advice that doesn't apply to others, but it also throws the baby out with the bath water. Drawing no lessons when I share my experience feels like a step too far.
 
----
+The final approach suggests that we should make the advice context independent. Doing this would solve the fundamental problem with most advice. One way we could do this is by making our advice more generic. In this way we increase the amount of people who it would apply to. However, making advice generic very quickly turns it into useless truisms. If that doesn't work then what will?
 
-A problem that is likely faced by anyone who writes --- and aspires to have others read their work --- is that advice is very difficult to give. Good advice is so difficult to create because advice is inherently context dependent. How often have you read of piece of advice that was well thought out and well written but useless to you because it didn't account for an element in your situation (EXAMPLE HERE).
-
-Given the difficulties of writing actually helpful advice a writer my resort to only sharing their experience. Refraining from drawing any lessons lest they not be applicable to the reader. This is certainly a trap I find myself falling into. Unfortunately, this reaction is an over reaction. While someone may enjoy reading about your experience you're hardly providing them any value at this point.
-
-How can we provide similar value to advice, but ensure that it is valuable to as many people as possible? Ironically, the answer is through asking questions. Questions are much less brittle than advice and they adapt to any context. A question asks the reader to do a small amount of work by applying the question to their unique context. In exchange the reader is able to effectively generate the advice for themselves. Give a man advice and you help him for a day. Teach a man to ask questions and you help him for a lifetime.
-
----
-
-A topic that is always on my mind is how I can be more effective at what I am doing. As I prepare to start a new full-time job soon in particular I've been focused on my efficacy at work. Through lots of reflection I've determined that one of my bigger weaknesses is a desire to do something perfectly the first time. I harbor a sense of perfection.
-
-This manifests itself in many ways, but is perhaps best demonstrated by when I'm working on building a new feature. Up front it is impossible to know how to correctly build the feature. My reaction to this is to spend a long time sitting and thinking about the right way to do it. This is the wrong reaction. A better path forward would be to iterate and experiment. Write code that I'm willing to throw away for the purpose of learning more about the problem.
-
-It's like I'm trying to find a room in a giant building. My default reaction is like flying around the building in a helicopter trying to see if I can see the room through a window. This is ridiculous. I don't even know what the room looks like. The correct thing to do would be to go in to the building and start looking for the room. In fact there is probably even signage in the building that would help me find my way.
-
-My advice to you is that you should avoid harboring a sense of perfection. Don't be afraid of getting dirty and iterating because that is the faster way to do things.
-
-But wait, that advice is quite brittle. What if speed of iteration isn't important in your role like it is in software engineering. Maybe you're a school teacher and it is more important that you take special care with everything you do because it can really affect the kids. Let me try again but this time phrase it via a question.
-
-If you desire to be effective at what you do it is important to understand where you struggle. Ask yourself the questions: what are my failure modes? A failure mode is a place where you keep tripping up and holding yourself back. If you can identify these failure modes then you can start fixing them. And if you can fix them you can become more effective.
+The answer is to pose questions instead of giving advice. Questions are much less brittle than advice and they adapt to any context. A question asks the reader to do a small amount of work by applying the question to their unique context. In exchange the reader is able to effectively generate the advice for themselves. Give a man advice and you help him for a day. Ask a man a question and you help him for a lifetime.
