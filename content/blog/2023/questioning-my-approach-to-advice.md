@@ -4,7 +4,7 @@ date: 2023-01-20
 draft: false
 ---
 
-Good advice is very difficult to give. This is because it is inherently context dependent. Advice is inextricably linked with the lived experience of the person giving the advice. No matter how well conceived or written, the value of advice is limited by its applicability to your situation.
+Good advice is very difficult to give. This is because it is inherently context dependent. Advice is inextricably linked with the lived experience of the person giving the advice. No matter how well conceived or written, the value of advice is limited by its applicability to a given situation.
 
 Given how unlikely it is to produce advice that is helpful, what is someone like me with a blog supposed to do? I see three options: keep giving advice anyways; stop giving advice at all; or make the advice context independent.
 
