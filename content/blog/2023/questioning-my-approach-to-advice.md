@@ -6,7 +6,7 @@ draft: false
 
 Good advice is very difficult to give. This is because it is inherently context dependent. Advice is inextricably linked with the lived experience of the person giving the advice. No matter how well conceived or written, the value of advice is limited by its applicability to a given situation.
 
-Given how unlikely it is to produce advice that is helpful, what is someone like me with a blog supposed to do? I see three options: keep giving advice anyways; stop giving advice at all; or make the advice context independent.
+Given how unlikely it is to produce advice that is helpful, what is someone like me with a blog supposed to do? I see three advice options and a fourth alternative: keep giving advice anyways; stop giving advice at all; or make the advice context independent; or ask questions.
 
 Ignoring the problems with advice and barreling through is the easiest approach. It's not a problem if I don't acknowledge it 😉. More seriously, I think there is still some limited upside to this approach. While the advice you give is still going to be context dependent, if your audience is big enough then at least some people's context will intersect with yours enough to make the advice useful. Overall though, this approach leaves a lot of equity on the table.
 
