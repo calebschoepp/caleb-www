@@ -4,7 +4,8 @@
   Published {{ dateFormat "January 2, 2006" .Date }}
 </p>
 <article class="text-lg text-justify">
-  {{ .Content }} {{- partial "collect_email.html" . -}}
+  {{ .Content }} {{- partial "like_button.html" . -}} {{- partial
+  "collect_email.html" . -}}
 </article>
 
 {{ end }}
