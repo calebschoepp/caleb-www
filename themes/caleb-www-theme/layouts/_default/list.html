@@ -6,7 +6,8 @@
     {{ dateFormat "January 2, 2006" .Date }}
   </span>
   <span class="hidden sm:inline text-xs text-gray-600">
-    {{ .ReadingTime }} min read
+    {{ if .Params.customReadingTime }} {{ .Params.customReadingTime }} {{ else
+    }} {{ .ReadingTime }} {{ end }} min read
   </span>
   <h2 class="text-lg">
     <a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a>
@@ -23,7 +24,8 @@
     {{ dateFormat "January 2, 2006" .Date }}
   </span>
   <span class="hidden sm:inline text-xs text-gray-600">
-    {{ .ReadingTime }} min read
+    {{ if .Params.customReadingTime }} {{ .Params.customReadingTime }} {{ else
+    }} {{ .ReadingTime }} {{ end }} min read
   </span>
   <h2 class="text-lg">
     <a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a>

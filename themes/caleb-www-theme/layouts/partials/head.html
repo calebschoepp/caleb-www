@@ -7,7 +7,18 @@
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="canonical" href="https://calebschoepp.com{{ .Permalink }}" />
+
+{{ if .Params.canonicalUrl }}
+  <link rel="canonical" href="{{ .Params.canonicalUrl }}">
+{{ else if .Params.redirectUrl }}
+  <link rel="canonical" href="{{ .Params.redirectUrl }}">
+{{ else }}
+  <link rel="canonical" href="https://calebschoepp.com{{ .Permalink }}">
+{{ end }}
+
+{{ if .Params.redirectUrl }}
+  <meta http-equiv="refresh" content="0; url={{ .Params.redirectUrl }}">
+{{ end }}
 
 {{ if .Description }}
   <meta name="description" content="{{ .Description }}" />
