@@ -1,6 +1,6 @@
 ---
 title: "WebAssembly Reading List"
-date: 2023-08-27
+date: 2023-10-27
 draft: false
 isFavorite: false
 ---

@@ -14,3 +14,7 @@ To run the website locally just run the command `npm run start`
 git checkout -b caleb/my-new-post
 hugo new blog/my-blog-post-name.md
 ```
+
+## Syndicated posts
+
+If I write a post somewhere else (like a company blog) I have two options. I can either redirect to it by setting the `redirectUrl` and `customReadingTime` params. Or I can have my own copy of it and then set the `canonicalUrl` param.
