@@ -218,7 +218,7 @@ Last year I also acquired my first acoustic guitar "Luther", a D-16e Martin. Tow
 - [x] Stretch goal: Record a cover of a song.
 - [ ] Stretch goal: Start taking piano lessons.
 
-## Looking Forward to 2023
+## Looking Forward to 2024
 
 ### Career
 
