@@ -34,7 +34,7 @@ Honorable mentions to my **Grand Prairie trip**, my **Seattle trip**, **jamming*
 9. **Marvelous Mrs. Maisel** --- A great show that regrettably starts to become a little all over the place in later seasons.
 10. **The Bear** --- I'd heard so much about this show that I had to watch it. I loved the window into restaurant culture and I had also just come back from Chicago so it was cool to recognize locations. Not so sure I loved the yelling though. I also thought the second season was a flop.
 
-Honorable mentions to **Barbenheimer**, **Napolean**, **I Think You Should Leave**, **Shane Gillis: Beautiful Dogs**, **Pete Holmes: I Am Not For Everyone**, **Rick and Morty**, **The Heights**, **The Devil Wears Prada**, and **Straight Outta Compton**. I watched so many good shows this year that I couldn't help but mention them.
+Honorable mentions to **Barbenheimer**, **Napolean**, **I Think You Should Leave**, **Shane Gillis: Beautiful Dogs**, **Pete Holmes: I Am Not For Everyone**, **Rick and Morty**, **The Heights**, **The Devil Wears Prada**, **Straight Outta Compton**, and episode 3 of **The Last of Us**. I watched so many good shows this year that I couldn't help but mention them.
 
 ## Top 10 Books
 
