@@ -357,4 +357,4 @@ My most extensive list of goals for 2024 is here in the music section. I just ha
 
 ## Closing Thoughts
 
-Reflecting on 2023 fills my heart with gratitude for the things I was able to do and the people I did it with. Mulling over my goals for 2024 has gotten me excited for the year to come. As I dive into 2024 I want to acknowledge the seasonality of life and encourage myself to tackle goals as I'm excited about them. I don't always have to be pushing each boulder up the hill. Sometimes it's okay to pick the one that feels right for that season of life. If you got to the bottom of this thanks for reading and see you in 2024.
+Reflecting on 2023 fills my heart with gratitude for the things I was able to do and the people I did it with. Mulling over my goals for 2024 has me excited for the year to come. As I dive into 2024 I want to acknowledge the seasonality of life and encourage myself to tackle goals as I'm excited about them. I don't always have to be pushing each boulder up the hill. Sometimes it's okay to pick the one that feels right for that season of life. If you got to the bottom of this thanks for reading and see you in 2024.
