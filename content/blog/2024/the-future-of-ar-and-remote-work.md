@@ -2,7 +2,7 @@
 title: "The Future of AR and Remote Work"
 date: 2024-03-10
 draft: false
-isFavorite: true
+isFavorite: false
 ---
 
 Like every other geek on earth right now the Apple Vision Pro has me excited. And though I haven't tried one yet, it has me excited about how AR[^1] could change the future of remote white collar work.
