@@ -2,7 +2,7 @@
 title: "Greatasdft Triathlon Race Report"
 date: 2024-07-07
 draft: true
-isFavorite: false
+categories: ["personal"]
 ---
 
 - Weather was cold and cloudy

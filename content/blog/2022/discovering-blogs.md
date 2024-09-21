@@ -2,6 +2,7 @@
 title: "Discovering Blogs"
 date: 2022-04-05
 draft: false
+categories: ["reflection"]
 ---
 
 One of my favorite things is when I discover a new blog.

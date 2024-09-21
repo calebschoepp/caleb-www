@@ -2,6 +2,7 @@
 title: "6 Tips for Starting a Software Engineering Internship"
 date: 2022-05-01
 draft: false
+categories: ["programming"]
 ---
 
 On Monday I'll be starting my third internship with Microsoft, and my fifth internship in total. Reflecting on my previous internships and preparing for the coming one I came up with six tips that have helped me in my internships[^1].

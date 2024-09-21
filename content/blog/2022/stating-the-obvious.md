@@ -2,6 +2,7 @@
 title: "Stating the Obvious"
 date: 2022-04-22
 draft: false
+categories: ["reflection"]
 ---
 
 A common excuse people use for not writing is that they don't have anything insightful to say. Or in other words they don't want to state the obvious. I think this is a poor excuse and that more people should write about obvious things[^1].

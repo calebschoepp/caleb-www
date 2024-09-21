@@ -2,6 +2,7 @@
 title: "Year in Review: 2020"
 date: 2020-12-25
 draft: false
+categories: ["personal"]
 ---
 
 ## Top 10 Experiences

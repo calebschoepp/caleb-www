@@ -2,6 +2,7 @@
 title: "Tackling My Overflowing Reading List"
 date: 2023-04-22
 draft: false
+categories: ["productivity"]
 ---
 
 Do you ever find yourself opening endless tabs on your phone's browser with posts you want to read, but never actually get around to reading them? Recently, I discovered a technique to help me manage my ever-growing reading list, and I thought it would be worth sharing.

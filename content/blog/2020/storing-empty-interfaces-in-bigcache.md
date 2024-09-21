@@ -2,6 +2,7 @@
 title: "Storing Empty Interfaces in BigCache"
 date: 2020-04-11T14:12:50-07:00
 draft: false
+categories: ["tutorials"]
 ---
 
 Recently at work I was tasked with adding some caching to one of our Golang services. The particular service required incoming requests to provide an API key for authentication. So on every request the service was making an extra round trip to the database to verify the API key even though it was usually the same key. Not great. Implementing the cache ended up being much harder than I thought it would be.

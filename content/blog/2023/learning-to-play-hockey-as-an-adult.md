@@ -2,6 +2,7 @@
 title: "Learning to Play Hockey as an Adult"
 date: 2023-02-28
 draft: false
+categories: ["reflection"]
 ---
 
 A little more than a year ago I started [teaching myself](/blog/2022/skating-my-way-to-a-new-mindset) to skate at the outdoor rink near my house. Five months ago I enrolled in a beginner hockey program for adults called [Discover Hockey](https://www.discoverhockey.com/). Two months ago I started playing on my first adult hockey team. Going from not knowing how to skate to playing on a hockey team once a week has been quite the transition. I wanted to document what learning to play hockey as an adult has been like.

@@ -1,0 +1,4 @@
+{{ define "main" }}
+<div class="text-4xl">Archive</div>
+{{ with .Site.GetPage "section" "blog" }} {{ range .Pages }} {{ partial
+"list_item" . }} {{ end }} {{ end }} {{ end }}

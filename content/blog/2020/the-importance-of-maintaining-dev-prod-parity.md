@@ -2,6 +2,7 @@
 title: "The Importance of Maintaining Dev/Prod Parity"
 date: 2020-05-12T22:17:40-07:00
 draft: false
+categories: ["programming"]
 ---
 
 One of my side projects recently died on the vine and it didn’t have to.

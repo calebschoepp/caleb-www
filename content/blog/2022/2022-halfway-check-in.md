@@ -2,6 +2,7 @@
 title: "2022 Halfway Check-In"
 date: 2022-08-03
 draft: false
+categories: ["personal"]
 ---
 
 My [2021 year in review](/blog/2021/year-in-review-2021/) outlines my goals for 2022. Now that we are a bit more than halfway through the year I thought it would be a good idea to stop and reflect on these goals[^1]. Time to see where I've excelled and where I've slacked and determine what is still worthy of pursuing and what I should [give up on](/blog/2022/when-should-i-give-up/).

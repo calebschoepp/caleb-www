@@ -1,0 +1,11 @@
+<summary class="mb-2 sm:mb-4 leading-snug">
+  <span class="sm:hidden text-xs text-gray-600">
+    {{ dateFormat "January 2, 2006" .Date }}
+  </span>
+  <h2 class="text-lg">
+    <a class="hover:underline" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="hidden sm:inline text-base text-gray-600 float-right"
+      >{{ dateFormat "January 2, 2006" .Date }}</span
+    >
+  </h2>
+</summary>

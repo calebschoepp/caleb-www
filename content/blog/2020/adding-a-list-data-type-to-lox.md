@@ -2,7 +2,7 @@
 title: "Adding A List Data Type To Lox"
 date: 2020-08-14T15:38:00-06:00
 draft: false
-isFavorite: true
+categories: ["favorite", "programming"]
 ---
 
 Lists are an important data type for any kind of serious programming. The following is a detailed walkthrough of how to add lists to the interpreted programming language Lox. We'll go over the entire design including things like bytecode representations and syntax grammars. You can also expect a lot of code snippets[^1] showing the actual implementation details.

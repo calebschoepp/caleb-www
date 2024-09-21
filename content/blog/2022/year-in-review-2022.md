@@ -2,6 +2,7 @@
 title: "Year in Review: 2022"
 date: 2022-12-31
 draft: false
+categories: ["personal"]
 ---
 
 It's hard to believe that 2022 is nearly over. In keeping with [the](/blog/2020/year-in-review-2020/) [tradition](/blog/2021/year-in-review-2021/), here is my year end review. The review is composed of three parts: my top 10's for the year; a reflection on 2022 similar to my [halfway check-in](/blog/2022/2022-halfway-check-in/); and my goals and aspirations for the new year.

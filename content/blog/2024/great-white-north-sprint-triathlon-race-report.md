@@ -2,7 +2,7 @@
 title: "Great White North Sprint Triathlon Race Report"
 date: 2024-07-15
 draft: false
-isFavorite: false
+categories: ["personal"]
 ---
 
 On March 25, 2024 I signed up to compete in the [Great White North Sprint Triathlon](https://platinumracing.ca/great-white-north/). This decision was preceded by months of me mulling over competing in my first ever triathlon. Race day (July 7) has come and gone and I'm so glad I decided to participate. Here is my race report.
