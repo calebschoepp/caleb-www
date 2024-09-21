@@ -2,6 +2,7 @@
 title: "How to Setup Oh my Posh On Ubuntu"
 date: 2021-05-18
 draft: false
+categories: ["tutorials"]
 ---
 
 While onboarding at my latest internship I noticed that my manager had a very aesthetically pleasing shell. Upon further inspection I discovered he was using something called [Oh my Posh](https://ohmyposh.dev/). It markets itself as, "A prompt theme engine for any shell." It's more than pretty though — it will also show you Git status, error codes, Python versions, and can be configured to do [more](https://ohmyposh.dev/docs/config-segment).

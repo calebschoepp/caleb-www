@@ -2,6 +2,7 @@
 title: "Name Your Stuff"
 date: 2024-01-19
 draft: false
+categories: ["reflection"]
 ---
 
 I like to name my stuff. I picked up the habit a few years ago when I purchased my first bike during the pandemic — a beautiful rose colored Kona Rove gravel bike. I named her _Rose_. Some might find a name like that too on the nose, but I don't mind an obvious name. I think there is beauty in its simplicity. That's why when I bought my first car — a lovingly used ruby red Ford Escape — I unsurprisingly named her _Ruby_.

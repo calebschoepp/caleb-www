@@ -2,6 +2,7 @@
 title: "Nanosleep Error: Storage Size Isn't Known"
 date: 2020-10-11T00:28:03-06:00
 draft: false
+categories: ["tutorials"]
 ---
 
 Compiling a C program that used `nanosleep` turned out to be quite the thorn in my side. I'm documenting this here for anyone else facing the same issues.

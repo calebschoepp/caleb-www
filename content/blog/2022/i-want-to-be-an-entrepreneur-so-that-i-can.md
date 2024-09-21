@@ -2,6 +2,7 @@
 title: "I Want to Be an Entrepreneur so That I Can..."
 date: 2022-02-12
 draft: false
+categories: ["personal"]
 ---
 
 ### Be Involved in the Entire Process

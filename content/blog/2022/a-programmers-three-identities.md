@@ -2,6 +2,7 @@
 title: "A Programmer's Three Identities"
 date: 2022-08-25
 draft: false
+categories: ["programming"]
 ---
 
 One of the reasons I enjoy programming so much is that it asks you to to simultaneously take on three unique identities. Each identity requires you to think differently and the identities may be called upon to different levels depending on the programming task. And it is absolutely possible to program with only one or two of these identities. But, to be a truly great programmer you must be able to assume all three identities.

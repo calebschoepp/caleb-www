@@ -2,6 +2,7 @@
 title: "Inception Studio Weekend Reflections"
 date: 2022-12-06
 draft: false
+categories: ["startups"]
 ---
 
 I recently spent a weekend in California at a hackathon put on by Inception Studio. For three days I hacked on large language model (LLM) ideas with some really smart people. I learned so much from the experience that I wanted to write down some of my biggest learnings.

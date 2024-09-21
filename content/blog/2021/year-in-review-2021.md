@@ -2,6 +2,7 @@
 title: "Year in Review: 2021"
 date: 2021-12-30
 draft: false
+categories: ["personal"]
 ---
 
 As 2021 comes to a close it's time to look in the rear-view mirror and reflect on what I've done, where I've been, and what I've consumed. I'll also look forward to what I want next year to look like.

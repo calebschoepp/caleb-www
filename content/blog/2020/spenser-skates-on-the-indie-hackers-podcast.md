@@ -2,6 +2,7 @@
 title: "Spenser Skates on the Indie Hackers Podcast"
 date: 2020-06-25T20:40:02-06:00
 draft: false
+categories: ["startups"]
 ---
 
 I just listened to a great Indie Hackers podcast. In it, Courtland Allen interviews Spenser Skates from [Amplitude](https://amplitude.com). Some of the things they talked about are too good to forget; so instead of relying on my leaky brain to remember them, I'm going to pen some of them down here. All of the following quotes are from Spenser Skates. Seriously though, if you've got an hour (or 45 minutes if you're like me and listen on 1.5x speed) you should go listen to the [podcast](https://www.indiehackers.com/podcast/040-spenser-skates-of-amplitude) yourself.

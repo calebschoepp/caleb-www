@@ -2,6 +2,7 @@
 title: "When Should I Give Up?"
 date: 2022-05-30
 draft: false
+categories: ["reflection"]
 ---
 
 When should I give up on something and when should I see it through?

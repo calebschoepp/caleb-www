@@ -2,6 +2,7 @@
 title: "Year in Review: 2023"
 date: 2023-12-31
 draft: false
+categories: ["personal"]
 ---
 
 The year of 2023 was the first year in my life where I wasn't a student. As can be expected with such a transition I had lots of fun and encountered some struggles along the way too. Without further adieu here are my top 10's of the year.

@@ -2,7 +2,7 @@
 title: "Four Remote Communication Anti-patterns to Avoid"
 date: 2024-06-18
 draft: false
-isFavorite: true
+categories: ["favorite", "productivity"]
 ---
 
 Communication is hard. It's even harder when you're working remotely. Not only do you lose out on the benefits of talking to someone face-to-face, but you also have to deal with the challenges of asynchronous communication.

@@ -2,6 +2,7 @@
 title: "Skating My Way to a New Mindset"
 date: 2022-03-25
 draft: false
+categories: ["reflection"]
 ---
 
 One of the things you quickly learn as an employee at Microsoft is that the company is really big on the idea of a "growth mindset". This platitude is everywhere — employee training, corporate messaging, employee reviews.

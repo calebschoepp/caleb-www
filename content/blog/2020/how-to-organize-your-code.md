@@ -2,6 +2,7 @@
 title: "How to Organize Your Code"
 date: 2020-05-31T16:52:17-06:00
 draft: false
+categories: ["programming"]
 ---
 
 When I first started programming, I struggled a lot with how I should organize all my code. I needed an orderly way to keep track of the tutorials, code snippets, and side-projects I was rapidly accumulating. It's definitely a tough problem.

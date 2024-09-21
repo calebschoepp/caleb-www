@@ -2,6 +2,7 @@
 title: "Chrome Shortcuts I Use Everyday"
 date: 2022-05-17
 draft: false
+categories: ["productivity"]
 ---
 
 My favorite web browser is Google Chrome. I want to share with you some of the shortcuts that I use everyday. It's too dramatic to say that I couldn't live without them, but, it is accurate to say that they make my life **way** better.

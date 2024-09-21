@@ -2,6 +2,7 @@
 title: "Questioning My Approach to Advice"
 date: 2023-01-21
 draft: false
+categories: ["reflection"]
 ---
 
 Good advice is very difficult to give. This is because it is inherently context dependent. Advice is inextricably linked with the lived experience of the person giving the advice. No matter how well conceived or written, the value of advice is limited by its applicability to a given situation.

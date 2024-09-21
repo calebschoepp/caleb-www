@@ -2,7 +2,7 @@
 title: "WebAssembly Reading List"
 date: 2023-10-27
 draft: false
-isFavorite: false
+categories: []
 ---
 
 I'm giving a talk titled "What Actually Is WebAssembly" at Cloud Native Rejekts 2023. As part of my talk I want to help people further explore the world of WebAssembly. This is a list of blog posts, documentation, and videos that I think might be interesting to someone who is learning about WebAssembly. I'll do my best to keep this up to date. Without further ado here is my WebAssembly reading list.

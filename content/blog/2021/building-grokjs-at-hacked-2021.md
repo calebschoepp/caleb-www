@@ -2,6 +2,7 @@
 title: "Building GrokJS at HackED 2021"
 date: 2021-01-24
 draft: false
+categories: ["personal"]
 ---
 
 This past weekend I participated in [HackED 2021](https://hacked-2021.devpost.com/), the annual hackathon put on by the U of A Computer Engineering Club. I wanted to take some time to reflect on the experience.

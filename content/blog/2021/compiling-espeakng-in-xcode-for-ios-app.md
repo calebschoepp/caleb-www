@@ -2,6 +2,7 @@
 title: "Compiling espeak-ng in Xcode for iOS app"
 date: 2021-11-12
 draft: false
+categories: ["tutorials"]
 ---
 
 Recently at work I've been busy getting neural net text-to-speech to run offline on iOS. One of the steps for this text-to-speech pipeline is turning text into phonemes. At Resemble AI we depend on a library called eSpeak to phonemize the text. The library can be found on Github at [espeak-ng](https://github.com/espeak-ng/espeak-ng). It turned out to be quite an involved process getting eSpeak to compile for an iOS app in Xcode so I wanted to share some tips on how I got it to work.
