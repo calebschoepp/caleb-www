@@ -37,11 +37,11 @@ This is a [well documented](https://nohello.net/en/) anti-pattern. The idea is t
 
 ✅ "Hey, did you get the tests passing on frobulator?"
 
-## Sending Curt Messages
+## Sending Terse Messages
 
 When you're talking to someone face-to-face it's often best to make your point simply and clarify afterwards with any necessary context. This is because in-person you can immediately tell if someone is confused and quickly clarify. In an asynchronous remote environment, however, you can't easily tell when someone is confused and the unavoidable time delay of asynchronous communication makes it slow to clarify.
 
-Sending a curt message is just asking to be misunderstood. Similar to saying hi first it adds more unnecessary cycles to a conversation.
+Sending a terse message is just asking to be misunderstood. Similar to saying hi first it adds more unnecessary cycles to a conversation.
 
 Instead, prefer to send messages that are clear and carry the necessary context up front. It feels like a lot of work typing it all out, but in the end it saves everybody time.
 
