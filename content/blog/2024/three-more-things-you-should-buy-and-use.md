@@ -1,6 +1,6 @@
 ---
 title: "Three More Things You Should Buy and Use"
-date: 2024-10-30
+date: 2024-11-02
 draft: false
 isFavorite: false
 categories: ["reflection"]
