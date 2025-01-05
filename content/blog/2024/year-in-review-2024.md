@@ -65,7 +65,7 @@ Honorable mentions to **The Problem of Jesus by Mark Clark**, **A Good Girl's Gu
 9. **First of October** --- This once-a-year band is also another big inspiration for the music I write.
 10. **Wilson by Ashe** --- Ashe released a banger of an album this year. "Please Don't Fall in Love With Me" is my favorite song on the album.
 
-## Reflecting on 2023
+## Reflecting on 2024
 
 ### Career
 
