@@ -258,7 +258,7 @@ Speaking of writing songs, it was a busy year. I don't have an exact count, but 
 - [ ] Stretch goal: Organize and perform a small concert at a senior center.
 - [ ] Stretch goal: Learn to use a looper with [this](https://learnpracticeplay.com/loop-school-signup/) course.
 
-## Looking Forward to 2024
+## Looking Forward to 2025
 
 ### Career
 
