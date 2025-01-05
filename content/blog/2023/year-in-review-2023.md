@@ -300,7 +300,7 @@ For 2024 I'm going to list a bunch of things that I potentially could do, but go
 
 {{< begin_task_list >}}
 
-- [ ] Stretch goal: Family canoeing trip in Bowron Lake Provincial Park..
+- [ ] Stretch goal: Family canoeing trip in Bowron Lake Provincial Park.
 - [ ] Stretch goal: Go to New York.
 - [ ] Stretch goal: Take dance lessons.
 
