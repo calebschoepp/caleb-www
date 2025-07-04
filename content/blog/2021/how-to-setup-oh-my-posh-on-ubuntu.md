@@ -34,10 +34,10 @@ rm ~/.poshthemes/themes.zip
 
 ## Change your prompt
 
-This is also pretty straightforward in the [docs](https://ohmyposh.dev/docs/linux#replace-your-existing-prompt). Add the following to you `~/.bashrc` and then source it. Replace `{theme}` below with your preferred theme. I like the Paradox theme.
+This is also pretty straightforward in the [docs](https://ohmyposh.dev/docs/linux#replace-your-existing-prompt). Add the following to your `~/.bashrc` and then source it. Replace `{theme}` below with your preferred theme. I like the Paradox theme.
 
 ```bash
-eval "$(oh-my-posh --init --shell bash --config ~/.{theme}.omp.json)"
+eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/{theme}.omp.json)"
 ```
 
 ## Setup the fonts
