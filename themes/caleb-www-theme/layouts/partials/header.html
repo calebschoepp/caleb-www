@@ -1,6 +1,6 @@
 <header class="max-w-screen-md mx-auto text-center">
   {{ if or (eq .RelPermalink "/") (eq .RelPermalink "/about/") (eq .RelPermalink
-  "/projects/") (eq .RelPermalink "/blog/")}}
+  "/projects/") (eq .RelPermalink "/blog/") (eq .RelPermalink "/talks/") }}
   <h1>
     <a class="text-4xl sm:text-6xl hover:text-gray-600" href="/"
       >Caleb Schoepp</a
@@ -29,10 +29,10 @@
       <span class="mr-2 ml-2">&middot;</span>
       <a
         class="hover:underline"
-        href="/projects/"
-        title="Projects - {{ .Site.Title }}"
+        href="/talks/"
+        title="Talks - {{ .Site.Title }}"
         type="text/html"
-        >PROJECTS</a
+        >TALKS</a
       >
       <span class="hidden sm:inline mr-2 ml-2">&middot;</span>
       <br class="sm:hidden" />

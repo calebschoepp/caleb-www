@@ -34,7 +34,7 @@
 {{ if hugo.IsServer }}
   {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/dev/postcss.config.js") }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" />
-{{ else }} 
+{{ else }}
   {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/postcss.config.js") | minify | fingerprint }}
   <link
     rel="stylesheet"
