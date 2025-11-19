@@ -103,7 +103,7 @@ Open Policy Agent takes a similar place to OpenFGA in the spectrum of implementa
 
 ### SpiceDB
 
-SpiceDB is our final stop and is the most faithful open source Zanzibar re-implementation. Similar to OpenFGA you have the dual-write problem. SpiceDB offers two improvements over OpenFGA: First, it protects against the [new enemy problem](https://authzed.com/docs/spicedb/concepts/zanzibar#new-enemy-problem) with [ZedTokens](https://authzed.com/docs/spicedb/concepts/consistency#zedtokens) (zookies). Second, it supports multiple region deployments when backed by something like CockroachDB.
+SpiceDB is our final stop and is the most faithful open source Zanzibar re-implementation[^3]. Similar to OpenFGA you have the dual-write problem. SpiceDB offers two improvements over OpenFGA: First, it protects against the [new enemy problem](https://authzed.com/docs/spicedb/concepts/zanzibar#new-enemy-problem) with [ZedTokens](https://authzed.com/docs/spicedb/concepts/consistency#zedtokens) (zookies). Second, it supports multiple region deployments when backed by something like CockroachDB.
 
 **Authorization models supported:** Everything.
 
@@ -115,3 +115,4 @@ SpiceDB is our final stop and is the most faithful open source Zanzibar re-imple
 
 [^1]: ReBAC is capable of modelling most other authorization models.
 [^2]: I'll be describing the spectrum of implementations with descriptions of specific projects. These projects are illustrative of a part of the spectrum, but are not the only project that exists on that part of the spectrum. I chose these projects through a mix of popularity, familiarity, and uniqueness.
+[^3]: There are a number of Zanzibar-a-likes out there https://authzed.com/blog/zanzibar-implementations.
