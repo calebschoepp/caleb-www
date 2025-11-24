@@ -34,4 +34,5 @@ https://talks.jvt.me/
 https://jvns.ca/talks
 https://brunty.me/talks/
 https://jamon.dev/talks
+https://lucumr.pocoo.org/talks/
 -->
