@@ -1,6 +1,6 @@
 ---
 title: "Year in Review: 2025"
-date: 2025-12-29
+date: 2025-12-31
 draft: false
 categories: ["personal"]
 ---
@@ -10,8 +10,8 @@ Here is the 2025 edition of my year-in-review post. This means I've been doing t
 ## Top 10 Experiences
 
 1. **RIZN** — Serving as a RIZN leader has been such a blessing in my life. I gained a new community, made amazing memories, and had an impact on the youth. Highlights include RIZN Camp, winning Water War, World's Best Saturday, slip n' slide kickball, and Fear Factor.
-2. **Trip to France and Italy** — I explored Milan, Turin, Nice, Villefranche-sur Mer, Monaco, and Paris. One of my co-workers joined me for part of the trip which I really enjoyed — double the pastries! This was during the peak weeks leading up to my marathon so I mostly ran and ate good food.
-3. **Marathon in Victoria** — Finishing my first marathon was the hardest thing I've ever done. Finishing the race was a deeply emotional experience. I laughed, I cried, I grimaced and I rejoiced.
+2. **Marathon in Victoria** — Finishing my first marathon was the hardest thing I've ever done. Finishing the race was a deeply emotional experience. I laughed, I cried, I grimaced and I rejoiced.
+3. **Trip to France and Italy** — I explored Milan, Turin, Nice, Villefranche-sur Mer, Monaco, and Paris. One of my co-workers joined me for part of the trip which I really enjoyed — double the pastries! This was during the peak weeks leading up to my marathon so I mostly ran and ate good food.
 4. **Trip to Barcelona and London** — I liked Barcelona so much more the second time around.
 5. **Triathlons** — A big focus of mine this year was training for triathlons. I loved pushing myself, training with friends and family, and competing.
 6. **Cancun offsite** — I love Fermyon offsites and a few of us from the team went scuba diving together.
@@ -117,11 +117,40 @@ I read 15 books of the Bible of the year which I'm quite happy with. On average 
 
 TODO
 
+$81,600 saved
+$22,728 donated
+$192,536 earned (net plus tax refund plus options)
+$283,483 (gross plus tax refund plus options)
+
+17592+43891+19920 (tax return and options)
+
+28.8% gross income saved
+42.4% net income saved
+
+8.0% gross income donated
+11.8% net income donated
+
+cash: $28,800
+equity: $123,535
+crypto: $8,106
+real estate: $25000
+total: $185,441
+
+9719 cashflowing
+
+ALl in on wealthsimple
+
+I still love YNAB. It gets more fun every year as I have more and more spending and net worth history. Since I started using the Wealthsimple credit card I get mobile notifications for purchases which has been really helpful for keeping on top of entering transactions into YNAB. Speaking of Wealthsimple, I went all in on using it for my saving, checking, credit, and investing needs. I've been loving the consolidated solution and Wealthsimple is net better than traditional banks on every single dimension in my experience. The only double edged sword is the amazing visualization around your investments. On the one hand you have pretty graphs and on the other hand it is way too tempting to stare at your portfolio.
+
+I've consolidated my investments to a simple strategy of holding Vanguard all in one asset allocation ETFs. Influenced by my obsession with Rational Reminder (specifically their presentation of Scott Cederburg's work) I've opted for a 100% stock allocation. This most closely matches my risk tolerance — high tolerance for volatility and low tolerance for not meeting my goals long term. I'd rather water down my returns with healthy reserves of cash rather than bonds. I will need to remain psychologically vigilant to not kneecap myself when I encounter my first proper downturn.
+
+Throughout the year, I saved 28.8% of my gross income (42.4% net income) and donated 8.0% of my gross income (11.8% net income). My current asset allocation is as follows: 66.6% equities, 0% bonds, 4.4% crypto, 13.5% real estate, and 15.5% cash[^1].
+
 {{< begin_task_list >}}
 
 - [x] Use a budgeting tool like [YNAB](https://ynab.com) all year.
 - [x] Save 25% of my gross income.
-- [x] Donate 10% of my gross income.
+- [ ] Donate 10% of my gross income.
 - [x] Stretch goal: Explore the opportunity of building a laneway suite in my backyard.
 - [ ] Stretch goal: Have a down payment to purchase a rental property in 2026.
 
@@ -354,3 +383,5 @@ TODO
 TODO
 
 TODO: Add bucket list items to sections
+
+[^1]: This doesn’t represent my target allocation (which is quite different); it represents my actual allocation after any portfolio drift occurs. It’s difficult to accurately assess your current equity in a property, so I aimed conservatively 🤷. Cash represents my emergency fund and anything I’m holding liquid to later move into another asset class — it does not include money assigned to my regular budget.
