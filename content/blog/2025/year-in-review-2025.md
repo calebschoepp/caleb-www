@@ -115,36 +115,13 @@ I read 15 books of the Bible of the year which I'm quite happy with. On average 
 
 > I'm very blessed that most of my financial goals feel like they're just on auto-pilot. The most pressing concern is to continue to fine-tune how I'm deploying my capital. That may or may not look like buying more real estate.
 
-TODO
-
-$81,600 saved
-$22,728 donated
-$192,536 earned (net plus tax refund plus options)
-$283,483 (gross plus tax refund plus options)
-
-17592+43891+19920 (tax return and options)
-
-28.8% gross income saved
-42.4% net income saved
-
-8.0% gross income donated
-11.8% net income donated
-
-cash: $28,800
-equity: $123,535
-crypto: $8,106
-real estate: $25000
-total: $185,441
-
-9719 cashflowing
-
-ALl in on wealthsimple
-
 I still love YNAB. It gets more fun every year as I have more and more spending and net worth history. Since I started using the Wealthsimple credit card I get mobile notifications for purchases which has been really helpful for keeping on top of entering transactions into YNAB. Speaking of Wealthsimple, I went all in on using it for my saving, checking, credit, and investing needs. I've been loving the consolidated solution and Wealthsimple is net better than traditional banks on every single dimension in my experience. The only double edged sword is the amazing visualization around your investments. On the one hand you have pretty graphs and on the other hand it is way too tempting to stare at your portfolio.
 
 I've consolidated my investments to a simple strategy of holding Vanguard all in one asset allocation ETFs. Influenced by my obsession with Rational Reminder (specifically their presentation of Scott Cederburg's work) I've opted for a 100% stock allocation. This most closely matches my risk tolerance — high tolerance for volatility and low tolerance for not meeting my goals long term. I'd rather water down my returns with healthy reserves of cash rather than bonds. I will need to remain psychologically vigilant to not kneecap myself when I encounter my first proper downturn.
 
 Throughout the year, I saved 28.8% of my gross income (42.4% net income) and donated 8.0% of my gross income (11.8% net income). My current asset allocation is as follows: 66.6% equities, 0% bonds, 4.4% crypto, 13.5% real estate, and 15.5% cash[^1].
+
+My rental property (home) is just starting to break even on operating cashflow and is slightly negative in terms of free cashflow. This is due to me putting down so little on the home. Throughout the year I've come to the conclusion that I'm content with investing in equities and don't need to rush into more real estate yet. I like where I live; real estate is more work and more stress than buying an ETF; I'm not convinced I need the leverage; and I'm not convinced real estate returns will be significantly better in the long term. This isn't to say I don't want to own more real estate — just that I'm in much less of a rush to do so.
 
 {{< begin_task_list >}}
 
@@ -158,9 +135,13 @@ Throughout the year, I saved 28.8% of my gross income (42.4% net income) and don
 
 > Continuing the theme of last year, I want to focus more on mastering piano rather than guitar. I've laid out no specific theory goals, but that is because I'm naturally learning the theory as I progress on piano.
 
-TODO
+I made lots of progress on piano this year. I wrote my RCM level 1 exam in January and I'll be writing my RCM level 3 exam in a few weeks. This rapid progress in piano stemmed directly from my daily commitment to practice. The tradeoff is that I felt the slight atrophy of my guitar skills. I still noodle a lot on my guitar, but I didn't practice at all with it this year — it showed.
 
-Jam sessions, bethel worship, celebration worship, drums, RCM level 3, song ideas on phone
+Jam sessions with friends continued to play a central role in my musical life and our crew is growing! I even had a few opportunities to start playing the drums and I'm not half bad.
+
+Same as last year I played on the Bethel worship team a few times. I even started joining the Celebration worship team which I was proud because they require total memorization. However, I had to back away from this commitment due to a lack of time.
+
+Melodies, chord progressions, lyrics, and ideas for songs continue to pour out of me — the 64 voice notes on my phone from the year are a testament to this. However, I had little time or energy this year for any mixing, mastering, or producing.
 
 {{< begin_task_list >}}
 
@@ -170,7 +151,7 @@ Jam sessions, bethel worship, celebration worship, drums, RCM level 3, song idea
 - [x] Organize jam sessions with friends.
 - [ ] Release three mixed and mastered songs on SoundCloud.
 - [ ] Master the A shape barre chord on guitar.
-- [ ] Stretch goal: Join the worship team at Celebration.
+- [x] Stretch goal: Join the worship team at Celebration.
 - [ ] Stretch goal: Complete Justin Guitar Grade 3.
 - [ ] Stretch goal: Organize and perform a small concert at a senior center over Christmas.
 - [ ] Stretch goal: Learn to use a looper with [this](https://learnpracticeplay.com/loop-school-signup/) course.
@@ -181,15 +162,13 @@ Jam sessions, bethel worship, celebration worship, drums, RCM level 3, song idea
 > <br><br>
 > The other big thrust I want to make is to clean up my diet. I already eat fairly healthy, but I have very little discipline around my diet. I want to improve the following things: First, focus on my calorie deficit/excess and be able to consciously control it. Second, make it a habit of eating enough protein. Third, make the hard decisions at the grocery store — if I don't bring junk home, I only have to avoid it once.
 
-TODO
+The biggest difference in 2025 was my renewed commitment to physical fitness. I think I'm in the best shape of my life right now and it is only improving. I started the year off by hiring a triathlon coach. This was instrumental in multiple ways: it held me accountable; reduced the logistical overhead of training plans; help me set realistic expectations; and let me glean from his decades of racing experience. I went really hard this year and was training 6-7 days a week all year. Some days were doubles and I often had a hockey game each week too. This was exhausting but the gains were tangible.
 
-- Beer mile
-- Pickeball
-- Marthaon
-- 8km
-- 3 Triathlons
-- Hockey
-- Indoor outdoor swim camps
+Throughout the year I competed in lots of races. Two sprint triathlons, one olympic triathlon, an 8km run, a marathon, and a beer mile with friends. I also participated in two triathlon focused swim camps where I saw big gains. I'm happy to say that I've completed all individual parts of an Ironman — now I just need to do them together. You can read more about all my training and races [here](/blog/2025/2025-race-season).
+
+Outside of endurance racing I also kept up with hockey this year playing in a higher division. It took awhile but I feel I'm finally getting my footing at the higher level. For example I'm playing more relaxed with the puck and not just coughing it up in a state of panic. I also played some pickleball this year which is the first racket sport I've really enjoyed.
+
+My diet didn't significantly change this year. If anything I'm eating way more due to my training volume. Overall I think what I eat is healthy enough that I don't think it will be a priority next year.
 
 {{< begin_task_list >}}
 
@@ -217,20 +196,20 @@ Barely managed to get this one done.
 
 > These are pretty similar goals to last year with the caveat that I'm setting goals that are easier to objectively mark. I hope this will also make them easier to build into my life schedule.
 
-TODO
+I'm really happy with how this year went in terms of relationships with my friends and family. I feel that I put a healthy emphasis on maintaining and growing these relationships. I'm also pleased that my circle of friendships grew a lot this year with the community I made through RIZN. A hope of mine this year was to meet someone, but that will come with time.
 
 {{< begin_task_list >}}
 
-- [ ] Prioritize and maintain relationships with my family and close friends.
-- [ ] Schedule lunches with friends and family in town once a month.
+- [x] Prioritize and maintain relationships with my family and close friends.
+- [x] Schedule lunches with friends and family in town once a month.
 - [ ] Hop on a call with a friend abroad once a month.
-- [ ] Host four dinner parties.
+- [x] Host four dinner parties.
 
 ### Travel and Adventure
 
 > Once again, I'm just listing a bunch of stretch goals as inspiration. My travel usually ends up being spontaneous or based on where I travel for work anyway.
 
-TODO
+While I technically met none of my goals here I still had a very adventurous year by any standard. Just look at my top 10 experiences!
 
 {{< begin_task_list >}}
 
@@ -244,9 +223,7 @@ TODO
 
 > I'm setting a less ambitious writing goal this year because I'm finding it to be less of a priority in my life. I don't feel the need to write just for the sake of writing. I do, however, want to keep publishing thoughtful pieces periodically.
 
-TODO
-
-Em's mems...
+Writing for my blog fell through the cracks as I focused on executing on my daily career, musical, relational, and physical goals. I did finish editing and publish my granny's memoirs though, which I'm immensely proud of.
 
 {{< begin_task_list >}}
 
@@ -265,6 +242,7 @@ TODO
 - Stretch goal: Give another conference talk. Stretch goal?
 - Stretch goal: Build, publish, and write about one meaningful personal project that contributes to my career trajectory.
 - Network hard inside Akamai
+- https://staysaasy.com/management/2025/12/21/ic-advice.html monthly reports to manager
 
 {{< begin_task_list >}}
 
@@ -326,6 +304,12 @@ TODO
 
 TODO
 
+- RCM 4
+- Piano and recitals
+- Justin guitar module 3
+- Stretch: Justin 4
+- Practice piano daily
+
 {{< begin_task_list >}}
 
 - [ ] TODO
@@ -336,9 +320,11 @@ TODO
 
 - Sinister 7
 - Hypothermic half
-- Pull ups
+- Stretch: Pull ups
 - New Zealand half ironman
 - Full ironman
+- Minimum one lifting session a week for rest of my life
+- Stretch: Squat 1.25x weight, bench 1x weight, deadlift 1.5x weight https://jeffnippard.com/blogs/news/how-strong-should-you-be-noob-to-freak-1
 
 {{< begin_task_list >}}
 
@@ -357,6 +343,8 @@ TODO
 TODO
 
 - Meet someone
+- DINNER PARTIES
+- Block party
 
 {{< begin_task_list >}}
 
@@ -365,6 +353,8 @@ TODO
 ### Travel and Adventure
 
 TODO
+
+Go skiing in mountains
 
 {{< begin_task_list >}}
 
