@@ -21,3 +21,5 @@ Traditionally I have written individual reports for each race that I've done. Th
 - Very busy and time consuming but holy smokes do I love it
 - Diet not necessarily bad but not massively changed. Eat so much with my training
 - Racing and training with brothers
+
+adam telling me to yolo based on anthem and he was right

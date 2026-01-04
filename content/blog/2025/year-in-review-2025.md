@@ -63,7 +63,7 @@ Apparently I like racing movies and war movies. Who knew? Honorable mentions to 
 9. **Acquired podcast** — Acquired is a like fine wine that keeps getting better every year.
 10. **Thermapen One** — It's expensive, but it is the best instant read thermometer out there.
 
-Honorable mentions to **The Money Scope podcast**, **The Crux by Djo**, **Lord of the Flies & Birds & Bees by TALK**, **[Sean Goedecke's blog](https://www.seangoedecke.com/)**, and **Hoka Clifton 9s**.
+Honorable mentions to **The Money Scope podcast**, **The Crux by Djo**, **Lord of the Flies & Birds & Bees by TALK**, **Sean Goedecke's blog**, and **Hoka Clifton 9s**.
 
 ## Reflecting on 2025
 
@@ -119,7 +119,7 @@ I still love YNAB. It gets more fun every year as I have more and more spending 
 
 I've consolidated my investments to a simple strategy of holding Vanguard all in one asset allocation ETFs. Influenced by my obsession with Rational Reminder (specifically their presentation of Scott Cederburg's work) I've opted for a 100% stock allocation. This most closely matches my risk tolerance — high tolerance for volatility and low tolerance for not meeting my goals long term. I'd rather water down my returns with healthy reserves of cash rather than bonds. I will need to remain psychologically vigilant to not kneecap myself when I encounter my first proper downturn.
 
-Throughout the year, I saved 28.8% of my gross income (42.4% net income) and donated 8.0% of my gross income (11.8% net income). My current asset allocation is as follows: 66.6% equities, 0% bonds, 4.4% crypto, 13.5% real estate, and 15.5% cash[^1].
+Throughout the year, I saved 28.8% of my gross income (42.4% net income) and donated 8.0% of my gross income (11.8% net income). My current asset allocation is as follows: 72.8% equities, 0% bonds, 3.5% crypto, 11.0% real estate, and 12.7% cash[^1].
 
 My rental property (home) is just starting to break even on operating cashflow and is slightly negative in terms of free cashflow. This is due to me putting down so little on the home. Throughout the year I've come to the conclusion that I'm content with investing in equities and don't need to rush into more real estate yet. I like where I live; real estate is more work and more stress than buying an ETF; I'm not convinced I need the leverage; and I'm not convinced real estate returns will be significantly better in the long term. This isn't to say I don't want to own more real estate — just that I'm in much less of a rush to do so.
 
@@ -234,144 +234,153 @@ Writing for my blog fell through the cracks as I focused on executing on my dail
 
 ### Career
 
-TODO
-
-- Maintain a sustainable work-life balance.
-- Advance WASI OTel to phase 2. Land it in Spin.
-- Work at coffee shops
-- Stretch goal: Give another conference talk. Stretch goal?
-- Stretch goal: Build, publish, and write about one meaningful personal project that contributes to my career trajectory.
-- Network hard inside Akamai
-- https://staysaasy.com/management/2025/12/21/ic-advice.html monthly reports to manager
+Fermyon was just acquired by Akamai so I'll be running the "new job" [playbook](/blog/2022/6-tips-for-starting-a-software-engineering-internship/).
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Maintain a sustainable work-life balance.
+- [ ] Advance WASI OTel to phase 2 and land support in Spin.
+- [ ] Network within Akamai and have 1-1's with 20 new people.
+- [ ] Spend more time outside the house working at coffee shops or the homes of friends and family.
+- [ ] Provide my manager with biweekly written [updates](https://staysaasy.com/management/2025/12/21/ic-advice.html#send-regular-updates).
+- [ ] Continue tracking my [brag document](https://jvns.ca/blog/brag-documents/).
+- [ ] Stretch goal: Give another conference talk.
+- [ ] Stretch goal: Build, publish, and write about two meaningful personal projects that contribute to my career trajectory.
 
 ### Digital Life
 
-TODO
-
-- Todoist, obsidian for personal, obsidian for work, google keep (how to relate to obsidian), my recipe app
-- Sunday digital sabbaths
-- Delete instagram
-- Phone bed times
-- No social media on phone
-- No phone in room overnight
-- Figure out dropbox google drive file situation
+Success here looks like less. Consolidate tools. Spend less time on social media. Spend less time on my phone.
 
 {{< begin_task_list >}}
 
-- [x] Keep organizing my life with use of Todoist, Google Keep, and Obsidian.
-- [ ] Stretch goal: Don't use my phone between 9pm and 9am.
+- [ ] Consolidate cloud storage on Dropbox or Google Drive.
+- [ ] Decide on how I want Obsidian and Google Keep to play together[^2].
+- [ ] Run a tight ship with Todoist.
+- [ ] Continue to add recipes to my personal [recipe site](https://cook.calebschoepp.com).
+- [ ] Charge my phone outside the bedroom.
+- [ ] Brick my phone between 9pm and 9am.
+- [ ] Keep Instagram and YouTube and other addictive social media off my phone.
 - [ ] Stretch goal: Spend one Sunday a month not using digital devices.
-- [x] Stretch goal: Try not using social media for a month.
+- [ ] Stretch goal: Delete my Instagram account.
 
 ### Faith
 
-TODO
-
-3 day fast
-weekly fasting
-finish first read through of the bible
-habit of praryer, journal, bible 4 mornings a week
-Stretch: Monthly sabbath (digital sabbtah)
-Stretch: Day long solitued retreat
-Rizn
-Weekly bible study/connect group
-
-- [ ] Build a habit of reading the Bible and praying four mornings a week.
-- [x] Read 12 books of the Bible.
-- [ ] Spend one Sunday a month sabbathing.
-- [ ] Stretch goal: Spend one hour a week in solitude.
-- [ ] Stretch goal: Do a weekend-long solitude retreat.
+The themes for this year are discipleship and fellowship.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Continue with youth leading at RIZN.
+- [ ] Attend a Bible study or connect group weekly.
+- [ ] Build a habit of reading the Bible and praying four mornings a week.
+- [ ] Build a regular habit of fasting and praying once a week.
+- [ ] Do a three day water fast during Celebration's week of prayer and fasting.
+- [ ] Finish my first read through of the Bible.
+- [ ] Spend one Sunday a month sabbathing.
+- [ ] Stretch goal: Do a day-long solitude retreat.
 
 ### Finances
 
-TODO
-
-- 40/40/20 rule for marginal dollars
+Last year I did a really good job automating my finances, simplifying my strategy, and consolidating my accounts. This year I want to keep it on auto-pilot and codify my philosophy. A good year looks like making very few changes to my financial setup.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Use a budgeting tool like YNAB all year.
+- [ ] Save at least 25% of my gross income.
+- [ ] Donate at least 10% of my gross income.
+- [ ] Cap my salary and allocate marginal dollars as follows: 40% invested, 40% donated, 20% for me.
+- [ ] Stretch goal: Write a personal investment policy statement[^3].
+- [ ] Stretch goal: Write a personal finance operating policy[^4].
 
 ### Music
 
-TODO
-
-- RCM 4
-- Piano and recitals
-- Justin guitar module 3
-- Stretch: Justin 4
-- Practice piano daily
+I think I have at least one more year in me of wanting to prioritize piano over guitar.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Continue to create a back catalog of voice notes with song ideas.
+- [ ] Take piano lessons all year and perform in recitals.
+- [ ] Practice piano daily.
+- [ ] Pass level 4 RCM piano exam.
+- [ ] Complete RCM theory level 5.
+- [ ] Compose two piano pieces complete with sheet music.
+- [ ] Organize jam sessions with friends.
+- [ ] Complete Justin Guitar Grade 3.
+- [ ] Stretch goal: Complete Justin Guitar Grade 4.
+- [ ] Stretch goal: Release one mixed and mastered song on SoundCloud.
+- [ ] Stretch goal: Organize and perform a small concert at a senior center over Christmas.
+- [ ] Stretch goal: Learn to use a looper with [this](https://learnpracticeplay.com/loop-school-signup/) course.
 
 ### Physical Health
 
-TODO
-
-- Sinister 7
-- Hypothermic half
-- Stretch: Pull ups
-- New Zealand half ironman
-- Full ironman
-- Minimum one lifting session a week for rest of my life
-- Stretch: Squat 1.25x weight, bench 1x weight, deadlift 1.5x weight https://jeffnippard.com/blogs/news/how-strong-should-you-be-noob-to-freak-1
+I'm aware that my goals in this category are a touch beyond insane, but hey a guy can dream right? Last year's progress has left me feeling like I can tackle anything.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Play hockey once a week.
+- [ ] Keep training hard for races guided by a triathlon coach[^5].
+- [ ] Continue to lift heavy once a week even through triathlon training.
+- [ ] Finish faster than my brother-in-law in a half Ironman.
+- [ ] Finish an Ironman.
+- [ ] Do leg 5 of the Sinister 7.
+- [ ] Run the Hypothermic Half Marathon.
+- [ ] Compete in local Aquathlons with chance to qualify for worlds.
+- [ ] Compete in SwimRun Edmonton race.
+- [ ] Train by myself less.
+- [ ] Stretch goal: Take some power skating lessons.
+- [ ] Stretch goal: Be able to do a pullup by the end of the year.
 
 ### Reading
 
-TODO
+Same goal as last year. It's not ambitious, but rather is more of a baseline of how much I want to read.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Read 10+ books.
 
 ### Relationships
 
-TODO
-
-- Meet someone
-- DINNER PARTIES
-- Block party
+Last year I learned I really love hosting so I want to emphasize that this year. I also want to make sure I'm spending lots of time with friends. The logistics of finding a time to grab a coffee or workout together is annoying but it is so worth it.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Prioritize and maintain relationships with my family and close friends.
+- [ ] Schedule a coffee, lunch, or workout with a friend or family once a week.
+- [ ] Host a block party BBQ.
+- [ ] Host 10+ casual dinner parties
+- [ ] Be content in my season of singleness while being prepared to de-emphasize my other goals if I enter into a relationship.
+- [ ] Meet someone[^6].
 
 ### Travel and Adventure
 
-TODO
-
-Go skiing in mountains
+Work travel is usually the impetus for my adventures and I'm not sure yet what work travel will look like with Akamai. I've included some more local goals to counteract this uncertainty.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Go skiing in the mountains for the first time.
+- [ ] Visit family in New Zealand.
+- [ ] Go hunting for the first time.
+- [ ] Work from the mountains for a week.
+- [ ] Stretch goal: Visit New York.
+- [ ] Stretch goal: Take dance lessons.
+- [ ] Stretch goal: Visit Asia.
+- [ ] Stretch goal: Go bike packing.
 
 ### Writing
 
-TODO
+I'm further shrinking my ambitions here to make room for other priorities in my life.
 
 {{< begin_task_list >}}
 
-- [ ] TODO
+- [ ] Continue to write about my race and training experiences.
+- [ ] Publish 2+ non-personal blog posts.
 
 ## Closing Thoughts
 
-TODO
-
-TODO: Add bucket list items to sections
+Writing these reviews is always such a rich experience. I enjoy looking back at the year and reminiscing over everything I experienced and achieved. And I am better off for spending the time to set my goals for the coming year. I still struggle with the exact format of this review though. By it's public nature there is a lot of private and emotional details that I have to leave out — but, I don't have another place to textually process those things. I also sometimes wish my reflection was more [free flowing](https://justinjackson.ca/2025-review) and less list and goal oriented. Potential improvements for next year.
 
 [^1]: This doesn’t represent my target allocation (which is quite different); it represents my actual allocation after any portfolio drift occurs. It’s difficult to accurately assess your current equity in a property, so I aimed conservatively 🤷. Cash represents my emergency fund and anything I’m holding liquid to later move into another asset class — it does not include money assigned to my regular budget.
+[^2]: A complete list of my digital tools for posterity's sake: Obsidian, Google Keep, Todoist, Gmail, Google Calendar, Google Recorder, Google Photos, YNAB, Goodreads, Feeder, Strava, and Hevy.
+[^3]: A one pager to capture things like target allocation, risk tolerance, rebalancing rules, rules for changing strategy (job loss, marriage, kids, fear, etc.).
+[^4]: A one pager to capture things like budgeting philosophy, income cap, use of marginal dollars, charitable giving strategy, etc.
+[^5]: Should I need to deprioritize this because I lose interest or need to focus on other things I would want to fall back to a minimum of three strength or cardio workouts a week.
+[^6]: This sounds like a outcome oriented goal, but I truly mean it in a process oriented sense. You can't just control something like this.
