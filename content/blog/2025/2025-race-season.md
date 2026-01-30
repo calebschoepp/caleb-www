@@ -67,7 +67,14 @@ TODO
 {{% callout %}}
 **🏆 Do North Sprint Triathlon Results — August 23, 2025 🏆**
 
-TODO
+- 750 m swim — 14:17 (watch time).
+- T1 - 2:39 (watch time).
+- 20 km bike — 35:28 (watch time).
+- T2 - 2:17 (watch time).
+- 5 km run — 23:33 (watch time).
+- Overall time — 1:18:21 (chip time).
+
+Finished 12/28 in my age group (males 20-29).
 {{% / callout %}}
 
 TODO
