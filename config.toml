@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Caleb Schoepp"
 theme = "caleb-www-theme"
-googleAnalytics = "UA-129268689-2"
 enableRobotsTXT = true
 [author]
   name = "Caleb Schoepp"
