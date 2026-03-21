@@ -288,6 +288,7 @@ Last year I did a really good job automating my finances, simplifying my strateg
 - [ ] Save at least 25% of my gross income.
 - [ ] Donate at least 10% of my gross income.
 - [ ] Cap my salary and allocate marginal dollars as follows: 40% invested, 40% donated, 20% for me.
+- [ ] Get a will and personal directive.
 - [ ] Stretch goal: Write a personal investment policy statement[^3].
 - [ ] Stretch goal: Write a personal finance operating policy[^4].
 
