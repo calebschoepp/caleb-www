@@ -6,12 +6,14 @@ command = "hugo --gc --minify"
 HUGO_VERSION = "0.148.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+NODE_VERSION = "20"
 
 [context.deploy-preview]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.148.1"
+NODE_VERSION = "20"
 
 [[redirects]]
   from = "/*"
