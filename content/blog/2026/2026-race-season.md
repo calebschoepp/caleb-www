@@ -1,4 +1,10 @@
-TODO:
+---
+title: "2026 Race Season"
+date: 2026-12-01
+draft: true
+isFavorite: false
+categories: ["personal"]
+---
 
 Winter Aquathlon 1
 
@@ -14,3 +20,11 @@ Winter Aquathlon 1
 - Slower run but I had enough gas in the tank to pick up my pace in the last bit which I thought was a good sign
 - This guy Shae Kelly (I'm sure you know him) was there and totally smoked me by 10 min in my age bracket haha. No worries I was running my own race.
 - https://zone4.ca/race/2026-01-11/fc43697a/results
+
+Winter Aquathlon 2
+
+TODO
+
+IRONMAN 70.3 New Zealand
+
+TODO
