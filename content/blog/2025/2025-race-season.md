@@ -36,7 +36,11 @@ Adam was right. As I lined up in the starting corral the anthem began to play an
 Finished 73/2042 overall and 5/79 in my age group (males 25-29).
 {{% / callout %}}
 
-TODO
+Shortly after Vancouver Patrick convinced me to do a beer mile with him and some of his friends. I was hesitant at first, but ultimately decided it'd be fun to try once. As a card carrying celiac I couldn't drink beer and regardless I'm not much of a drinker. Instead I opted for Coca-Cola — special Quebec edition Coca-Cola with maple syrup. I would come to regret this decision.
+
+We started by chugging our first bottle. I quickly was reminded that Coca-Cola burns when you try to drink it fast. Not an issue for my fellow beer drinkers. Worse than the burn though was the sickly sweetness. My four opponents were fast drinkers and runners so right off the bat I was left in the dust by all but one. No worries though. I was just hoping to not come in last. The laps came and past quickly with each bottle of Coke getting harder to down. Much to my joy one of my opponents DNF'd on the first bottle so I was guaranteed at least second last. Towards the end I made a surprising leap to third last as another opponent DNF'd for puking. Not too shabby.
+
+Immediately following the race I was riding an insane sugar high. I was buzzing with energy while my fellow beer drinkers were down in the dumps. However, as my sugar high wore off and the alcohol set in the mood reversed pretty quickly. All things considered I would do it again.
 
 {{% callout %}}
 **🏆 Beer Mile Results — May 18, 2025 🏆**
@@ -45,6 +49,10 @@ TODO
 
 Finished 4/5 overall and 1/1 in my age group (males 25-29).
 {{% / callout %}}
+
+The next race on the calendar was the Great White North Olympic Triathlon in July where I was hoping to beat my brother-in-law Patrick. In late June my coach Jason organized a three day open water swim camp that I attended with Patrick. Historically I've been terrified of open water swimming and mass starts so this was a great learning opportunity. The most memorable part was the repeated mass start practice we did where the coaches kept corralling us closer and closer together as we floated in pack formation in the middle of the lake. Then they'd shout go and we'd all start swimming like mad. There were people beside me, in front of me, over me, under me and everywhere else you could imagine. Limbs flailed around carelessly. It was terrifying. But, doing it so many times removed the terror from it. I learned to be okay with not having my own personal space for swimming. I also enjoyed learning to draft and the overall bump in my swim volume for that week.
+
+Eventually race day came
 
 TODO
 
@@ -128,3 +136,10 @@ Race maps would be cool
 adam telling me to yolo based on anthem and he was right
 
 TODO: Fix tenses
+
+Edit skill
+
+- Punctuation
+- Consistency
+- Spelling and grammar
+- Clarity
