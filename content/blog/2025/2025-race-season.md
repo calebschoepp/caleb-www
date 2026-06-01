@@ -52,11 +52,11 @@ Finished 4/5 overall and 1/1 in my age group (males 25-29).
 
 The next race on the calendar was the Great White North Olympic Triathlon in July where I was hoping to beat my brother-in-law Patrick. In late June my coach Jason organized a three day open water swim camp that I attended with Patrick. Historically I've been terrified of open water swimming and mass starts so this was a great learning opportunity. The most memorable part was the repeated mass start practice we did where the coaches kept corralling us closer and closer together as we floated in pack formation in the middle of the lake. Then they'd shout go and we'd all start swimming like mad. There were people beside me, in front of me, over me, under me and everywhere else you could imagine. Limbs flailed around carelessly. It was terrifying. But, doing it so many times removed the terror from it. I learned to be okay with not having my own personal space for swimming. I also enjoyed learning to draft and the overall bump in my swim volume for that week.
 
-Eventually race day came
+Eventually race day came. It was a rainy morning, but that cleared up and made for cool race conditions. In the warmup swim the water was pleasantly warm. Patrick and I did our pre-race prayer together and then got to the start line. The start was pretty hectic and I quickly got ahead of Patrick. Thanks to my open water practice I didn't panic this time. Instead I kept calm by talking to myself and negotiating with my lizard brain that everything was okay. On the aussie exit coming into the second lap I got too excited and ran to fast. As I got back in the water I had to slow down a bit to catch my breath. Towards the end of the second lap I picked up my pace though. Overall I was quite happy with the swim.
 
-TODO
+T1 went well and I enjoyed experiencing the ease of a trisuit for the first time. The bike was a pretty straightforward affair where I focused on hydrating and eating well. The first time I saw Patrick he was only a few minutes behind me which lit a fire under my butt. However, the next time I saw him he was tens of minutes behind me. At the time I thought he was just slow, but in fact he had to deal with a flat. Regardless, I knew I was basically guaranteed to win at this point.
 
-June 20-22 Open water swim camp
+Out on the run I ran my fastest ever 10k while still feeling well within my limits. No visits to the pain cave were made. For a good chunk I was following directly on the heels of my now friend Kurt — I didn't know him at the time. When he eventually blew up I powered through and sprinted to the finish line.
 
 {{% callout %}}
 **🥉 Great White North Olympic Triathlon Results — July 6, 2025 🥉**
@@ -71,7 +71,7 @@ June 20-22 Open water swim camp
 Finished 12/125 overall and 3/9 in my age group (males 21-29).
 {{% / callout %}}
 
-TODO
+The rest of the summer was filled with some fun B races. The first was the St. Albert Sprint Triathlon. In this race I pushed a lot closer to the edge than I had in other races. I was the first out of the water in my lane after a hard driving swim on a 2-stroke breathing pattern. On the bike I pushed harder than I ever had before passing lots of people. Although, once the faster racers in the following heats got on the course they quickly passed me. My intensity was high enough on the bike that I took in very little water and nutrition because my gut couldn't tolerate it. Out on the run I learned I had overcooked the bike because I was dying to barely hold on to a sub 5 min/km pace. I couldn't stop looking at my watch! The pacing wasn't perfect, but the results were a noticeable improvement.
 
 {{% callout %}}
 **🏆 St. Albert Sprint Triathlon Results — August 10, 2025 🏆**
@@ -86,7 +86,7 @@ TODO
 Finished 26/130 overall and 4/7 in my age group (males 25-29).
 {{% / callout %}}
 
-TODO
+The second B race was the Do North Sprint Triathlon. This is one of my favorite sprint triathlon courses. My brother Jon was also racing in a different heat. In the swim I felt exceptionally exhausted but it turns out that was just because I was setting a new PB. I had forgotten to pre-untie my runners so that waylaid me in T2. Out on the run course I held on to a sub 5 min/km pace more manageably this time. Best of all a whole gaggle of people I knew were at the finish line were there to cheer me on. Having that many fans was a rare and special treat for me.
 
 {{% callout %}}
 **🏆 Do North Sprint Triathlon Results — August 23, 2025 🏆**
@@ -101,7 +101,11 @@ TODO
 Finished 12/28 in my age group (males 20-29).
 {{% / callout %}}
 
-TODO
+After my failed marathon attempt earlier in the season I was determined to make it happen within the year. I was looking for a race late enough in the year to give me enough time to build the running volume I needed. I was considering doing the Regina marathon but the timing was tight. I was also considering just running a marathon in the river valley by myself just to say I had done it. In a fortunate turn of events though I had learned from a fellow racer at the Great White North that the Victoria marathon still had some last minute openings so I pulled the trigger and signed up.
+
+Training for the marathon entered me into new territory for running volumes which was a little scary from an injury perspective. I missed the relative comfort of multi-modal triathlon training. Marathon training was just a lot of pounding pavement which was hard on my legs. Thankfully no injuries ruined my build though. I peaked at 70 km week, but realistically was holding something closer to 40 km a week for a sustained period of time. My peak weeks ended up being during some travel to Europe. For my biggest long run I had some niggles I was worried about so I opted to run it around a track I found in Paris to avoid any irregularities in the ground. It was raining that day too. Quite the test of my mental fortitude running 29 km around a track. I fondly remember this one French boy who would cheer me on each lap though!
+
+When the time came I flew to Victoria and was lucky enough to stay with some old friend who lived right near the start line. One of the friends Rebecca was also taking part in the half marathon. Race day ended up being on and off rainy which I welcomed because I run faster in cool conditions.
 
 {{% callout %}}
 **🏆 Victoria Marathon Results — October 12, 2025 🏆**
@@ -119,21 +123,10 @@ Mileage charts could be cool
 Race photos would be cool
 Race maps would be cool
 
-- Beer mile
-- Pickeball
-- Hockey
 - Checked off all parts of ironman individually
-- Triathlon coach
-- Marthaon
-- 8km run
-- 3 Triathlons
-- Hockey
-- Indoor outdoor swim camps
 - Very busy and time consuming but holy smokes do I love it
 - Diet not necessarily bad but not massively changed. Eat so much with my training
 - Racing and training with brothers
-
-adam telling me to yolo based on anthem and he was right
 
 TODO: Fix tenses
 
