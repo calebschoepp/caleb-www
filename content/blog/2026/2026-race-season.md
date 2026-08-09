@@ -87,3 +87,29 @@ TODO
 - Bike was pretty nice. A few life ending pot holes too dodge but overall pretty good. Biking the airstrip felt like a headwind both ways. Occasional odd pockets where it would open up and feel like there was no wind. My hamstrings were clenching fierce and were my limiting factor. Spent about as much time in aerobars as I could hope to
 - T2 was good but felt like crap running my bike in
 - Got out on run course and settled into what my body naturally wanted to run which was about 4:30/km. For the first 2 km I wasn't sure I could hold it but then I got far enough that I resolved to just push through and hold it. Sprinted through to the finish line. Beat 1:25:00 time so I "beat the base".
+
+### Beaumont
+
+- Not very many racers
+- Underestimated swim speed and should have been in front of the group of 3 so I had to do some awkward passing
+- Slow T1 b/c it was raining outside so everything was soaked
+- Awful bike course. 1k loop with hairpin turns on each end. At least I could see my relative position though. Kept ping ponging with this lady who was lighter than me.
+- Out on the run quickly saw I was 3rd of the guys and 4th overall. Wasn't quite able to hold the pace I wanted
+
+### Sin 7
+
+- Lots of fun.
+- Almost had to do other legs but ended up sticking with 5
+- Overall team experience and stats
+- Airbnb was dope
+- Weird to start my race so late in day
+- Felt gaslit about how much walking I had to do
+- Can't decide if I would have wanted to have poles or not
+- Cruised through the aid stations
+- Headlamp on once I was into the forest
+- Ran with girl from saskatchewan for a bit who was trying to keep up with me
+- Then ran with a guy for awhile
+- Absolutely flying down the hills
+- Legs blew up around 2nd aid station and I slowed way down because of my right IT band
+- They didn't recognize me when I cam in because it was so dark
+- That one gully was hella deep
