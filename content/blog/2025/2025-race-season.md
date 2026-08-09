@@ -1,7 +1,7 @@
 ---
 title: "2025 Race Season"
 date: 2025-12-28
-draft: true
+draft: false
 isFavorite: false
 categories: ["personal"]
 ---
@@ -105,7 +105,17 @@ After my failed marathon attempt earlier in the season I was determined to make 
 
 Training for the marathon entered me into new territory for running volumes which was a little scary from an injury perspective. I missed the relative comfort of multi-modal triathlon training. Marathon training was just a lot of pounding pavement which was hard on my legs. Thankfully no injuries ruined my build though. I peaked at 70 km week, but realistically was holding something closer to 40 km a week for a sustained period of time. My peak weeks ended up being during some travel to Europe. For my biggest long run I had some niggles I was worried about so I opted to run it around a track I found in Paris to avoid any irregularities in the ground. It was raining that day too. Quite the test of my mental fortitude running 29 km around a track. I fondly remember this one French boy who would cheer me on each lap though!
 
-When the time came I flew to Victoria and was lucky enough to stay with some old friend who lived right near the start line. One of the friends Rebecca was also taking part in the half marathon. Race day ended up being on and off rainy which I welcomed because I run faster in cool conditions.
+When the time came I flew to Victoria and was lucky enough to stay with some old friend who lived right near the start line. One of the friends Rebecca was also taking part in the half marathon. Unfortunately I had become really sick with a head cold the night before and the race and I was not sure how I would fair. Miraculously I woke up on race day feeling ok — as if my body sensed I just needed to feel good for the morning. The day ended up being on and off rainy which typically means I run faster because I don't over heat.
+
+For the first few kilometers I felt nervous and sluggish, but I quickly settled into a very comfortable pace and felt great. I was following the 3:50 pacer and was about 100 meters behind them because it was so congested with runners. My baseline goal was to get sub four hours, but ambitiously I really wanted to beat my brother-in-law's marathon PB which required a much more ambitious. I ended up running with a sticky note that told me the new target pace I would have to run to beat his PB depending on how late I started that pace. As I continued to feel good I decided that if I still felt fine at 20 km I would break off from the pacer group and go for it. Note that by that point I had started to run right by the pacer and he was amazing — really encouraging and talkative.
+
+As I had promised myself I was still feeling good at 20 km and I picked up my pace. In hindsight I didn't pick up the pace as much as thought I did. I remember running around a square park and seeing the pacer group not that far behind me. Aerobically I continued to feel amazing, but at 38 km I discovered what a beast the marathon is and my legs started to catch up to me. They not only felt heavy but I slowly felt both my IT bands tightening up and seizing. Eventually I reached a point where I just physically couldn't keep running. For the rest of the race I walk/ran in lots of pain.
+
+All the people I had passed started reeling in me. Then the pacer group passed me. I tried running with them for a bit but just couldn't manage it. This was devastating because if I hadn't been so ambitious I probably would have finished with them. It was around this point that a family friend was spectating and ran with me for a bit. That certainly urged me on and to be honest I was embarrassed to walk in front of them so I just kept running. On top of my legs completely falling apart my left shoulder was bothering me and had become extremely painful. In the last kilometer and fan chute all I could think about was crossing that finish line and stopping running.
+
+Once I crossed the finish line I was in shambles. My body was shivering from the rain, my legs and shoulder were destroyed, and I was definitely in a state of shock. I remember just lying down on the grass not knowing if I should be laughing or crying. It sounds silly but it was an amazing experience pushing both my body and mind so far.
+
+Post race my friends helped me shamble back to their place and then I spent the rest of the day sitting on the couch eating and watching the F1 movie. The next day I ended up on a redeye flight to Montreal which I can tell you is not ideal post-marathon recovery.
 
 {{% callout %}}
 **🏆 Victoria Marathon Results — October 12, 2025 🏆**
@@ -115,24 +125,6 @@ When the time came I flew to Victoria and was lucky enough to stay with some old
 Finished 1204/3220 overall and 208/433 in my age group (males 25-29).
 {{% / callout %}}
 
-TODO
+To cap off the year I ended up doing a week long indoor swim camp with my coach Jason. My technique improved massively during this concentrated effort.
 
-December 26 - January 1 Indoor swim camp
-
-Mileage charts could be cool
-Race photos would be cool
-Race maps would be cool
-
-- Checked off all parts of ironman individually
-- Very busy and time consuming but holy smokes do I love it
-- Diet not necessarily bad but not massively changed. Eat so much with my training
-- Racing and training with brothers
-
-TODO: Fix tenses
-
-Edit skill
-
-- Punctuation
-- Consistency
-- Spelling and grammar
-- Clarity
+It was a big year and I'm really proud of everything I did. It was exhausting at times, but I grew so much and enjoyed racing and training with my brothers.
